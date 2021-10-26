@@ -1,0 +1,593 @@
+C:\Users\Meu computador\source\repos\StopHereProject\BusinessLogicalLayer\bin\Debug\net5.0\Entities.dll
+C:\Users\Meu computador\source\repos\StopHereProject\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csprojAssemblyReference.cache
+C:\Users\Meu computador\source\repos\StopHereProject\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meu computador\source\repos\StopHereProject\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.AssemblyInfoInputs.cache
+C:\Users\Meu computador\source\repos\StopHereProject\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.AssemblyInfo.cs
+C:\Users\Meu computador\source\repos\StopHereProject\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.deps.json
+C:\Users\Meu computador\source\repos\StopHereProject\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.dll
+C:\Users\Meu computador\source\repos\StopHereProject\BusinessLogicalLayer\bin\Debug\net5.0\ref\BusinessLogicalLayer.dll
+C:\Users\Meu computador\source\repos\StopHereProject\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.pdb
+C:\Users\Meu computador\source\repos\StopHereProject\BusinessLogicalLayer\bin\Debug\net5.0\Entities.pdb
+C:\Users\Meu computador\source\repos\StopHereProject\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.CoreCompileInputs.cache
+C:\Users\Meu computador\source\repos\StopHereProject\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.CopyComplete
+C:\Users\Meu computador\source\repos\StopHereProject\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.dll
+C:\Users\Meu computador\source\repos\StopHereProject\BusinessLogicalLayer\obj\Debug\net5.0\ref\BusinessLogicalLayer.dll
+C:\Users\Meu computador\source\repos\StopHereProject\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.pdb
+C:\C#\StopHereProject\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.deps.json
+C:\C#\StopHereProject\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.dll
+C:\C#\StopHereProject\BusinessLogicalLayer\bin\Debug\net5.0\ref\BusinessLogicalLayer.dll
+C:\C#\StopHereProject\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.pdb
+C:\C#\StopHereProject\BusinessLogicalLayer\bin\Debug\net5.0\Entities.dll
+C:\C#\StopHereProject\BusinessLogicalLayer\bin\Debug\net5.0\Entities.pdb
+C:\C#\StopHereProject\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.AssemblyReference.cache
+C:\C#\StopHereProject\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\StopHereProject\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.AssemblyInfoInputs.cache
+C:\C#\StopHereProject\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.AssemblyInfo.cs
+C:\C#\StopHereProject\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.CoreCompileInputs.cache
+C:\C#\StopHereProject\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.CopyComplete
+C:\C#\StopHereProject\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.dll
+C:\C#\StopHereProject\BusinessLogicalLayer\obj\Debug\net5.0\ref\BusinessLogicalLayer.dll
+C:\C#\StopHereProject\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.pdb
+C:\Users\moc\Documents\Thiago Radunz C# Oficial\Entra21ThiagoCSharp\MVC\StopHereProject\StopHereProject\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.deps.json
+C:\Users\moc\Documents\Thiago Radunz C# Oficial\Entra21ThiagoCSharp\MVC\StopHereProject\StopHereProject\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.dll
+C:\Users\moc\Documents\Thiago Radunz C# Oficial\Entra21ThiagoCSharp\MVC\StopHereProject\StopHereProject\BusinessLogicalLayer\bin\Debug\net5.0\ref\BusinessLogicalLayer.dll
+C:\Users\moc\Documents\Thiago Radunz C# Oficial\Entra21ThiagoCSharp\MVC\StopHereProject\StopHereProject\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.pdb
+C:\Users\moc\Documents\Thiago Radunz C# Oficial\Entra21ThiagoCSharp\MVC\StopHereProject\StopHereProject\BusinessLogicalLayer\bin\Debug\net5.0\DataInfrastructure.dll
+C:\Users\moc\Documents\Thiago Radunz C# Oficial\Entra21ThiagoCSharp\MVC\StopHereProject\StopHereProject\BusinessLogicalLayer\bin\Debug\net5.0\Entities.dll
+C:\Users\moc\Documents\Thiago Radunz C# Oficial\Entra21ThiagoCSharp\MVC\StopHereProject\StopHereProject\BusinessLogicalLayer\bin\Debug\net5.0\DataInfrastructure.pdb
+C:\Users\moc\Documents\Thiago Radunz C# Oficial\Entra21ThiagoCSharp\MVC\StopHereProject\StopHereProject\BusinessLogicalLayer\bin\Debug\net5.0\Entities.pdb
+C:\Users\moc\Documents\Thiago Radunz C# Oficial\Entra21ThiagoCSharp\MVC\StopHereProject\StopHereProject\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csprojAssemblyReference.cache
+C:\Users\moc\Documents\Thiago Radunz C# Oficial\Entra21ThiagoCSharp\MVC\StopHereProject\StopHereProject\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moc\Documents\Thiago Radunz C# Oficial\Entra21ThiagoCSharp\MVC\StopHereProject\StopHereProject\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.AssemblyInfoInputs.cache
+C:\Users\moc\Documents\Thiago Radunz C# Oficial\Entra21ThiagoCSharp\MVC\StopHereProject\StopHereProject\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.AssemblyInfo.cs
+C:\Users\moc\Documents\Thiago Radunz C# Oficial\Entra21ThiagoCSharp\MVC\StopHereProject\StopHereProject\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.CoreCompileInputs.cache
+C:\Users\moc\Documents\Thiago Radunz C# Oficial\Entra21ThiagoCSharp\MVC\StopHereProject\StopHereProject\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.CopyComplete
+C:\Users\moc\Documents\Thiago Radunz C# Oficial\Entra21ThiagoCSharp\MVC\StopHereProject\StopHereProject\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.dll
+C:\Users\moc\Documents\Thiago Radunz C# Oficial\Entra21ThiagoCSharp\MVC\StopHereProject\StopHereProject\BusinessLogicalLayer\obj\Debug\net5.0\ref\BusinessLogicalLayer.dll
+C:\Users\moc\Documents\Thiago Radunz C# Oficial\Entra21ThiagoCSharp\MVC\StopHereProject\StopHereProject\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.pdb
+C:\Users\moc\Downloads\StopHereProject\StopHereProject\StopHereProject\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.deps.json
+C:\Users\moc\Downloads\StopHereProject\StopHereProject\StopHereProject\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.dll
+C:\Users\moc\Downloads\StopHereProject\StopHereProject\StopHereProject\BusinessLogicalLayer\bin\Debug\net5.0\ref\BusinessLogicalLayer.dll
+C:\Users\moc\Downloads\StopHereProject\StopHereProject\StopHereProject\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.pdb
+C:\Users\moc\Downloads\StopHereProject\StopHereProject\StopHereProject\BusinessLogicalLayer\bin\Debug\net5.0\DataInfrastructure.dll
+C:\Users\moc\Downloads\StopHereProject\StopHereProject\StopHereProject\BusinessLogicalLayer\bin\Debug\net5.0\Entities.dll
+C:\Users\moc\Downloads\StopHereProject\StopHereProject\StopHereProject\BusinessLogicalLayer\bin\Debug\net5.0\DataInfrastructure.pdb
+C:\Users\moc\Downloads\StopHereProject\StopHereProject\StopHereProject\BusinessLogicalLayer\bin\Debug\net5.0\Entities.pdb
+C:\Users\moc\Downloads\StopHereProject\StopHereProject\StopHereProject\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csprojAssemblyReference.cache
+C:\Users\moc\Downloads\StopHereProject\StopHereProject\StopHereProject\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moc\Downloads\StopHereProject\StopHereProject\StopHereProject\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.AssemblyInfoInputs.cache
+C:\Users\moc\Downloads\StopHereProject\StopHereProject\StopHereProject\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.AssemblyInfo.cs
+C:\Users\moc\Downloads\StopHereProject\StopHereProject\StopHereProject\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.CoreCompileInputs.cache
+C:\Users\moc\Downloads\StopHereProject\StopHereProject\StopHereProject\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.CopyComplete
+C:\Users\moc\Downloads\StopHereProject\StopHereProject\StopHereProject\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.dll
+C:\Users\moc\Downloads\StopHereProject\StopHereProject\StopHereProject\BusinessLogicalLayer\obj\Debug\net5.0\ref\BusinessLogicalLayer.dll
+C:\Users\moc\Downloads\StopHereProject\StopHereProject\StopHereProject\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.pdb
+C:\Users\moc\Documents\TRABALHO FINAL\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.deps.json
+C:\Users\moc\Documents\TRABALHO FINAL\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.dll
+C:\Users\moc\Documents\TRABALHO FINAL\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\bin\Debug\net5.0\ref\BusinessLogicalLayer.dll
+C:\Users\moc\Documents\TRABALHO FINAL\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.pdb
+C:\Users\moc\Documents\TRABALHO FINAL\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\bin\Debug\net5.0\DataInfrastructure.dll
+C:\Users\moc\Documents\TRABALHO FINAL\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\bin\Debug\net5.0\Entities.dll
+C:\Users\moc\Documents\TRABALHO FINAL\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\bin\Debug\net5.0\DataInfrastructure.pdb
+C:\Users\moc\Documents\TRABALHO FINAL\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\bin\Debug\net5.0\Entities.pdb
+C:\Users\moc\Documents\TRABALHO FINAL\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csprojAssemblyReference.cache
+C:\Users\moc\Documents\TRABALHO FINAL\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moc\Documents\TRABALHO FINAL\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.AssemblyInfoInputs.cache
+C:\Users\moc\Documents\TRABALHO FINAL\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.AssemblyInfo.cs
+C:\Users\moc\Documents\TRABALHO FINAL\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.CoreCompileInputs.cache
+C:\Users\moc\Documents\TRABALHO FINAL\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.CopyComplete
+C:\Users\moc\Documents\TRABALHO FINAL\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.dll
+C:\Users\moc\Documents\TRABALHO FINAL\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\obj\Debug\net5.0\ref\BusinessLogicalLayer.dll
+C:\Users\moc\Documents\TRABALHO FINAL\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.pdb
+C:\C#\Trabalhos\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.deps.json
+C:\C#\Trabalhos\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.dll
+C:\C#\Trabalhos\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\bin\Debug\net5.0\ref\BusinessLogicalLayer.dll
+C:\C#\Trabalhos\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.pdb
+C:\C#\Trabalhos\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\bin\Debug\net5.0\DataInfrastructure.dll
+C:\C#\Trabalhos\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\bin\Debug\net5.0\Entities.dll
+C:\C#\Trabalhos\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\bin\Debug\net5.0\DataInfrastructure.pdb
+C:\C#\Trabalhos\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\bin\Debug\net5.0\Entities.pdb
+C:\C#\Trabalhos\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.AssemblyReference.cache
+C:\C#\Trabalhos\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Trabalhos\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.AssemblyInfoInputs.cache
+C:\C#\Trabalhos\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.AssemblyInfo.cs
+C:\C#\Trabalhos\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.CoreCompileInputs.cache
+C:\C#\Trabalhos\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.CopyComplete
+C:\C#\Trabalhos\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.dll
+C:\C#\Trabalhos\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\obj\Debug\net5.0\ref\BusinessLogicalLayer.dll
+C:\C#\Trabalhos\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.pdb
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\StopHereProject\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.deps.json
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\StopHereProject\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\StopHereProject\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\bin\Debug\net5.0\ref\BusinessLogicalLayer.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\StopHereProject\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.pdb
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\StopHereProject\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\bin\Debug\net5.0\DataInfrastructure.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\StopHereProject\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\bin\Debug\net5.0\Entities.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\StopHereProject\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\bin\Debug\net5.0\DataInfrastructure.pdb
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\StopHereProject\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\bin\Debug\net5.0\Entities.pdb
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\StopHereProject\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csprojAssemblyReference.cache
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\StopHereProject\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\StopHereProject\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.AssemblyInfoInputs.cache
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\StopHereProject\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.AssemblyInfo.cs
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\StopHereProject\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.CoreCompileInputs.cache
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\StopHereProject\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.CopyComplete
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\StopHereProject\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\StopHereProject\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\obj\Debug\net5.0\ref\BusinessLogicalLayer.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\StopHereProject\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.pdb
+C:\Users\moc\Documents\Thiago\StopHereProject\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csprojAssemblyReference.cache
+C:\Users\moc\Documents\Thiago\StopHereProject\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moc\Documents\Thiago\StopHereProject\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.AssemblyInfoInputs.cache
+C:\Users\moc\Documents\Thiago\StopHereProject\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.AssemblyInfo.cs
+C:\Users\moc\Documents\Thiago\StopHereProject\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.CoreCompileInputs.cache
+C:\Users\moc\Documents\Thiago\StopHereProject\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.dll
+C:\Users\moc\Documents\Thiago\StopHereProject\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\obj\Debug\net5.0\ref\BusinessLogicalLayer.dll
+C:\Users\moc\Documents\Thiago\StopHereProject\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.pdb
+C:\Users\moc\Documents\Thiago\StopHereProject\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.deps.json
+C:\Users\moc\Documents\Thiago\StopHereProject\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.dll
+C:\Users\moc\Documents\Thiago\StopHereProject\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\bin\Debug\net5.0\ref\BusinessLogicalLayer.dll
+C:\Users\moc\Documents\Thiago\StopHereProject\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.pdb
+C:\Users\moc\Documents\Thiago\StopHereProject\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\bin\Debug\net5.0\DataInfrastructure.dll
+C:\Users\moc\Documents\Thiago\StopHereProject\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\bin\Debug\net5.0\Entities.dll
+C:\Users\moc\Documents\Thiago\StopHereProject\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\bin\Debug\net5.0\DataInfrastructure.pdb
+C:\Users\moc\Documents\Thiago\StopHereProject\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\bin\Debug\net5.0\Entities.pdb
+C:\Users\moc\Documents\Thiago\StopHereProject\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.CopyComplete
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.deps.json
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\bin\Debug\net5.0\ref\BusinessLogicalLayer.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.pdb
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\bin\Debug\net5.0\DataInfrastructure.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\bin\Debug\net5.0\Entities.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\bin\Debug\net5.0\DataInfrastructure.pdb
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\bin\Debug\net5.0\Entities.pdb
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csprojAssemblyReference.cache
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.AssemblyInfoInputs.cache
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.AssemblyInfo.cs
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.CoreCompileInputs.cache
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.CopyComplete
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\obj\Debug\net5.0\ref\BusinessLogicalLayer.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.pdb
+C:\Users\moc\Documents\Thiago\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.deps.json
+C:\Users\moc\Documents\Thiago\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.dll
+C:\Users\moc\Documents\Thiago\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\bin\Debug\net5.0\ref\BusinessLogicalLayer.dll
+C:\Users\moc\Documents\Thiago\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.pdb
+C:\Users\moc\Documents\Thiago\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\bin\Debug\net5.0\DataInfrastructure.dll
+C:\Users\moc\Documents\Thiago\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\bin\Debug\net5.0\Entities.dll
+C:\Users\moc\Documents\Thiago\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\bin\Debug\net5.0\DataInfrastructure.pdb
+C:\Users\moc\Documents\Thiago\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\bin\Debug\net5.0\Entities.pdb
+C:\Users\moc\Documents\Thiago\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csprojAssemblyReference.cache
+C:\Users\moc\Documents\Thiago\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moc\Documents\Thiago\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.AssemblyInfoInputs.cache
+C:\Users\moc\Documents\Thiago\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.AssemblyInfo.cs
+C:\Users\moc\Documents\Thiago\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.CoreCompileInputs.cache
+C:\Users\moc\Documents\Thiago\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.CopyComplete
+C:\Users\moc\Documents\Thiago\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.dll
+C:\Users\moc\Documents\Thiago\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\obj\Debug\net5.0\ref\BusinessLogicalLayer.dll
+C:\Users\moc\Documents\Thiago\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.pdb
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.deps.json
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\bin\Debug\net5.0\ref\BusinessLogicalLayer.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.pdb
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\bin\Debug\net5.0\DataInfrastructure.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\bin\Debug\net5.0\Entities.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\bin\Debug\net5.0\DataInfrastructure.pdb
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\bin\Debug\net5.0\Entities.pdb
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csprojAssemblyReference.cache
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.AssemblyInfoInputs.cache
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.AssemblyInfo.cs
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.CoreCompileInputs.cache
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.CopyComplete
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\obj\Debug\net5.0\ref\BusinessLogicalLayer.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject(PRINCIPAL)\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.pdb
+C:\Users\moc\Documents\Thiago\StopHereProject\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.deps.json
+C:\Users\moc\Documents\Thiago\StopHereProject\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.dll
+C:\Users\moc\Documents\Thiago\StopHereProject\BusinessLogicalLayer\bin\Debug\net5.0\ref\BusinessLogicalLayer.dll
+C:\Users\moc\Documents\Thiago\StopHereProject\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.pdb
+C:\Users\moc\Documents\Thiago\StopHereProject\BusinessLogicalLayer\bin\Debug\net5.0\DataInfrastructure.dll
+C:\Users\moc\Documents\Thiago\StopHereProject\BusinessLogicalLayer\bin\Debug\net5.0\Entities.dll
+C:\Users\moc\Documents\Thiago\StopHereProject\BusinessLogicalLayer\bin\Debug\net5.0\DataInfrastructure.pdb
+C:\Users\moc\Documents\Thiago\StopHereProject\BusinessLogicalLayer\bin\Debug\net5.0\Entities.pdb
+C:\Users\moc\Documents\Thiago\StopHereProject\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csprojAssemblyReference.cache
+C:\Users\moc\Documents\Thiago\StopHereProject\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moc\Documents\Thiago\StopHereProject\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.AssemblyInfoInputs.cache
+C:\Users\moc\Documents\Thiago\StopHereProject\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.AssemblyInfo.cs
+C:\Users\moc\Documents\Thiago\StopHereProject\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.CoreCompileInputs.cache
+C:\Users\moc\Documents\Thiago\StopHereProject\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.CopyComplete
+C:\Users\moc\Documents\Thiago\StopHereProject\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.dll
+C:\Users\moc\Documents\Thiago\StopHereProject\BusinessLogicalLayer\obj\Debug\net5.0\ref\BusinessLogicalLayer.dll
+C:\Users\moc\Documents\Thiago\StopHereProject\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.pdb
+C:\C#\Trabalhos\StopHereProject\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.deps.json
+C:\C#\Trabalhos\StopHereProject\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.dll
+C:\C#\Trabalhos\StopHereProject\BusinessLogicalLayer\bin\Debug\net5.0\ref\BusinessLogicalLayer.dll
+C:\C#\Trabalhos\StopHereProject\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.pdb
+C:\C#\Trabalhos\StopHereProject\BusinessLogicalLayer\bin\Debug\net5.0\DataInfrastructure.dll
+C:\C#\Trabalhos\StopHereProject\BusinessLogicalLayer\bin\Debug\net5.0\Entities.dll
+C:\C#\Trabalhos\StopHereProject\BusinessLogicalLayer\bin\Debug\net5.0\DataInfrastructure.pdb
+C:\C#\Trabalhos\StopHereProject\BusinessLogicalLayer\bin\Debug\net5.0\Entities.pdb
+C:\C#\Trabalhos\StopHereProject\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.AssemblyReference.cache
+C:\C#\Trabalhos\StopHereProject\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Trabalhos\StopHereProject\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.AssemblyInfoInputs.cache
+C:\C#\Trabalhos\StopHereProject\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.AssemblyInfo.cs
+C:\C#\Trabalhos\StopHereProject\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.CoreCompileInputs.cache
+C:\C#\Trabalhos\StopHereProject\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.CopyComplete
+C:\C#\Trabalhos\StopHereProject\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.dll
+C:\C#\Trabalhos\StopHereProject\BusinessLogicalLayer\obj\Debug\net5.0\ref\BusinessLogicalLayer.dll
+C:\C#\Trabalhos\StopHereProject\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.pdb
+C:\Users\moc\Desktop\StopHereProject\StopHereProject\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.deps.json
+C:\Users\moc\Desktop\StopHereProject\StopHereProject\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.dll
+C:\Users\moc\Desktop\StopHereProject\StopHereProject\BusinessLogicalLayer\bin\Debug\net5.0\ref\BusinessLogicalLayer.dll
+C:\Users\moc\Desktop\StopHereProject\StopHereProject\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.pdb
+C:\Users\moc\Desktop\StopHereProject\StopHereProject\BusinessLogicalLayer\bin\Debug\net5.0\DataInfrastructure.dll
+C:\Users\moc\Desktop\StopHereProject\StopHereProject\BusinessLogicalLayer\bin\Debug\net5.0\Entities.dll
+C:\Users\moc\Desktop\StopHereProject\StopHereProject\BusinessLogicalLayer\bin\Debug\net5.0\DataInfrastructure.pdb
+C:\Users\moc\Desktop\StopHereProject\StopHereProject\BusinessLogicalLayer\bin\Debug\net5.0\Entities.pdb
+C:\Users\moc\Desktop\StopHereProject\StopHereProject\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csprojAssemblyReference.cache
+C:\Users\moc\Desktop\StopHereProject\StopHereProject\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moc\Desktop\StopHereProject\StopHereProject\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.AssemblyInfoInputs.cache
+C:\Users\moc\Desktop\StopHereProject\StopHereProject\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.AssemblyInfo.cs
+C:\Users\moc\Desktop\StopHereProject\StopHereProject\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.CoreCompileInputs.cache
+C:\Users\moc\Desktop\StopHereProject\StopHereProject\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.CopyComplete
+C:\Users\moc\Desktop\StopHereProject\StopHereProject\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.dll
+C:\Users\moc\Desktop\StopHereProject\StopHereProject\BusinessLogicalLayer\obj\Debug\net5.0\ref\BusinessLogicalLayer.dll
+C:\Users\moc\Desktop\StopHereProject\StopHereProject\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.pdb
+C:\Users\moc\Documents\Guilherme\StopHereProject\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.deps.json
+C:\Users\moc\Documents\Guilherme\StopHereProject\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.dll
+C:\Users\moc\Documents\Guilherme\StopHereProject\BusinessLogicalLayer\bin\Debug\net5.0\ref\BusinessLogicalLayer.dll
+C:\Users\moc\Documents\Guilherme\StopHereProject\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.pdb
+C:\Users\moc\Documents\Guilherme\StopHereProject\BusinessLogicalLayer\bin\Debug\net5.0\DataInfrastructure.dll
+C:\Users\moc\Documents\Guilherme\StopHereProject\BusinessLogicalLayer\bin\Debug\net5.0\Entities.dll
+C:\Users\moc\Documents\Guilherme\StopHereProject\BusinessLogicalLayer\bin\Debug\net5.0\DataInfrastructure.pdb
+C:\Users\moc\Documents\Guilherme\StopHereProject\BusinessLogicalLayer\bin\Debug\net5.0\Entities.pdb
+C:\Users\moc\Documents\Guilherme\StopHereProject\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csprojAssemblyReference.cache
+C:\Users\moc\Documents\Guilherme\StopHereProject\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moc\Documents\Guilherme\StopHereProject\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.AssemblyInfoInputs.cache
+C:\Users\moc\Documents\Guilherme\StopHereProject\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.AssemblyInfo.cs
+C:\Users\moc\Documents\Guilherme\StopHereProject\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.CoreCompileInputs.cache
+C:\Users\moc\Documents\Guilherme\StopHereProject\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.CopyComplete
+C:\Users\moc\Documents\Guilherme\StopHereProject\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.dll
+C:\Users\moc\Documents\Guilherme\StopHereProject\BusinessLogicalLayer\obj\Debug\net5.0\ref\BusinessLogicalLayer.dll
+C:\Users\moc\Documents\Guilherme\StopHereProject\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.pdb
+C:\C#\StopHereProject\BusinessLogicalLayer\bin\Debug\net5.0\DataInfrastructure.dll
+C:\C#\StopHereProject\BusinessLogicalLayer\bin\Debug\net5.0\DataInfrastructure.pdb
+C:\Users\moc\Documents\PROJETO\gui\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.deps.json
+C:\Users\moc\Documents\PROJETO\gui\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.dll
+C:\Users\moc\Documents\PROJETO\gui\BusinessLogicalLayer\bin\Debug\net5.0\ref\BusinessLogicalLayer.dll
+C:\Users\moc\Documents\PROJETO\gui\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.pdb
+C:\Users\moc\Documents\PROJETO\gui\BusinessLogicalLayer\bin\Debug\net5.0\DataInfrastructure.dll
+C:\Users\moc\Documents\PROJETO\gui\BusinessLogicalLayer\bin\Debug\net5.0\Entities.dll
+C:\Users\moc\Documents\PROJETO\gui\BusinessLogicalLayer\bin\Debug\net5.0\DataInfrastructure.pdb
+C:\Users\moc\Documents\PROJETO\gui\BusinessLogicalLayer\bin\Debug\net5.0\Entities.pdb
+C:\Users\moc\Documents\PROJETO\gui\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csprojAssemblyReference.cache
+C:\Users\moc\Documents\PROJETO\gui\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moc\Documents\PROJETO\gui\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.AssemblyInfoInputs.cache
+C:\Users\moc\Documents\PROJETO\gui\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.AssemblyInfo.cs
+C:\Users\moc\Documents\PROJETO\gui\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.CoreCompileInputs.cache
+C:\Users\moc\Documents\PROJETO\gui\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.CopyComplete
+C:\Users\moc\Documents\PROJETO\gui\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.dll
+C:\Users\moc\Documents\PROJETO\gui\BusinessLogicalLayer\obj\Debug\net5.0\ref\BusinessLogicalLayer.dll
+C:\Users\moc\Documents\PROJETO\gui\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.pdb
+C:\C#\Trabalhos\gui\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.deps.json
+C:\C#\Trabalhos\gui\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.dll
+C:\C#\Trabalhos\gui\BusinessLogicalLayer\bin\Debug\net5.0\ref\BusinessLogicalLayer.dll
+C:\C#\Trabalhos\gui\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.pdb
+C:\C#\Trabalhos\gui\BusinessLogicalLayer\bin\Debug\net5.0\DataInfrastructure.dll
+C:\C#\Trabalhos\gui\BusinessLogicalLayer\bin\Debug\net5.0\Entities.dll
+C:\C#\Trabalhos\gui\BusinessLogicalLayer\bin\Debug\net5.0\DataInfrastructure.pdb
+C:\C#\Trabalhos\gui\BusinessLogicalLayer\bin\Debug\net5.0\Entities.pdb
+C:\C#\Trabalhos\gui\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.AssemblyReference.cache
+C:\C#\Trabalhos\gui\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Trabalhos\gui\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.AssemblyInfoInputs.cache
+C:\C#\Trabalhos\gui\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.AssemblyInfo.cs
+C:\C#\Trabalhos\gui\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.CoreCompileInputs.cache
+C:\C#\Trabalhos\gui\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.CopyComplete
+C:\C#\Trabalhos\gui\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.dll
+C:\C#\Trabalhos\gui\BusinessLogicalLayer\obj\Debug\net5.0\ref\BusinessLogicalLayer.dll
+C:\C#\Trabalhos\gui\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.pdb
+C:\Users\moc\Documents\PROJETO\gui11102021\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.deps.json
+C:\Users\moc\Documents\PROJETO\gui11102021\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.dll
+C:\Users\moc\Documents\PROJETO\gui11102021\BusinessLogicalLayer\bin\Debug\net5.0\ref\BusinessLogicalLayer.dll
+C:\Users\moc\Documents\PROJETO\gui11102021\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.pdb
+C:\Users\moc\Documents\PROJETO\gui11102021\BusinessLogicalLayer\bin\Debug\net5.0\DataInfrastructure.dll
+C:\Users\moc\Documents\PROJETO\gui11102021\BusinessLogicalLayer\bin\Debug\net5.0\Entities.dll
+C:\Users\moc\Documents\PROJETO\gui11102021\BusinessLogicalLayer\bin\Debug\net5.0\DataInfrastructure.pdb
+C:\Users\moc\Documents\PROJETO\gui11102021\BusinessLogicalLayer\bin\Debug\net5.0\Entities.pdb
+C:\Users\moc\Documents\PROJETO\gui11102021\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csprojAssemblyReference.cache
+C:\Users\moc\Documents\PROJETO\gui11102021\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moc\Documents\PROJETO\gui11102021\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.AssemblyInfoInputs.cache
+C:\Users\moc\Documents\PROJETO\gui11102021\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.AssemblyInfo.cs
+C:\Users\moc\Documents\PROJETO\gui11102021\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.CoreCompileInputs.cache
+C:\Users\moc\Documents\PROJETO\gui11102021\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.CopyComplete
+C:\Users\moc\Documents\PROJETO\gui11102021\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.dll
+C:\Users\moc\Documents\PROJETO\gui11102021\BusinessLogicalLayer\obj\Debug\net5.0\ref\BusinessLogicalLayer.dll
+C:\Users\moc\Documents\PROJETO\gui11102021\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.pdb
+C:\Users\moc\Documents\Thiago\gui11102021\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.deps.json
+C:\Users\moc\Documents\Thiago\gui11102021\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.dll
+C:\Users\moc\Documents\Thiago\gui11102021\BusinessLogicalLayer\bin\Debug\net5.0\ref\BusinessLogicalLayer.dll
+C:\Users\moc\Documents\Thiago\gui11102021\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.pdb
+C:\Users\moc\Documents\Thiago\gui11102021\BusinessLogicalLayer\bin\Debug\net5.0\DataInfrastructure.dll
+C:\Users\moc\Documents\Thiago\gui11102021\BusinessLogicalLayer\bin\Debug\net5.0\Entities.dll
+C:\Users\moc\Documents\Thiago\gui11102021\BusinessLogicalLayer\bin\Debug\net5.0\DataInfrastructure.pdb
+C:\Users\moc\Documents\Thiago\gui11102021\BusinessLogicalLayer\bin\Debug\net5.0\Entities.pdb
+C:\Users\moc\Documents\Thiago\gui11102021\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csprojAssemblyReference.cache
+C:\Users\moc\Documents\Thiago\gui11102021\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moc\Documents\Thiago\gui11102021\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.AssemblyInfoInputs.cache
+C:\Users\moc\Documents\Thiago\gui11102021\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.AssemblyInfo.cs
+C:\Users\moc\Documents\Thiago\gui11102021\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.CoreCompileInputs.cache
+C:\Users\moc\Documents\Thiago\gui11102021\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.CopyComplete
+C:\Users\moc\Documents\Thiago\gui11102021\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.dll
+C:\Users\moc\Documents\Thiago\gui11102021\BusinessLogicalLayer\obj\Debug\net5.0\ref\BusinessLogicalLayer.dll
+C:\Users\moc\Documents\Thiago\gui11102021\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.pdb
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereEmAndamento\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.deps.json
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereEmAndamento\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereEmAndamento\BusinessLogicalLayer\bin\Debug\net5.0\ref\BusinessLogicalLayer.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereEmAndamento\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.pdb
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereEmAndamento\BusinessLogicalLayer\bin\Debug\net5.0\DataInfrastructure.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereEmAndamento\BusinessLogicalLayer\bin\Debug\net5.0\Entities.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereEmAndamento\BusinessLogicalLayer\bin\Debug\net5.0\DataInfrastructure.pdb
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereEmAndamento\BusinessLogicalLayer\bin\Debug\net5.0\Entities.pdb
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereEmAndamento\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csprojAssemblyReference.cache
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereEmAndamento\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereEmAndamento\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.AssemblyInfoInputs.cache
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereEmAndamento\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.AssemblyInfo.cs
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereEmAndamento\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.CoreCompileInputs.cache
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereEmAndamento\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.CopyComplete
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereEmAndamento\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereEmAndamento\BusinessLogicalLayer\obj\Debug\net5.0\ref\BusinessLogicalLayer.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereEmAndamento\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.pdb
+C:\C#\Trabalhos\StopHereFeriadoCodando\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.deps.json
+C:\C#\Trabalhos\StopHereFeriadoCodando\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.dll
+C:\C#\Trabalhos\StopHereFeriadoCodando\BusinessLogicalLayer\bin\Debug\net5.0\ref\BusinessLogicalLayer.dll
+C:\C#\Trabalhos\StopHereFeriadoCodando\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.pdb
+C:\C#\Trabalhos\StopHereFeriadoCodando\BusinessLogicalLayer\bin\Debug\net5.0\DataInfrastructure.dll
+C:\C#\Trabalhos\StopHereFeriadoCodando\BusinessLogicalLayer\bin\Debug\net5.0\Entities.dll
+C:\C#\Trabalhos\StopHereFeriadoCodando\BusinessLogicalLayer\bin\Debug\net5.0\DataInfrastructure.pdb
+C:\C#\Trabalhos\StopHereFeriadoCodando\BusinessLogicalLayer\bin\Debug\net5.0\Entities.pdb
+C:\C#\Trabalhos\StopHereFeriadoCodando\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.AssemblyReference.cache
+C:\C#\Trabalhos\StopHereFeriadoCodando\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Trabalhos\StopHereFeriadoCodando\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.AssemblyInfoInputs.cache
+C:\C#\Trabalhos\StopHereFeriadoCodando\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.AssemblyInfo.cs
+C:\C#\Trabalhos\StopHereFeriadoCodando\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.CoreCompileInputs.cache
+C:\C#\Trabalhos\StopHereFeriadoCodando\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.CopyComplete
+C:\C#\Trabalhos\StopHereFeriadoCodando\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.dll
+C:\C#\Trabalhos\StopHereFeriadoCodando\BusinessLogicalLayer\obj\Debug\net5.0\ref\BusinessLogicalLayer.dll
+C:\C#\Trabalhos\StopHereFeriadoCodando\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.pdb
+C:\C#\Trabalhos\StopHere-Final\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.deps.json
+C:\C#\Trabalhos\StopHere-Final\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.dll
+C:\C#\Trabalhos\StopHere-Final\BusinessLogicalLayer\bin\Debug\net5.0\ref\BusinessLogicalLayer.dll
+C:\C#\Trabalhos\StopHere-Final\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.pdb
+C:\C#\Trabalhos\StopHere-Final\BusinessLogicalLayer\bin\Debug\net5.0\DataInfrastructure.dll
+C:\C#\Trabalhos\StopHere-Final\BusinessLogicalLayer\bin\Debug\net5.0\Entities.dll
+C:\C#\Trabalhos\StopHere-Final\BusinessLogicalLayer\bin\Debug\net5.0\DataInfrastructure.pdb
+C:\C#\Trabalhos\StopHere-Final\BusinessLogicalLayer\bin\Debug\net5.0\Entities.pdb
+C:\C#\Trabalhos\StopHere-Final\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.AssemblyReference.cache
+C:\C#\Trabalhos\StopHere-Final\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Trabalhos\StopHere-Final\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.AssemblyInfoInputs.cache
+C:\C#\Trabalhos\StopHere-Final\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.AssemblyInfo.cs
+C:\C#\Trabalhos\StopHere-Final\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.CoreCompileInputs.cache
+C:\C#\Trabalhos\StopHere-Final\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.CopyComplete
+C:\C#\Trabalhos\StopHere-Final\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.dll
+C:\C#\Trabalhos\StopHere-Final\BusinessLogicalLayer\obj\Debug\net5.0\ref\BusinessLogicalLayer.dll
+C:\C#\Trabalhos\StopHere-Final\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.pdb
+C:\Users\moc\Downloads\StopHere-Final\StopHere-Final\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.deps.json
+C:\Users\moc\Downloads\StopHere-Final\StopHere-Final\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.dll
+C:\Users\moc\Downloads\StopHere-Final\StopHere-Final\BusinessLogicalLayer\bin\Debug\net5.0\ref\BusinessLogicalLayer.dll
+C:\Users\moc\Downloads\StopHere-Final\StopHere-Final\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.pdb
+C:\Users\moc\Downloads\StopHere-Final\StopHere-Final\BusinessLogicalLayer\bin\Debug\net5.0\DataInfrastructure.dll
+C:\Users\moc\Downloads\StopHere-Final\StopHere-Final\BusinessLogicalLayer\bin\Debug\net5.0\Entities.dll
+C:\Users\moc\Downloads\StopHere-Final\StopHere-Final\BusinessLogicalLayer\bin\Debug\net5.0\DataInfrastructure.pdb
+C:\Users\moc\Downloads\StopHere-Final\StopHere-Final\BusinessLogicalLayer\bin\Debug\net5.0\Entities.pdb
+C:\Users\moc\Downloads\StopHere-Final\StopHere-Final\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csprojAssemblyReference.cache
+C:\Users\moc\Downloads\StopHere-Final\StopHere-Final\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moc\Downloads\StopHere-Final\StopHere-Final\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.AssemblyInfoInputs.cache
+C:\Users\moc\Downloads\StopHere-Final\StopHere-Final\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.AssemblyInfo.cs
+C:\Users\moc\Downloads\StopHere-Final\StopHere-Final\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.CoreCompileInputs.cache
+C:\Users\moc\Downloads\StopHere-Final\StopHere-Final\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.CopyComplete
+C:\Users\moc\Downloads\StopHere-Final\StopHere-Final\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.dll
+C:\Users\moc\Downloads\StopHere-Final\StopHere-Final\BusinessLogicalLayer\obj\Debug\net5.0\ref\BusinessLogicalLayer.dll
+C:\Users\moc\Downloads\StopHere-Final\StopHere-Final\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.pdb
+C:\Users\moc\Documents\PROJETO\StopHere-Final\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.deps.json
+C:\Users\moc\Documents\PROJETO\StopHere-Final\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.dll
+C:\Users\moc\Documents\PROJETO\StopHere-Final\BusinessLogicalLayer\bin\Debug\net5.0\ref\BusinessLogicalLayer.dll
+C:\Users\moc\Documents\PROJETO\StopHere-Final\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.pdb
+C:\Users\moc\Documents\PROJETO\StopHere-Final\BusinessLogicalLayer\bin\Debug\net5.0\DataInfrastructure.dll
+C:\Users\moc\Documents\PROJETO\StopHere-Final\BusinessLogicalLayer\bin\Debug\net5.0\Entities.dll
+C:\Users\moc\Documents\PROJETO\StopHere-Final\BusinessLogicalLayer\bin\Debug\net5.0\DataInfrastructure.pdb
+C:\Users\moc\Documents\PROJETO\StopHere-Final\BusinessLogicalLayer\bin\Debug\net5.0\Entities.pdb
+C:\Users\moc\Documents\PROJETO\StopHere-Final\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csprojAssemblyReference.cache
+C:\Users\moc\Documents\PROJETO\StopHere-Final\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moc\Documents\PROJETO\StopHere-Final\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.AssemblyInfoInputs.cache
+C:\Users\moc\Documents\PROJETO\StopHere-Final\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.AssemblyInfo.cs
+C:\Users\moc\Documents\PROJETO\StopHere-Final\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.CoreCompileInputs.cache
+C:\Users\moc\Documents\PROJETO\StopHere-Final\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.CopyComplete
+C:\Users\moc\Documents\PROJETO\StopHere-Final\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.dll
+C:\Users\moc\Documents\PROJETO\StopHere-Final\BusinessLogicalLayer\obj\Debug\net5.0\ref\BusinessLogicalLayer.dll
+C:\Users\moc\Documents\PROJETO\StopHere-Final\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.pdb
+C:\Users\moc\Desktop\StopHere-Final\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.deps.json
+C:\Users\moc\Desktop\StopHere-Final\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.dll
+C:\Users\moc\Desktop\StopHere-Final\BusinessLogicalLayer\bin\Debug\net5.0\ref\BusinessLogicalLayer.dll
+C:\Users\moc\Desktop\StopHere-Final\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.pdb
+C:\Users\moc\Desktop\StopHere-Final\BusinessLogicalLayer\bin\Debug\net5.0\DataInfrastructure.dll
+C:\Users\moc\Desktop\StopHere-Final\BusinessLogicalLayer\bin\Debug\net5.0\Entities.dll
+C:\Users\moc\Desktop\StopHere-Final\BusinessLogicalLayer\bin\Debug\net5.0\DataInfrastructure.pdb
+C:\Users\moc\Desktop\StopHere-Final\BusinessLogicalLayer\bin\Debug\net5.0\Entities.pdb
+C:\Users\moc\Desktop\StopHere-Final\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.AssemblyReference.cache
+C:\Users\moc\Desktop\StopHere-Final\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moc\Desktop\StopHere-Final\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.AssemblyInfoInputs.cache
+C:\Users\moc\Desktop\StopHere-Final\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.AssemblyInfo.cs
+C:\Users\moc\Desktop\StopHere-Final\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.CoreCompileInputs.cache
+C:\Users\moc\Desktop\StopHere-Final\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.CopyComplete
+C:\Users\moc\Desktop\StopHere-Final\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.dll
+C:\Users\moc\Desktop\StopHere-Final\BusinessLogicalLayer\obj\Debug\net5.0\ref\BusinessLogicalLayer.dll
+C:\Users\moc\Desktop\StopHere-Final\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.pdb
+C:\Users\Sérgio\Desktop\StopHere-Final\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.deps.json
+C:\Users\Sérgio\Desktop\StopHere-Final\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.dll
+C:\Users\Sérgio\Desktop\StopHere-Final\BusinessLogicalLayer\bin\Debug\net5.0\ref\BusinessLogicalLayer.dll
+C:\Users\Sérgio\Desktop\StopHere-Final\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.pdb
+C:\Users\Sérgio\Desktop\StopHere-Final\BusinessLogicalLayer\bin\Debug\net5.0\DataInfrastructure.dll
+C:\Users\Sérgio\Desktop\StopHere-Final\BusinessLogicalLayer\bin\Debug\net5.0\Entities.dll
+C:\Users\Sérgio\Desktop\StopHere-Final\BusinessLogicalLayer\bin\Debug\net5.0\DataInfrastructure.pdb
+C:\Users\Sérgio\Desktop\StopHere-Final\BusinessLogicalLayer\bin\Debug\net5.0\Entities.pdb
+C:\Users\Sérgio\Desktop\StopHere-Final\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.AssemblyReference.cache
+C:\Users\Sérgio\Desktop\StopHere-Final\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sérgio\Desktop\StopHere-Final\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.AssemblyInfoInputs.cache
+C:\Users\Sérgio\Desktop\StopHere-Final\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.AssemblyInfo.cs
+C:\Users\Sérgio\Desktop\StopHere-Final\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.CoreCompileInputs.cache
+C:\Users\Sérgio\Desktop\StopHere-Final\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.CopyComplete
+C:\Users\Sérgio\Desktop\StopHere-Final\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.dll
+C:\Users\Sérgio\Desktop\StopHere-Final\BusinessLogicalLayer\obj\Debug\net5.0\ref\BusinessLogicalLayer.dll
+C:\Users\Sérgio\Desktop\StopHere-Final\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.pdb
+C:\Users\Sérgio\Desktop\StopHereSabado\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.deps.json
+C:\Users\Sérgio\Desktop\StopHereSabado\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.dll
+C:\Users\Sérgio\Desktop\StopHereSabado\BusinessLogicalLayer\bin\Debug\net5.0\ref\BusinessLogicalLayer.dll
+C:\Users\Sérgio\Desktop\StopHereSabado\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.pdb
+C:\Users\Sérgio\Desktop\StopHereSabado\BusinessLogicalLayer\bin\Debug\net5.0\DataInfrastructure.dll
+C:\Users\Sérgio\Desktop\StopHereSabado\BusinessLogicalLayer\bin\Debug\net5.0\Entities.dll
+C:\Users\Sérgio\Desktop\StopHereSabado\BusinessLogicalLayer\bin\Debug\net5.0\DataInfrastructure.pdb
+C:\Users\Sérgio\Desktop\StopHereSabado\BusinessLogicalLayer\bin\Debug\net5.0\Entities.pdb
+C:\Users\Sérgio\Desktop\StopHereSabado\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.AssemblyReference.cache
+C:\Users\Sérgio\Desktop\StopHereSabado\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sérgio\Desktop\StopHereSabado\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.AssemblyInfoInputs.cache
+C:\Users\Sérgio\Desktop\StopHereSabado\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.AssemblyInfo.cs
+C:\Users\Sérgio\Desktop\StopHereSabado\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.CoreCompileInputs.cache
+C:\Users\Sérgio\Desktop\StopHereSabado\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.CopyComplete
+C:\Users\Sérgio\Desktop\StopHereSabado\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.dll
+C:\Users\Sérgio\Desktop\StopHereSabado\BusinessLogicalLayer\obj\Debug\net5.0\ref\BusinessLogicalLayer.dll
+C:\Users\Sérgio\Desktop\StopHereSabado\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.pdb
+C:\Users\Sérgio\Desktop\StopHereFinal17102021\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.deps.json
+C:\Users\Sérgio\Desktop\StopHereFinal17102021\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.dll
+C:\Users\Sérgio\Desktop\StopHereFinal17102021\BusinessLogicalLayer\bin\Debug\net5.0\ref\BusinessLogicalLayer.dll
+C:\Users\Sérgio\Desktop\StopHereFinal17102021\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.pdb
+C:\Users\Sérgio\Desktop\StopHereFinal17102021\BusinessLogicalLayer\bin\Debug\net5.0\DataInfrastructure.dll
+C:\Users\Sérgio\Desktop\StopHereFinal17102021\BusinessLogicalLayer\bin\Debug\net5.0\Entities.dll
+C:\Users\Sérgio\Desktop\StopHereFinal17102021\BusinessLogicalLayer\bin\Debug\net5.0\DataInfrastructure.pdb
+C:\Users\Sérgio\Desktop\StopHereFinal17102021\BusinessLogicalLayer\bin\Debug\net5.0\Entities.pdb
+C:\Users\Sérgio\Desktop\StopHereFinal17102021\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.AssemblyReference.cache
+C:\Users\Sérgio\Desktop\StopHereFinal17102021\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sérgio\Desktop\StopHereFinal17102021\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.AssemblyInfoInputs.cache
+C:\Users\Sérgio\Desktop\StopHereFinal17102021\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.AssemblyInfo.cs
+C:\Users\Sérgio\Desktop\StopHereFinal17102021\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.CoreCompileInputs.cache
+C:\Users\Sérgio\Desktop\StopHereFinal17102021\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.CopyComplete
+C:\Users\Sérgio\Desktop\StopHereFinal17102021\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.dll
+C:\Users\Sérgio\Desktop\StopHereFinal17102021\BusinessLogicalLayer\obj\Debug\net5.0\ref\BusinessLogicalLayer.dll
+C:\Users\Sérgio\Desktop\StopHereFinal17102021\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.pdb
+C:\Users\moc\Desktop\StopHereFinal17102021\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.deps.json
+C:\Users\moc\Desktop\StopHereFinal17102021\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.dll
+C:\Users\moc\Desktop\StopHereFinal17102021\BusinessLogicalLayer\bin\Debug\net5.0\ref\BusinessLogicalLayer.dll
+C:\Users\moc\Desktop\StopHereFinal17102021\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.pdb
+C:\Users\moc\Desktop\StopHereFinal17102021\BusinessLogicalLayer\bin\Debug\net5.0\DataInfrastructure.dll
+C:\Users\moc\Desktop\StopHereFinal17102021\BusinessLogicalLayer\bin\Debug\net5.0\Entities.dll
+C:\Users\moc\Desktop\StopHereFinal17102021\BusinessLogicalLayer\bin\Debug\net5.0\DataInfrastructure.pdb
+C:\Users\moc\Desktop\StopHereFinal17102021\BusinessLogicalLayer\bin\Debug\net5.0\Entities.pdb
+C:\Users\moc\Desktop\StopHereFinal17102021\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.AssemblyReference.cache
+C:\Users\moc\Desktop\StopHereFinal17102021\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moc\Desktop\StopHereFinal17102021\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.AssemblyInfoInputs.cache
+C:\Users\moc\Desktop\StopHereFinal17102021\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.AssemblyInfo.cs
+C:\Users\moc\Desktop\StopHereFinal17102021\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.CoreCompileInputs.cache
+C:\Users\moc\Desktop\StopHereFinal17102021\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.CopyComplete
+C:\Users\moc\Desktop\StopHereFinal17102021\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.dll
+C:\Users\moc\Desktop\StopHereFinal17102021\BusinessLogicalLayer\obj\Debug\net5.0\ref\BusinessLogicalLayer.dll
+C:\Users\moc\Desktop\StopHereFinal17102021\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.pdb
+C:\Users\moc\Documents\StopHere\StopHereFinal17102021\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.deps.json
+C:\Users\moc\Documents\StopHere\StopHereFinal17102021\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.dll
+C:\Users\moc\Documents\StopHere\StopHereFinal17102021\BusinessLogicalLayer\bin\Debug\net5.0\ref\BusinessLogicalLayer.dll
+C:\Users\moc\Documents\StopHere\StopHereFinal17102021\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.pdb
+C:\Users\moc\Documents\StopHere\StopHereFinal17102021\BusinessLogicalLayer\bin\Debug\net5.0\DataInfrastructure.dll
+C:\Users\moc\Documents\StopHere\StopHereFinal17102021\BusinessLogicalLayer\bin\Debug\net5.0\Entities.dll
+C:\Users\moc\Documents\StopHere\StopHereFinal17102021\BusinessLogicalLayer\bin\Debug\net5.0\DataInfrastructure.pdb
+C:\Users\moc\Documents\StopHere\StopHereFinal17102021\BusinessLogicalLayer\bin\Debug\net5.0\Entities.pdb
+C:\Users\moc\Documents\StopHere\StopHereFinal17102021\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.AssemblyReference.cache
+C:\Users\moc\Documents\StopHere\StopHereFinal17102021\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moc\Documents\StopHere\StopHereFinal17102021\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.AssemblyInfoInputs.cache
+C:\Users\moc\Documents\StopHere\StopHereFinal17102021\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.AssemblyInfo.cs
+C:\Users\moc\Documents\StopHere\StopHereFinal17102021\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.CoreCompileInputs.cache
+C:\Users\moc\Documents\StopHere\StopHereFinal17102021\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.CopyComplete
+C:\Users\moc\Documents\StopHere\StopHereFinal17102021\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.dll
+C:\Users\moc\Documents\StopHere\StopHereFinal17102021\BusinessLogicalLayer\obj\Debug\net5.0\ref\BusinessLogicalLayer.dll
+C:\Users\moc\Documents\StopHere\StopHereFinal17102021\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.pdb
+C:\C#\Trabalhos\StopHere\StopHereFinal17102021\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.deps.json
+C:\C#\Trabalhos\StopHere\StopHereFinal17102021\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.dll
+C:\C#\Trabalhos\StopHere\StopHereFinal17102021\BusinessLogicalLayer\bin\Debug\net5.0\ref\BusinessLogicalLayer.dll
+C:\C#\Trabalhos\StopHere\StopHereFinal17102021\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.pdb
+C:\C#\Trabalhos\StopHere\StopHereFinal17102021\BusinessLogicalLayer\bin\Debug\net5.0\DataInfrastructure.dll
+C:\C#\Trabalhos\StopHere\StopHereFinal17102021\BusinessLogicalLayer\bin\Debug\net5.0\Entities.dll
+C:\C#\Trabalhos\StopHere\StopHereFinal17102021\BusinessLogicalLayer\bin\Debug\net5.0\DataInfrastructure.pdb
+C:\C#\Trabalhos\StopHere\StopHereFinal17102021\BusinessLogicalLayer\bin\Debug\net5.0\Entities.pdb
+C:\C#\Trabalhos\StopHere\StopHereFinal17102021\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.AssemblyReference.cache
+C:\C#\Trabalhos\StopHere\StopHereFinal17102021\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Trabalhos\StopHere\StopHereFinal17102021\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.AssemblyInfoInputs.cache
+C:\C#\Trabalhos\StopHere\StopHereFinal17102021\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.AssemblyInfo.cs
+C:\C#\Trabalhos\StopHere\StopHereFinal17102021\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.CoreCompileInputs.cache
+C:\C#\Trabalhos\StopHere\StopHereFinal17102021\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.CopyComplete
+C:\C#\Trabalhos\StopHere\StopHereFinal17102021\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.dll
+C:\C#\Trabalhos\StopHere\StopHereFinal17102021\BusinessLogicalLayer\obj\Debug\net5.0\ref\BusinessLogicalLayer.dll
+C:\C#\Trabalhos\StopHere\StopHereFinal17102021\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.pdb
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHere\StopHereFinal17102021\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.deps.json
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHere\StopHereFinal17102021\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHere\StopHereFinal17102021\BusinessLogicalLayer\bin\Debug\net5.0\ref\BusinessLogicalLayer.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHere\StopHereFinal17102021\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.pdb
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHere\StopHereFinal17102021\BusinessLogicalLayer\bin\Debug\net5.0\DataInfrastructure.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHere\StopHereFinal17102021\BusinessLogicalLayer\bin\Debug\net5.0\Entities.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHere\StopHereFinal17102021\BusinessLogicalLayer\bin\Debug\net5.0\DataInfrastructure.pdb
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHere\StopHereFinal17102021\BusinessLogicalLayer\bin\Debug\net5.0\Entities.pdb
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHere\StopHereFinal17102021\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csprojAssemblyReference.cache
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHere\StopHereFinal17102021\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHere\StopHereFinal17102021\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.AssemblyInfoInputs.cache
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHere\StopHereFinal17102021\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.AssemblyInfo.cs
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHere\StopHereFinal17102021\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.CoreCompileInputs.cache
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHere\StopHereFinal17102021\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.CopyComplete
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHere\StopHereFinal17102021\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHere\StopHereFinal17102021\BusinessLogicalLayer\obj\Debug\net5.0\ref\BusinessLogicalLayer.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHere\StopHereFinal17102021\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.pdb
+C:\C#\Trabalhos\StopHereDiaDaFormatura\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.deps.json
+C:\C#\Trabalhos\StopHereDiaDaFormatura\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.dll
+C:\C#\Trabalhos\StopHereDiaDaFormatura\BusinessLogicalLayer\bin\Debug\net5.0\ref\BusinessLogicalLayer.dll
+C:\C#\Trabalhos\StopHereDiaDaFormatura\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.pdb
+C:\C#\Trabalhos\StopHereDiaDaFormatura\BusinessLogicalLayer\bin\Debug\net5.0\DataInfrastructure.dll
+C:\C#\Trabalhos\StopHereDiaDaFormatura\BusinessLogicalLayer\bin\Debug\net5.0\Entities.dll
+C:\C#\Trabalhos\StopHereDiaDaFormatura\BusinessLogicalLayer\bin\Debug\net5.0\DataInfrastructure.pdb
+C:\C#\Trabalhos\StopHereDiaDaFormatura\BusinessLogicalLayer\bin\Debug\net5.0\Entities.pdb
+C:\C#\Trabalhos\StopHereDiaDaFormatura\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.AssemblyReference.cache
+C:\C#\Trabalhos\StopHereDiaDaFormatura\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Trabalhos\StopHereDiaDaFormatura\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.AssemblyInfoInputs.cache
+C:\C#\Trabalhos\StopHereDiaDaFormatura\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.AssemblyInfo.cs
+C:\C#\Trabalhos\StopHereDiaDaFormatura\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.CoreCompileInputs.cache
+C:\C#\Trabalhos\StopHereDiaDaFormatura\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.CopyComplete
+C:\C#\Trabalhos\StopHereDiaDaFormatura\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.dll
+C:\C#\Trabalhos\StopHereDiaDaFormatura\BusinessLogicalLayer\obj\Debug\net5.0\ref\BusinessLogicalLayer.dll
+C:\C#\Trabalhos\StopHereDiaDaFormatura\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.pdb
+C:\Users\Matheus\Desktop\StopHereDiaDaFormatura\StopHereDiaDaFormatura\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.deps.json
+C:\Users\Matheus\Desktop\StopHereDiaDaFormatura\StopHereDiaDaFormatura\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.dll
+C:\Users\Matheus\Desktop\StopHereDiaDaFormatura\StopHereDiaDaFormatura\BusinessLogicalLayer\bin\Debug\net5.0\ref\BusinessLogicalLayer.dll
+C:\Users\Matheus\Desktop\StopHereDiaDaFormatura\StopHereDiaDaFormatura\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.pdb
+C:\Users\Matheus\Desktop\StopHereDiaDaFormatura\StopHereDiaDaFormatura\BusinessLogicalLayer\bin\Debug\net5.0\DataInfrastructure.dll
+C:\Users\Matheus\Desktop\StopHereDiaDaFormatura\StopHereDiaDaFormatura\BusinessLogicalLayer\bin\Debug\net5.0\Entities.dll
+C:\Users\Matheus\Desktop\StopHereDiaDaFormatura\StopHereDiaDaFormatura\BusinessLogicalLayer\bin\Debug\net5.0\DataInfrastructure.pdb
+C:\Users\Matheus\Desktop\StopHereDiaDaFormatura\StopHereDiaDaFormatura\BusinessLogicalLayer\bin\Debug\net5.0\Entities.pdb
+C:\Users\Matheus\Desktop\StopHereDiaDaFormatura\StopHereDiaDaFormatura\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.AssemblyReference.cache
+C:\Users\Matheus\Desktop\StopHereDiaDaFormatura\StopHereDiaDaFormatura\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Desktop\StopHereDiaDaFormatura\StopHereDiaDaFormatura\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.AssemblyInfoInputs.cache
+C:\Users\Matheus\Desktop\StopHereDiaDaFormatura\StopHereDiaDaFormatura\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.AssemblyInfo.cs
+C:\Users\Matheus\Desktop\StopHereDiaDaFormatura\StopHereDiaDaFormatura\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\StopHereDiaDaFormatura\StopHereDiaDaFormatura\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.CopyComplete
+C:\Users\Matheus\Desktop\StopHereDiaDaFormatura\StopHereDiaDaFormatura\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.dll
+C:\Users\Matheus\Desktop\StopHereDiaDaFormatura\StopHereDiaDaFormatura\BusinessLogicalLayer\obj\Debug\net5.0\ref\BusinessLogicalLayer.dll
+C:\Users\Matheus\Desktop\StopHereDiaDaFormatura\StopHereDiaDaFormatura\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.pdb
+C:\Users\Fabia\Downloads\StopHereDiaDaFormatura\StopHereDiaDaFormatura\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.deps.json
+C:\Users\Fabia\Downloads\StopHereDiaDaFormatura\StopHereDiaDaFormatura\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.dll
+C:\Users\Fabia\Downloads\StopHereDiaDaFormatura\StopHereDiaDaFormatura\BusinessLogicalLayer\bin\Debug\net5.0\ref\BusinessLogicalLayer.dll
+C:\Users\Fabia\Downloads\StopHereDiaDaFormatura\StopHereDiaDaFormatura\BusinessLogicalLayer\bin\Debug\net5.0\BusinessLogicalLayer.pdb
+C:\Users\Fabia\Downloads\StopHereDiaDaFormatura\StopHereDiaDaFormatura\BusinessLogicalLayer\bin\Debug\net5.0\DataInfrastructure.dll
+C:\Users\Fabia\Downloads\StopHereDiaDaFormatura\StopHereDiaDaFormatura\BusinessLogicalLayer\bin\Debug\net5.0\Entities.dll
+C:\Users\Fabia\Downloads\StopHereDiaDaFormatura\StopHereDiaDaFormatura\BusinessLogicalLayer\bin\Debug\net5.0\DataInfrastructure.pdb
+C:\Users\Fabia\Downloads\StopHereDiaDaFormatura\StopHereDiaDaFormatura\BusinessLogicalLayer\bin\Debug\net5.0\Entities.pdb
+C:\Users\Fabia\Downloads\StopHereDiaDaFormatura\StopHereDiaDaFormatura\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csprojAssemblyReference.cache
+C:\Users\Fabia\Downloads\StopHereDiaDaFormatura\StopHereDiaDaFormatura\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabia\Downloads\StopHereDiaDaFormatura\StopHereDiaDaFormatura\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.AssemblyInfoInputs.cache
+C:\Users\Fabia\Downloads\StopHereDiaDaFormatura\StopHereDiaDaFormatura\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.AssemblyInfo.cs
+C:\Users\Fabia\Downloads\StopHereDiaDaFormatura\StopHereDiaDaFormatura\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.CoreCompileInputs.cache
+C:\Users\Fabia\Downloads\StopHereDiaDaFormatura\StopHereDiaDaFormatura\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.csproj.CopyComplete
+C:\Users\Fabia\Downloads\StopHereDiaDaFormatura\StopHereDiaDaFormatura\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.dll
+C:\Users\Fabia\Downloads\StopHereDiaDaFormatura\StopHereDiaDaFormatura\BusinessLogicalLayer\obj\Debug\net5.0\ref\BusinessLogicalLayer.dll
+C:\Users\Fabia\Downloads\StopHereDiaDaFormatura\StopHereDiaDaFormatura\BusinessLogicalLayer\obj\Debug\net5.0\BusinessLogicalLayer.pdb

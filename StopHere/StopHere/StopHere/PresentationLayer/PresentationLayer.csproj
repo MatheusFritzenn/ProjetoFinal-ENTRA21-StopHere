@@ -1,0 +1,73 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="wwwroot\Fotos\Vagas\12\**" />
+    <Compile Remove="wwwroot\Fotos\Vagas\13\**" />
+    <Compile Remove="wwwroot\Fotos\Vagas\14\**" />
+    <Compile Remove="wwwroot\Fotos\Vagas\15\**" />
+    <Compile Remove="wwwroot\Fotos\Vagas\16\**" />
+    <Compile Remove="wwwroot\Fotos\Vagas\17\**" />
+    <Compile Remove="wwwroot\Fotos\Vagas\18\**" />
+    <Compile Remove="wwwroot\Fotos\Vagas\19\**" />
+    <Compile Remove="wwwroot\Fotos\Vagas\20\**" />
+    <Content Remove="wwwroot\Fotos\Vagas\12\**" />
+    <Content Remove="wwwroot\Fotos\Vagas\13\**" />
+    <Content Remove="wwwroot\Fotos\Vagas\14\**" />
+    <Content Remove="wwwroot\Fotos\Vagas\15\**" />
+    <Content Remove="wwwroot\Fotos\Vagas\16\**" />
+    <Content Remove="wwwroot\Fotos\Vagas\17\**" />
+    <Content Remove="wwwroot\Fotos\Vagas\18\**" />
+    <Content Remove="wwwroot\Fotos\Vagas\19\**" />
+    <Content Remove="wwwroot\Fotos\Vagas\20\**" />
+    <EmbeddedResource Remove="wwwroot\Fotos\Vagas\12\**" />
+    <EmbeddedResource Remove="wwwroot\Fotos\Vagas\13\**" />
+    <EmbeddedResource Remove="wwwroot\Fotos\Vagas\14\**" />
+    <EmbeddedResource Remove="wwwroot\Fotos\Vagas\15\**" />
+    <EmbeddedResource Remove="wwwroot\Fotos\Vagas\16\**" />
+    <EmbeddedResource Remove="wwwroot\Fotos\Vagas\17\**" />
+    <EmbeddedResource Remove="wwwroot\Fotos\Vagas\18\**" />
+    <EmbeddedResource Remove="wwwroot\Fotos\Vagas\19\**" />
+    <EmbeddedResource Remove="wwwroot\Fotos\Vagas\20\**" />
+    <None Remove="wwwroot\Fotos\Vagas\12\**" />
+    <None Remove="wwwroot\Fotos\Vagas\13\**" />
+    <None Remove="wwwroot\Fotos\Vagas\14\**" />
+    <None Remove="wwwroot\Fotos\Vagas\15\**" />
+    <None Remove="wwwroot\Fotos\Vagas\16\**" />
+    <None Remove="wwwroot\Fotos\Vagas\17\**" />
+    <None Remove="wwwroot\Fotos\Vagas\18\**" />
+    <None Remove="wwwroot\Fotos\Vagas\19\**" />
+    <None Remove="wwwroot\Fotos\Vagas\20\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.1.1" />
+    <PackageReference Include="FluentValidation" Version="10.3.3" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="5.0.9">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="5.0.2" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="5.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BusinessLogicalLayer\BusinessLogicalLayer.csproj" />
+    <ProjectReference Include="..\DataInfrastructure\DataInfrastructure.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\Fotos\Pessoas\" />
+    <Folder Include="wwwroot\Fotos\Veiculos\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Views\Location\Add.cshtml" />
+    <None Include="Views\Location\ShowAll.cshtml" />
+  </ItemGroup>
+
+</Project>

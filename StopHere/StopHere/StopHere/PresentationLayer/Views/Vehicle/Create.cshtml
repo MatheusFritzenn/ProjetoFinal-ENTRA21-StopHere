@@ -1,0 +1,271 @@
+﻿@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html @*:class="{ 'theme-dark': dark }"*@ x-data="data()" lang="pt-br">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>StopHere - Cadastrar Veículo</title>
+    <link href="~/css1/bootstrap.min.css"
+          rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
+          rel="stylesheet" />
+    <link href="~/assets/css/tailwind.output.css"
+          rel="stylesheet" />
+    <link type="imagex/png" href="/img1/Icons/stophere_icon.ico"
+          rel="shortcut icon" />
+    <link href="https://www.w3schools.com/w3css/4/w3.css"
+          rel="stylesheet" />
+    <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.min.js"
+            defer></script>
+    <script src="~/assets/js/ValidacaoVehicle.js"
+            defer></script>
+    <script src="~/assets/js/CarroselFotos.js"
+            defer></script>
+    <style>
+        .mySlides {
+            display: none
+        }
+
+        .w3-left, .w3-right, .w3-badge {
+            cursor: pointer
+        }
+
+        .w3-badge {
+            height: 13px;
+            width: 13px;
+            padding: 0
+        }
+
+        #PreviewFotoVeiculo1 {
+            margin-top: 15%;
+            width: 300px;
+            height: 300px;
+            background-color: #eee;
+            border: 4px solid rgb(128 128 128);
+            cursor: pointer;
+            transition: background .3s;
+        }
+
+        #PreviewFotoVeiculo2 {
+            margin-top: 15%;
+            width: 300px;
+            height: 300px;
+            background-color: #eee;
+            border: 4px solid rgb(128 128 128);
+            cursor: pointer;
+            transition: background .3s;
+        }
+
+        #PreviewFotoVeiculo3 {
+            margin-top: 15%;
+            width: 300px;
+            height: 300px;
+            background-color: #eee;
+            border: 4px solid rgb(128 128 128);
+            cursor: pointer;
+            transition: background .3s;
+        }
+
+        #PreviewFotoVeiculo4 {
+            margin-top: 15%;
+            width: 300px;
+            height: 300px;
+            background-color: #eee;
+            border: 4px solid rgb(128 128 128);
+            cursor: pointer;
+            transition: background .3s;
+        }
+
+        input[type='file'] {
+            display: none;
+        }
+
+        #title {
+            color: black;
+            margin-top: 30px;
+        }
+
+        #buttonCadastrarVeiculo{
+            border-radius: 5px;
+            background-color: #95cd2f;
+            border: none;
+            font-family: #373e42;
+            color: black;
+            text-align: center;
+            font-size: 16px;
+            font-weight: 600;
+            padding: 8px;
+            margin-right: 5px;
+            margin-top: 40px;
+            margin-bottom: 25px;
+            align-self: center;
+        }
+    </style>
+</head>
+<body>
+    <form id="formulario" asp-action="Create" enctype="multipart/form-data" method="post">
+        <div class="flex items-center min-h-screen p-6 bg-gray-50 dark:bg-gray-900">
+            <div class="flex-1 h-full max-w-4xl mx-auto overflow-hidden bg-white rounded-lg shadow-xl dark:bg-gray-800">
+                <h1 class="mb-4 text-xl py-3 font-bold text-center text-gray-700 dark:text-gray-200" id="title">
+                    Informe os dados de seu veículo nos campos abaixo
+                </h1>
+                <div class="flex flex-col overflow-y-auto md:flex-row">
+                    <div class="flex align-items-lg-start justify-center p-6 sm:p-12 md:w-1/2">
+                        <div class="w-full">
+                            <!-- Campo Placa -->
+                            <label class="block mt-4 text-sm">
+                                <span class="text-gray-700 dark:text-gray-400">Placa</span>
+                                <input id="Placa" name="Placa" class="block w-full mt-1 text-sm bg-gray-50 dark:border-gray-600 dark:bg-gray-700 focus:border-gray-500 focus:outline-none focus:shadow-outline-gray dark:text-gray-300 dark:focus:shadow-outline-gray form-input"
+                                       placeholder="Ex.: AAA-0000 ou AAA0A000" onblur="ValidaPlaca()" />
+                                <span id="erroValidacaoPlaca" class="text-xs text-red-600 dark:text-red-400"></span>
+                            </label>
+                            <!-- Campo Marca -->
+                            <label class="block mt-4 text-sm">
+                                <span class="text-gray-700 dark:text-gray-400">Marca</span>
+                                <select id="Marca" name="Marca" onblur="ValidaMarca()" class="block w-full mt-1 text-sm bg-gray-50 dark:border-gray-600 dark:bg-gray-700 focus:border-gray-500 focus:outline-none focus:shadow-outline-gray dark:text-gray-300 dark:focus:shadow-outline-gray form-input">
+                                    @{
+                                        string[] valoresMarca = Enum.GetNames(typeof(Entities.Enums.VehicleBrand));
+                                    }
+                                    @for (int i = 0; i < valoresMarca.Length; i++)
+                                    {
+                                        <option value="@i">@valoresMarca[i].Replace("_", " ")</option>
+                                    }
+                                </select>
+                                <span id="erroValidacaoMarca" class="text-xs text-red-600 dark:text-red-400"></span>
+                            </label>
+                            <!-- Campo Modelo-->
+                            <label class="block mt-4 text-sm">
+                                <span class="text-gray-700 dark:text-gray-400">Modelo</span>
+                                <input id="Modelo" name="Modelo" class="block w-full mt-1 text-sm bg-gray-50 dark:border-gray-600 dark:bg-gray-700 focus:border-gray-500 focus:outline-none focus:shadow-outline-gray dark:text-gray-300 dark:focus:shadow-outline-gray form-input"
+                                       placeholder="Ex.: Uno" onblur="ValidaModelo()" />
+                                <span id="erroValidacaoModelo" class="text-xs text-red-600 dark:text-red-400"></span>
+                            </label>
+                            <!-- Campo Cor -->
+                            <label class="block mt-4 text-sm">
+                                <span class="text-gray-700 dark:text-gray-400">Cor</span>
+                                <select id="Cor" name="Cor" onblur="ValidaCor()" class="block w-full mt-1 text-sm bg-gray-50 dark:border-gray-600 dark:bg-gray-700 focus:border-gray-500 focus:outline-none focus:shadow-outline-gray dark:text-gray-300 dark:focus:shadow-outline-gray form-input">
+                                    @{
+                                        string[] valoresCor = Enum.GetNames(typeof(Entities.Enums.VehicleColor));
+                                    }
+                                    @for (int i = 0; i < valoresCor.Length; i++)
+                                    {
+                                        <option value="@i">@valoresCor[i].Replace("_", " ")</option>
+                                    }
+                                </select>
+                                <span id="erroValidacaoCor" class="text-xs text-red-600 dark:text-red-400"></span>
+                            </label>
+                            <!-- Campo Observação -->
+                            <label class="block mt-4 text-sm">
+                                <span class="text-gray-700 dark:text-gray-400">Observação</span>
+                                <input id="Observacao" name="Observacao" class="block w-full mt-1 text-sm bg-gray-50 dark:border-gray-600 dark:bg-gray-700 focus:border-gray-500 focus:outline-none focus:shadow-outline-gray dark:text-gray-300 dark:focus:shadow-outline-gray form-input"
+                                       placeholder="Ex.: Sem estepe" onblur="ValidaObservacao()" />
+                                <span id="erroValidacaoObservacao" class="text-xs text-red-600 dark:text-red-400"></span>
+                            </label>
+                            <!-- Campo Tamanho do Veículo -->
+                            <label class="block mt-4 text-sm">
+                                <span class="text-gray-700 dark:text-gray-400">Tamanho do Veículo</span>
+                                <select id="TamanhoVeiculo" name="TamanhoVeiculo" onblur="ValidaTamanhoVeiculo()" class="block w-full mt-1 text-sm bg-gray-50 dark:border-gray-600 dark:bg-gray-700 focus:border-gray-500 focus:outline-none focus:shadow-outline-gray focus:shadow-outline-purple dark:text-gray-300 dark:focus:shadow-outline-gray form-input">
+                                    @{
+                                        string[] valoresTamanho = Enum.GetNames(typeof(Entities.Enums.VehicleSize));
+                                    }
+                                    @for (int i = 0; i < valoresTamanho.Length; i++)
+                                    {
+                                        <option value="@i">@valoresTamanho[i].Replace("_", " ")</option>
+                                    }
+                                </select>
+                                <span id="erroValidacaoTamanho" class="text-xs text-red-600 dark:text-red-400"></span>
+                            </label>
+                            <!-- Campo Tipo do Veículo -->
+                            <label class="block mt-4 text-sm">
+                                <span class="text-gray-700 dark:text-gray-400">Tipo do Veículo</span>
+                                <select id="TipoVeiculo" name="TipoVeiculo" onblur="ValidaTipoVeiculo()" class="block w-full mt-1 text-sm bg-gray-50 dark:border-gray-600 dark:bg-gray-700 focus:border-gray-500 focus:outline-none focus:shadow-outline-gray dark:text-gray-300 dark:focus:shadow-outline-gray form-input">
+                                    @{
+                                        string[] valoresTipo = Enum.GetNames(typeof(Entities.Enums.VehicleType));
+                                    }
+                                    @for (int i = 0; i < valoresTipo.Length; i++)
+                                    {
+                                        <option value="@i">@valoresTipo[i].Replace("_", " ")</option>
+                                    }
+                                </select>
+                                <span id="erroValidacaoTipo" class="text-xs text-red-600 dark:text-red-400"></span>
+                            </label>
+                        </div>
+                    </div>
+                    <div class="flex align-items-lg-start justify-center p-6 sm:p-12 md:w-1/2">
+                        <!-- Fotos com preview de upload, estilo carrossel -->
+                        <div class="w3-content w3-display-container" style="max-width:300px" title="Clique aqui para adicionar fotos do seu veículo">
+                            <img class="mySlides" src="~/Fotos/DefaultSemFoto/FotoDefaultCadastroVeiculo.jpg" style="width:100%" id="PreviewFotoVeiculo1" name="PreviewFotoVeiculo1">
+                            <img class="mySlides" src="~/Fotos/DefaultSemFoto/FotoDefaultCadastroVeiculo.jpg" style="width:100%" id="PreviewFotoVeiculo2" name="PreviewFotoVeiculo2">
+                            <img class="mySlides" src="~/Fotos/DefaultSemFoto/FotoDefaultCadastroVeiculo.jpg" style="width:100%" id="PreviewFotoVeiculo3" name="PreviewFotoVeiculo3">
+                            <img class="mySlides" src="~/Fotos/DefaultSemFoto/FotoDefaultCadastroVeiculo.jpg" style="width:100%" id="PreviewFotoVeiculo4" name="PreviewFotoVeiculo4">
+                            
+                            <div class="w3-center w3-container w3-section w3-large w3-text-white w3-display-bottommiddle" style="width:100%">
+                                <div class="w3-left w3-hover-text-khaki" onclick="plusDivs(-1)">❮</div>
+                                <div class="w3-right w3-hover-text-khaki" onclick="plusDivs(1)">❯</div>
+                                <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(1)"></span>
+                                <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(2)"></span>
+                                <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(3)"></span>
+                                <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(4)"></span>
+                                
+                            </div>
+                        </div>
+                        <input type="file" id="FotoVeiculo1" name="FotoVeiculo1" accept="image/*">
+                        <input type="file" id="FotoVeiculo2" name="FotoVeiculo2" accept="image/*">
+                        <input type="file" id="FotoVeiculo3" name="FotoVeiculo3" accept="image/*">
+                        <input type="file" id="FotoVeiculo4" name="FotoVeiculo4" accept="image/*">
+                        <input type="file" id="FotoVeiculo5" name="FotoVeiculo5" accept="image/*">
+                        <input type="file" id="FotoVeiculo6" name="FotoVeiculo6" accept="image/*">
+                    </div>
+                </div>
+                <!-- Botão Cadastrar -->
+                <div class="flex justify-center p-4 m-2">
+                    <input id="buttonCadastrarVeiculo" value="Cadastrar" type="button" onclick="ValidaFormulario()" class="block col-6 px-4 py-2 mt-4 text-sm font-medium text-center transition-colors duration-150 bg-purple-600 border border-transparent rounded-lg active:bg-purple-600 hover:bg-purple-700 focus:outline-none focus:shadow-outline-purple" />
+                </div>
+            </div>
+        </div>1
+        <!-- Caixa de aviso quando ocorrer erro (MODAL) -->
+        @if (ViewBag.Error != null)
+        {
+            <div class="container justify-center">
+                <!-- Modal -->
+                <div class="modal show" id="myModal" role="dialog">
+                    <div class="modal-dialog modal-dialog-centered modal-lg">
+                        <!-- Modal content-->
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                <h4 class="modal-title">Atenção!</h4>
+                            </div>
+                            <div class="modal-body">
+                                <p>@ViewBag.Error</p>
+                            </div>
+                            <div class="modal-footer">
+                                <button type="button" class="block w-full px-4 py-2 mt-4 text-sm font-medium leading-5 text-center text-white transition-colors duration-150 bg-purple-600 border border-transparent rounded-lg active:bg-purple-600 hover:bg-purple-700 focus:outline-none focus:shadow-outline-purple" data-dismiss="modal">Fechar</button>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        }
+        <script src="~/assets/js/init-alpine.js"></script>
+    </form>
+    <script src="~/js1/jquery-3.4.1.min.js"></script>
+    <script src="~/js1/bootstrap.min.js"></script>
+    <!-- Habilita tela de mensagem de erro -->
+    @if (ViewBag.Error != null)
+    {
+        <script type="text/javascript">
+            $(window).on('load', function () {
+                var delayMs = 500; // Delay in milliseconds.
+
+                setTimeout(function () {
+                    $('#myModal').modal('show');
+                }, delayMs);
+            });
+        </script>
+    }
+</body>
+</html>

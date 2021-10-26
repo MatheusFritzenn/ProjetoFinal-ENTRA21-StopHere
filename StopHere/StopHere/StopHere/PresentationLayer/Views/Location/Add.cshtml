@@ -1,0 +1,332 @@
+﻿@model PresentationLayer.Models.Location.LocationInsertViewModel
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html @*:class="{ 'theme-dark': dark }"*@ x-data="data()" lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Editar vaga</title>
+    <link href="~/css1/bootstrap.min.css" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
+          rel="stylesheet" />
+    <link rel="stylesheet" href="~/assets/css/tailwind.output.css" />
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <style>
+        /*Classe do carrosel para poder trocar a foto principal(ver funcao js)*/
+        .mySlides {
+            display: none
+        }
+        /*Ponteiro das fechas do carrosel*/
+        .w3-left, .w3-right, .w3-badge {
+            cursor: pointer
+        }
+        /*Tamanho das bolinhas do carrosel*/
+        .w3-badge {
+            height: 13px;
+            width: 13px;
+            padding: 0
+        }
+        /*style da foto1*/
+        #PreviewFotoVaga1 {
+            margin-top: 10%;
+            width: 300px;
+            height: 300px;
+            padding: 10px;
+            background-color: #eee;
+            border: 5px solid #ccc;
+            /*border-radius: 50%;*/
+            cursor: pointer;
+            transition: background .3s;
+        }
+        /*style da foto2*/
+        #PreviewFotoVaga2 {
+            margin-top: 10%;
+            width: 300px;
+            height: 300px;
+            padding: 10px;
+            background-color: #eee;
+            border: 5px solid #ccc;
+            /*border-radius: 50%;*/
+            cursor: pointer;
+            transition: background .3s;
+        }
+        /*style da foto3*/
+        #PreviewFotoVaga3 {
+            margin-top: 10%;
+            width: 300px;
+            height: 300px;
+            padding: 10px;
+            background-color: #eee;
+            border: 5px solid #ccc;
+            /*border-radius: 50%;*/
+            cursor: pointer;
+            transition: background .3s;
+        }
+        /*deixa oculto os botoes do type=file*/
+        input[type='file'] {
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <form id="formulario" asp-action="Add" enctype="multipart/form-data" method="post">
+        <div class="flex items-center min-h-screen p-6 bg-gray-50 dark:bg-gray-900">
+            <div class="flex-1 h-full max-w-4xl mx-auto overflow-hidden bg-white rounded-lg shadow-xl dark:bg-gray-800">
+                <h1 class="mb-4 text-xl py-3 font-bold text-center text-gray-700 dark:text-gray-200">
+                    Registre-se aqui
+                </h1>
+                <div class="flex flex-col overflow-y-auto md:flex-row">
+                    <div class="flex items-center justify-center p-6 sm:p-12 md:w-1/2">
+                        <div class="w-full">
+                            <!--Inicio dos campos de identificação -->
+                            <!--Campo ID -->
+                            <label class="block mt-4 text-sm">
+                                @*<span type="hidden" class="text-gray-700 dark:text-gray-400">ID</span>*@
+                                <input id="ParkingID" name="ParkingID" type="hidden" class="block w-full mt-1 text-sm dark:border-gray-600 dark:bg-gray-700 focus:border-purple-400 focus:outline-none focus:shadow-outline-purple dark:text-gray-300 dark:focus:shadow-outline-gray form-input"
+                                       value="@Model.ParkingID" />
+                                <span class="text-xs text-red-600 dark:text-red-400"></span>
+                            </label>
+                            <!--Campo CEP -->
+                            <label class="block mt-4 text-sm">
+                                <span class="text-gray-700 dark:text-gray-400">CEP</span>
+                                <input id="CEP" name="CEP" readonly class="block w-full mt-1 text-sm dark:border-gray-600 dark:bg-gray-700 focus:border-purple-400 focus:outline-none focus:shadow-outline-purple dark:text-gray-300 dark:focus:shadow-outline-gray form-input"
+                                       value="@Model.CEP" onblur="ValidaCEP()" />
+                                <span id="erroValidacaoCep" class="text-xs text-red-600 dark:text-red-400"></span>
+                            </label>
+                            <!--Campo Cidade -->
+                            <label class="block mt-4 text-sm">
+                                <span class="text-gray-700 dark:text-gray-400">Cidade</span>
+                                <input id="Cidade" name="Cidade" readonly class="block w-full mt-1 text-sm dark:border-gray-600 dark:bg-gray-700 focus:border-purple-400 focus:outline-none focus:shadow-outline-purple dark:text-gray-300 dark:focus:shadow-outline-gray form-input"
+                                       value="@Model.Cidade" onblur="ValidaCidade()" />
+                                <span id="erroValidacaoCidade" class="text-xs text-red-600 dark:text-red-400"></span>
+                            </label>
+                            <!--Campo Bairro -->
+                            <label class="block mt-4 text-sm">
+                                <span class="text-gray-700 dark:text-gray-400">Bairro</span>
+                                <input id="Bairro" name="Bairro" readonly class="block w-full mt-1 text-sm dark:border-gray-600 dark:bg-gray-700 focus:border-purple-400 focus:outline-none focus:shadow-outline-purple dark:text-gray-300 dark:focus:shadow-outline-gray form-input"
+                                       value="@Model.Bairro" onblur="ValidaBairro()" />
+                                <span id="erroValidacaoBairro" class="text-xs text-red-600 dark:text-red-400"></span>
+                            </label>
+                            <!--Campo Rua -->
+                            <label class="block mt-4 text-sm">
+                                <span class="text-gray-700 dark:text-gray-400">Rua</span>
+                                <input id="Rua" name="Rua" readonly class="block w-full mt-1 text-sm dark:border-gray-600 dark:bg-gray-700 focus:border-purple-400 focus:outline-none focus:shadow-outline-purple dark:text-gray-300 dark:focus:shadow-outline-gray form-input"
+                                       value="@Model.Rua" onblur="ValidaRua()" />
+                                <span id="erroValidacaoRua" class="text-xs text-red-600 dark:text-red-400"></span>
+                            </label>
+                            <!--Campo Número -->
+                            <label class="block mt-4 text-sm">
+                                <span class="text-gray-700 dark:text-gray-400">Número</span>
+                                <input id="Numero" name="Numero" class="block w-full mt-1 text-sm dark:border-gray-600 dark:bg-gray-700 focus:border-purple-400 focus:outline-none focus:shadow-outline-purple dark:text-gray-300 dark:focus:shadow-outline-gray form-input"
+                                       value="@Model.Numero" onblur="ValidaNumero()" />
+                                <span id="erroValidacaoNumero" class="text-xs text-red-600 dark:text-red-400"></span>
+                            </label>
+
+                            <!--Campo Complemento -->
+                            <label class="block mt-4 text-sm">
+                                <span class="text-gray-700 dark:text-gray-400">Complemento</span>
+                                <input id="Complemento" readonly name="Complemento" class="block w-full mt-1 text-sm dark:border-gray-600 dark:bg-gray-700 focus:border-purple-400 focus:outline-none focus:shadow-outline-purple dark:text-gray-300 dark:focus:shadow-outline-gray form-input"
+                                       value="@Model.Complemento" onblur="ValidaComplemento()" />
+                                <span id="erroValidacaoComplemento" class="text-xs text-red-600 dark:text-red-400"></span>
+                            </label>
+
+                            <!--Campo UF -->
+                            <label class="block mt-4 text-sm">
+                                <span class="text-gray-700 dark:text-gray-400">Estado</span>
+                                <input id="UF" name="UF" readonly class="block w-full mt-1 text-sm dark:border-gray-600 dark:bg-gray-700 focus:border-purple-400 focus:outline-none focus:shadow-outline-purple dark:text-gray-300 dark:focus:shadow-outline-gray form-input"
+                                       value="@Model.UF" onblur="ValidaUF()" />
+                                <span id="erroValidacaoUf" class="text-xs text-red-600 dark:text-red-400"></span>
+                            </label>
+
+                            <!--Campo Valor -->
+                            <label class="block mt-4 text-sm">
+                                <span class="text-gray-700 dark:text-gray-400">Valor por hora</span>
+                                <input id="ValorHora" name="ValorHora" readonly class="block w-full mt-1 text-sm dark:border-gray-600 dark:bg-gray-700 focus:border-purple-400 focus:outline-none focus:shadow-outline-purple dark:text-gray-300 dark:focus:shadow-outline-gray form-input"
+                                       value="@Model.ValorHora" onblur="ValidaValor()" />
+                                <span id="erroValidacaoValor" class="text-xs text-green-600 dark:text-red-400"></span>
+                            </label>
+                            <!--Campo Valor -->
+                            <label class="block mt-4 text-sm">
+                                <span class="text-gray-700 dark:text-gray-400">Dias Disponiveis</span>
+                                <input id="DiasDisponiveis" name="DiasDisponiveis" readonly class="block w-full mt-1 text-sm dark:border-gray-600 dark:bg-gray-700 focus:border-purple-400 focus:outline-none focus:shadow-outline-purple dark:text-gray-300 dark:focus:shadow-outline-gray form-input"
+                                       value="@Model.DiasDisponiveis" onblur="ValidaDiasDisponiveis()" />
+                                <span id="erroValidacaoDiasDisponiveis" class="text-xs text-green-600 dark:text-red-400"></span>
+                            </label>
+                            <!--Campo IsCoberta -->
+                            <div class="flex mt-6 text-sm">
+                                <label readonly class="flex items-center dark:text-gray-400">
+
+                                    @if (Model.IsCoberta)
+                                    {
+                                        <input type="checkbox" readonly checked name="IsCoberta" class="text-purple-600 form-checkbox focus:border-purple-400 focus:outline-none focus:shadow-outline-purple dark:focus:shadow-outline-gray">
+                                    }
+                                    else
+                                    {
+                                        <input type="checkbox" readonly name="IsCoberta" class="text-purple-600 form-checkbox focus:border-purple-400 focus:outline-none focus:shadow-outline-purple dark:focus:shadow-outline-gray">
+                                    }
+
+                                    <span class="ml-2">
+                                        Coberta
+                                    </span>
+                                </label>
+                            </div>
+                            <!--Campo IsVigiada -->
+                            <div class="flex mt-6 text-sm">
+                                <label readonly class="flex items-center dark:text-gray-400">
+                                    @if (Model.IsVigiada)
+                                    {
+                                        <input type="checkbox" readonly checked name="IsVigiada" class="text-purple-600 form-checkbox focus:border-purple-400 focus:outline-none focus:shadow-outline-purple dark:focus:shadow-outline-gray">
+                                    }
+                                    else
+                                    {
+                                        <input type="checkbox" readonly name="IsVigiada" class="text-purple-600 form-checkbox focus:border-purple-400 focus:outline-none focus:shadow-outline-purple dark:focus:shadow-outline-gray">
+                                    }
+
+                                    <span class="ml-2">
+                                        Vigiada
+                                    </span>
+                                </label>
+                            </div>
+                            <!--Campo DeixarChave -->
+                            <div class="flex mt-6 text-sm">
+                                <label readonly class="flex items-center dark:text-gray-400">
+                                    @if (Model.DeixarChave)
+                                    {
+                                        <input type="checkbox" readonly checked name="DeixarChave" class="text-purple-600 form-checkbox focus:border-purple-400 focus:outline-none focus:shadow-outline-purple dark:focus:shadow-outline-gray">
+                                    }
+                                    else
+                                    {
+                                        <input type="checkbox" readonly name="DeixarChave" class="text-purple-600 form-checkbox focus:border-purple-400 focus:outline-none focus:shadow-outline-purple dark:focus:shadow-outline-gray">
+                                    }
+
+                                    <span class="ml-2">
+                                        Deixar Chave
+                                    </span>
+                                </label>
+                            </div>
+                            <br />
+                            <span class="text-gray-700 dark:text-gray-400">Selecione seu veículo</span>
+                            <label class="flex mt-6 text-sm">
+                                <select id="VehicleID" name="VehicleID" class="block w-full mt-1 text-sm dark:border-gray-600 dark:bg-gray-700 focus:border-purple-400 focus:outline-none focus:shadow-outline-purple dark:text-gray-300 dark:focus:shadow-outline-gray form-input">
+                                    @for (int i = 0; i < Model.Vehicles.Count; i++)
+                                    {
+                                        <option value="@Model.Vehicles[i].ID">@Model.Vehicles[i].Modelo</option>
+                                    }
+
+                                </select>
+                                <span id="erroValidacaoVeiculo" class="text-xs text-red-600 dark:text-red-400"></span>
+                            </label>
+                            <br />
+                            <br />
+                            <span class="text-gray-700 dark:text-gray-400">Horário de entrada</span>
+                            <div class="flex mt-6 text-sm">
+                                <label class="flex items-center dark:text-gray-400">
+                                    <select id="DataEntrada" name="DataEntrada" class="form-control">
+                                        @foreach (IGrouping<DateTime, DateTime> item in ViewBag.HorariosDistinct)
+                                        {
+                                            <optgroup label="@item.Key.ToString("dd/MM/yyyy")">
+                                                @foreach (var i in item)
+                                                {
+                                                    <option value="@i">@i.ToString("HH:mm")</option>
+                                                }
+                                            </optgroup>
+                                        }
+                                    </select>
+                                </label>
+                            </div>
+
+                            <span class="text-gray-700 dark:text-gray-400">Horário de saída</span>
+                            <div class="flex mt-6 text-sm">
+                                <label class="flex items-center dark:text-gray-400">
+                                    <select id="DataSaida" name="DataSaida" class="form-control">
+                                        @foreach (IGrouping<DateTime, DateTime> item in ViewBag.HorariosDistinct)
+                                        {
+                                            <optgroup label="@item.Key.ToString("dd/MM/yyyy")">
+                                                @foreach (var i in item)
+                                                {
+                                                    <option value="@i">@i.ToString("HH:mm")</option>
+                                                }
+                                            </optgroup>
+                                        }
+                                    </select>
+                                </label>
+                            </div>
+                            <input type="hidden" id="idEstacionamento" name="idEstacionamento" value="@Model.ParkingID" />
+                        </div>
+                    </div>
+                    <!--Divisão da Tela-->
+                    <div class="flex align-items-lg-start p-6 sm:p-12 md:w-1/2">
+                        <!--fotos com preview de upload, estilo carrosel-->
+                        <div class="w3-content w3-display-container" style="max-width:300px">
+                            <img class="mySlides" src="~/Fotos/Vagas/@Model.ParkingID/1.jpg" style="width:100%" id="PreviewFotoVaga1" name="PreviewFotoVaga1">
+                            <img class="mySlides" src="~/Fotos/Vagas/@Model.ParkingID/2.jpg" style="width:100%" id="PreviewFotoVaga2" name="PreviewFotoVaga2">
+                            <img class="mySlides" src="~/Fotos/Vagas/@Model.ParkingID/3.jpg" style="width:100%" id="PreviewFotoVaga3" name="PreviewFotoVaga3">
+                            <div class="w3-center w3-container w3-section w3-large w3-text-white w3-display-bottommiddle" style="width:100%">
+                                <div class="w3-left w3-hover-text-khaki" onclick="plusDivs(-1)">❮</div>
+                                <div class="w3-right w3-hover-text-khaki" onclick="plusDivs(1)">❯</div>
+                                <span class="w3-badge demo w3-border w3-transparent w3-hover-white w3-white" onclick="currentDiv(1)"></span>
+                                <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(2)"></span>
+                                <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(3)"></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--Botão Cadastrar -->
+                <div class="flex justify-center p-4 m-2">
+                    <input id="btnCadastrarParking" value="Agendar Horario" type="submit" onclick="ValidaFormulario()" class="block col-6 px-4 py-2 mt-4 text-sm font-medium leading-5 text-center text-white transition-colors duration-150 bg-purple-600 border border-transparent rounded-lg active:bg-purple-600 hover:bg-purple-700 focus:outline-none focus:shadow-outline-purple" />
+                </div>
+
+            </div>
+        </div>
+
+        <!--Caixa de aviso quando ocorrer erro (MODAL)-->
+        @if (ViewBag.Error != null)
+        {
+            <div class="container justify-center">
+                <!-- Modal -->
+                <div class="modal show" id="myModal" role="dialog">
+                    <div class="modal-dialog modal-dialog-centered modal-lg">
+
+                        <!-- Modal content-->
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                <h4 class="modal-title">Atenção!</h4>
+                            </div>
+                            <div class="modal-body">
+                                <p>@ViewBag.Error</p>
+                            </div>
+                            <div class="modal-footer">
+                                <button type="button" class="block w-full px-4 py-2 mt-4 text-sm font-medium leading-5 text-center text-white transition-colors duration-150 bg-purple-600 border border-transparent rounded-lg active:bg-purple-600 hover:bg-purple-700 focus:outline-none focus:shadow-outline-purple" data-dismiss="modal">Fechar</button>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        }
+
+    </form>
+    <script src="~/js1/jquery-3.4.1.min.js"></script>
+    <script src="~/js1/bootstrap.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.min.js"defer></script>
+    <script src="~/assets/js/init-alpine.js"></script>
+    <script src="~/assets/js/CarroselFotosVagas.js"></script>
+
+    <!--Habilita tela de mensagem de erro -->
+    @if (ViewBag.Error != null)
+    {
+        <script type="text/javascript">
+            $(window).on('load', function () {
+                var delayMs = 500; // delay in milliseconds
+
+                setTimeout(function () {
+                    $('#myModal').modal('show');
+                }, delayMs);
+            });
+        </script>
+    }
+</body>
+</html>

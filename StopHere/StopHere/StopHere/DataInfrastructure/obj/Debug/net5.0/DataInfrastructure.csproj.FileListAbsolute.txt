@@ -1,0 +1,629 @@
+C:\Users\Meu computador\source\repos\StopHereProject\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.deps.json
+C:\Users\Meu computador\source\repos\StopHereProject\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.runtimeconfig.json
+C:\Users\Meu computador\source\repos\StopHereProject\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.runtimeconfig.dev.json
+C:\Users\Meu computador\source\repos\StopHereProject\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.dll
+C:\Users\Meu computador\source\repos\StopHereProject\DataInfrastructure\bin\Debug\net5.0\ref\DataInfrastructure.dll
+C:\Users\Meu computador\source\repos\StopHereProject\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.pdb
+C:\Users\Meu computador\source\repos\StopHereProject\DataInfrastructure\bin\Debug\net5.0\Entities.dll
+C:\Users\Meu computador\source\repos\StopHereProject\DataInfrastructure\bin\Debug\net5.0\Entities.pdb
+C:\Users\Meu computador\source\repos\StopHereProject\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csprojAssemblyReference.cache
+C:\Users\Meu computador\source\repos\StopHereProject\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meu computador\source\repos\StopHereProject\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.AssemblyInfoInputs.cache
+C:\Users\Meu computador\source\repos\StopHereProject\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.AssemblyInfo.cs
+C:\Users\Meu computador\source\repos\StopHereProject\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Meu computador\source\repos\StopHereProject\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.CopyComplete
+C:\Users\Meu computador\source\repos\StopHereProject\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.dll
+C:\Users\Meu computador\source\repos\StopHereProject\DataInfrastructure\obj\Debug\net5.0\ref\DataInfrastructure.dll
+C:\Users\Meu computador\source\repos\StopHereProject\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.pdb
+C:\Users\Meu computador\source\repos\StopHereProject\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.genruntimeconfig.cache
+C:\C#\StopHereProject\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.AssemblyReference.cache
+C:\C#\StopHereProject\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\StopHereProject\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.AssemblyInfoInputs.cache
+C:\C#\StopHereProject\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.AssemblyInfo.cs
+C:\C#\StopHereProject\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.CoreCompileInputs.cache
+C:\C#\StopHereProject\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.dll
+C:\C#\StopHereProject\DataInfrastructure\obj\Debug\net5.0\ref\DataInfrastructure.dll
+C:\C#\StopHereProject\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.pdb
+C:\C#\StopHereProject\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.deps.json
+C:\C#\StopHereProject\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.runtimeconfig.json
+C:\C#\StopHereProject\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.runtimeconfig.dev.json
+C:\C#\StopHereProject\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.dll
+C:\C#\StopHereProject\DataInfrastructure\bin\Debug\net5.0\ref\DataInfrastructure.dll
+C:\C#\StopHereProject\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.pdb
+C:\C#\StopHereProject\DataInfrastructure\bin\Debug\net5.0\Entities.dll
+C:\C#\StopHereProject\DataInfrastructure\bin\Debug\net5.0\Entities.pdb
+C:\C#\StopHereProject\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.CopyComplete
+C:\C#\StopHereProject\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.genruntimeconfig.cache
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\StopHereProject\StopHereProject\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.deps.json
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\StopHereProject\StopHereProject\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.runtimeconfig.json
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\StopHereProject\StopHereProject\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.runtimeconfig.dev.json
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\StopHereProject\StopHereProject\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\StopHereProject\StopHereProject\DataInfrastructure\bin\Debug\net5.0\ref\DataInfrastructure.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\StopHereProject\StopHereProject\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.pdb
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\StopHereProject\StopHereProject\DataInfrastructure\bin\Debug\net5.0\Entities.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\StopHereProject\StopHereProject\DataInfrastructure\bin\Debug\net5.0\Entities.pdb
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\StopHereProject\StopHereProject\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csprojAssemblyReference.cache
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\StopHereProject\StopHereProject\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\StopHereProject\StopHereProject\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.AssemblyInfoInputs.cache
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\StopHereProject\StopHereProject\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.AssemblyInfo.cs
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\StopHereProject\StopHereProject\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\StopHereProject\StopHereProject\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.CopyComplete
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\StopHereProject\StopHereProject\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\StopHereProject\StopHereProject\DataInfrastructure\obj\Debug\net5.0\ref\DataInfrastructure.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\StopHereProject\StopHereProject\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.pdb
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\StopHereProject\StopHereProject\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.genruntimeconfig.cache
+C:\Users\moc\Documents\Thiago Radunz C# Oficial\Entra21ThiagoCSharp\MVC\StopHereProject\StopHereProject\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.deps.json
+C:\Users\moc\Documents\Thiago Radunz C# Oficial\Entra21ThiagoCSharp\MVC\StopHereProject\StopHereProject\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.runtimeconfig.json
+C:\Users\moc\Documents\Thiago Radunz C# Oficial\Entra21ThiagoCSharp\MVC\StopHereProject\StopHereProject\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.runtimeconfig.dev.json
+C:\Users\moc\Documents\Thiago Radunz C# Oficial\Entra21ThiagoCSharp\MVC\StopHereProject\StopHereProject\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.dll
+C:\Users\moc\Documents\Thiago Radunz C# Oficial\Entra21ThiagoCSharp\MVC\StopHereProject\StopHereProject\DataInfrastructure\bin\Debug\net5.0\ref\DataInfrastructure.dll
+C:\Users\moc\Documents\Thiago Radunz C# Oficial\Entra21ThiagoCSharp\MVC\StopHereProject\StopHereProject\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.pdb
+C:\Users\moc\Documents\Thiago Radunz C# Oficial\Entra21ThiagoCSharp\MVC\StopHereProject\StopHereProject\DataInfrastructure\bin\Debug\net5.0\Entities.dll
+C:\Users\moc\Documents\Thiago Radunz C# Oficial\Entra21ThiagoCSharp\MVC\StopHereProject\StopHereProject\DataInfrastructure\bin\Debug\net5.0\Entities.pdb
+C:\Users\moc\Documents\Thiago Radunz C# Oficial\Entra21ThiagoCSharp\MVC\StopHereProject\StopHereProject\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csprojAssemblyReference.cache
+C:\Users\moc\Documents\Thiago Radunz C# Oficial\Entra21ThiagoCSharp\MVC\StopHereProject\StopHereProject\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moc\Documents\Thiago Radunz C# Oficial\Entra21ThiagoCSharp\MVC\StopHereProject\StopHereProject\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.AssemblyInfoInputs.cache
+C:\Users\moc\Documents\Thiago Radunz C# Oficial\Entra21ThiagoCSharp\MVC\StopHereProject\StopHereProject\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.AssemblyInfo.cs
+C:\Users\moc\Documents\Thiago Radunz C# Oficial\Entra21ThiagoCSharp\MVC\StopHereProject\StopHereProject\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.CoreCompileInputs.cache
+C:\Users\moc\Documents\Thiago Radunz C# Oficial\Entra21ThiagoCSharp\MVC\StopHereProject\StopHereProject\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.CopyComplete
+C:\Users\moc\Documents\Thiago Radunz C# Oficial\Entra21ThiagoCSharp\MVC\StopHereProject\StopHereProject\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.dll
+C:\Users\moc\Documents\Thiago Radunz C# Oficial\Entra21ThiagoCSharp\MVC\StopHereProject\StopHereProject\DataInfrastructure\obj\Debug\net5.0\ref\DataInfrastructure.dll
+C:\Users\moc\Documents\Thiago Radunz C# Oficial\Entra21ThiagoCSharp\MVC\StopHereProject\StopHereProject\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.pdb
+C:\Users\moc\Documents\Thiago Radunz C# Oficial\Entra21ThiagoCSharp\MVC\StopHereProject\StopHereProject\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.genruntimeconfig.cache
+C:\Users\moc\Downloads\StopHereProject\StopHereProject\StopHereProject\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.deps.json
+C:\Users\moc\Downloads\StopHereProject\StopHereProject\StopHereProject\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.runtimeconfig.json
+C:\Users\moc\Downloads\StopHereProject\StopHereProject\StopHereProject\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.runtimeconfig.dev.json
+C:\Users\moc\Downloads\StopHereProject\StopHereProject\StopHereProject\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.dll
+C:\Users\moc\Downloads\StopHereProject\StopHereProject\StopHereProject\DataInfrastructure\bin\Debug\net5.0\ref\DataInfrastructure.dll
+C:\Users\moc\Downloads\StopHereProject\StopHereProject\StopHereProject\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.pdb
+C:\Users\moc\Downloads\StopHereProject\StopHereProject\StopHereProject\DataInfrastructure\bin\Debug\net5.0\Entities.dll
+C:\Users\moc\Downloads\StopHereProject\StopHereProject\StopHereProject\DataInfrastructure\bin\Debug\net5.0\Entities.pdb
+C:\Users\moc\Downloads\StopHereProject\StopHereProject\StopHereProject\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csprojAssemblyReference.cache
+C:\Users\moc\Downloads\StopHereProject\StopHereProject\StopHereProject\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moc\Downloads\StopHereProject\StopHereProject\StopHereProject\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.AssemblyInfoInputs.cache
+C:\Users\moc\Downloads\StopHereProject\StopHereProject\StopHereProject\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.AssemblyInfo.cs
+C:\Users\moc\Downloads\StopHereProject\StopHereProject\StopHereProject\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.CoreCompileInputs.cache
+C:\Users\moc\Downloads\StopHereProject\StopHereProject\StopHereProject\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.CopyComplete
+C:\Users\moc\Downloads\StopHereProject\StopHereProject\StopHereProject\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.dll
+C:\Users\moc\Downloads\StopHereProject\StopHereProject\StopHereProject\DataInfrastructure\obj\Debug\net5.0\ref\DataInfrastructure.dll
+C:\Users\moc\Downloads\StopHereProject\StopHereProject\StopHereProject\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.pdb
+C:\Users\moc\Downloads\StopHereProject\StopHereProject\StopHereProject\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.genruntimeconfig.cache
+C:\Users\moc\Documents\TRABALHO FINAL\StopHereProject(PRINCIPAL)\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.deps.json
+C:\Users\moc\Documents\TRABALHO FINAL\StopHereProject(PRINCIPAL)\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.runtimeconfig.json
+C:\Users\moc\Documents\TRABALHO FINAL\StopHereProject(PRINCIPAL)\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.runtimeconfig.dev.json
+C:\Users\moc\Documents\TRABALHO FINAL\StopHereProject(PRINCIPAL)\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.dll
+C:\Users\moc\Documents\TRABALHO FINAL\StopHereProject(PRINCIPAL)\DataInfrastructure\bin\Debug\net5.0\ref\DataInfrastructure.dll
+C:\Users\moc\Documents\TRABALHO FINAL\StopHereProject(PRINCIPAL)\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.pdb
+C:\Users\moc\Documents\TRABALHO FINAL\StopHereProject(PRINCIPAL)\DataInfrastructure\bin\Debug\net5.0\Entities.dll
+C:\Users\moc\Documents\TRABALHO FINAL\StopHereProject(PRINCIPAL)\DataInfrastructure\bin\Debug\net5.0\Entities.pdb
+C:\Users\moc\Documents\TRABALHO FINAL\StopHereProject(PRINCIPAL)\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csprojAssemblyReference.cache
+C:\Users\moc\Documents\TRABALHO FINAL\StopHereProject(PRINCIPAL)\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moc\Documents\TRABALHO FINAL\StopHereProject(PRINCIPAL)\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.AssemblyInfoInputs.cache
+C:\Users\moc\Documents\TRABALHO FINAL\StopHereProject(PRINCIPAL)\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.AssemblyInfo.cs
+C:\Users\moc\Documents\TRABALHO FINAL\StopHereProject(PRINCIPAL)\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.CoreCompileInputs.cache
+C:\Users\moc\Documents\TRABALHO FINAL\StopHereProject(PRINCIPAL)\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.CopyComplete
+C:\Users\moc\Documents\TRABALHO FINAL\StopHereProject(PRINCIPAL)\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.dll
+C:\Users\moc\Documents\TRABALHO FINAL\StopHereProject(PRINCIPAL)\DataInfrastructure\obj\Debug\net5.0\ref\DataInfrastructure.dll
+C:\Users\moc\Documents\TRABALHO FINAL\StopHereProject(PRINCIPAL)\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.pdb
+C:\Users\moc\Documents\TRABALHO FINAL\StopHereProject(PRINCIPAL)\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.genruntimeconfig.cache
+C:\C#\Trabalhos\StopHereProject(PRINCIPAL)\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.deps.json
+C:\C#\Trabalhos\StopHereProject(PRINCIPAL)\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.runtimeconfig.json
+C:\C#\Trabalhos\StopHereProject(PRINCIPAL)\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.runtimeconfig.dev.json
+C:\C#\Trabalhos\StopHereProject(PRINCIPAL)\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.dll
+C:\C#\Trabalhos\StopHereProject(PRINCIPAL)\DataInfrastructure\bin\Debug\net5.0\ref\DataInfrastructure.dll
+C:\C#\Trabalhos\StopHereProject(PRINCIPAL)\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.pdb
+C:\C#\Trabalhos\StopHereProject(PRINCIPAL)\DataInfrastructure\bin\Debug\net5.0\Entities.dll
+C:\C#\Trabalhos\StopHereProject(PRINCIPAL)\DataInfrastructure\bin\Debug\net5.0\Entities.pdb
+C:\C#\Trabalhos\StopHereProject(PRINCIPAL)\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.AssemblyReference.cache
+C:\C#\Trabalhos\StopHereProject(PRINCIPAL)\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Trabalhos\StopHereProject(PRINCIPAL)\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.AssemblyInfoInputs.cache
+C:\C#\Trabalhos\StopHereProject(PRINCIPAL)\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.AssemblyInfo.cs
+C:\C#\Trabalhos\StopHereProject(PRINCIPAL)\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.CoreCompileInputs.cache
+C:\C#\Trabalhos\StopHereProject(PRINCIPAL)\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.CopyComplete
+C:\C#\Trabalhos\StopHereProject(PRINCIPAL)\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.dll
+C:\C#\Trabalhos\StopHereProject(PRINCIPAL)\DataInfrastructure\obj\Debug\net5.0\ref\DataInfrastructure.dll
+C:\C#\Trabalhos\StopHereProject(PRINCIPAL)\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.pdb
+C:\C#\Trabalhos\StopHereProject(PRINCIPAL)\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.genruntimeconfig.cache
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\StopHereProject\StopHereProject(PRINCIPAL)\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.deps.json
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\StopHereProject\StopHereProject(PRINCIPAL)\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.runtimeconfig.json
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\StopHereProject\StopHereProject(PRINCIPAL)\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.runtimeconfig.dev.json
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\StopHereProject\StopHereProject(PRINCIPAL)\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\StopHereProject\StopHereProject(PRINCIPAL)\DataInfrastructure\bin\Debug\net5.0\ref\DataInfrastructure.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\StopHereProject\StopHereProject(PRINCIPAL)\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.pdb
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\StopHereProject\StopHereProject(PRINCIPAL)\DataInfrastructure\bin\Debug\net5.0\Entities.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\StopHereProject\StopHereProject(PRINCIPAL)\DataInfrastructure\bin\Debug\net5.0\Entities.pdb
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\StopHereProject\StopHereProject(PRINCIPAL)\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csprojAssemblyReference.cache
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\StopHereProject\StopHereProject(PRINCIPAL)\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\StopHereProject\StopHereProject(PRINCIPAL)\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.AssemblyInfoInputs.cache
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\StopHereProject\StopHereProject(PRINCIPAL)\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.AssemblyInfo.cs
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\StopHereProject\StopHereProject(PRINCIPAL)\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\StopHereProject\StopHereProject(PRINCIPAL)\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.CopyComplete
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\StopHereProject\StopHereProject(PRINCIPAL)\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\StopHereProject\StopHereProject(PRINCIPAL)\DataInfrastructure\obj\Debug\net5.0\ref\DataInfrastructure.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\StopHereProject\StopHereProject(PRINCIPAL)\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.pdb
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\StopHereProject\StopHereProject(PRINCIPAL)\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.genruntimeconfig.cache
+C:\Users\moc\Documents\Thiago\StopHereProject\StopHereProject(PRINCIPAL)\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.deps.json
+C:\Users\moc\Documents\Thiago\StopHereProject\StopHereProject(PRINCIPAL)\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.runtimeconfig.json
+C:\Users\moc\Documents\Thiago\StopHereProject\StopHereProject(PRINCIPAL)\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.runtimeconfig.dev.json
+C:\Users\moc\Documents\Thiago\StopHereProject\StopHereProject(PRINCIPAL)\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.dll
+C:\Users\moc\Documents\Thiago\StopHereProject\StopHereProject(PRINCIPAL)\DataInfrastructure\bin\Debug\net5.0\ref\DataInfrastructure.dll
+C:\Users\moc\Documents\Thiago\StopHereProject\StopHereProject(PRINCIPAL)\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.pdb
+C:\Users\moc\Documents\Thiago\StopHereProject\StopHereProject(PRINCIPAL)\DataInfrastructure\bin\Debug\net5.0\Entities.dll
+C:\Users\moc\Documents\Thiago\StopHereProject\StopHereProject(PRINCIPAL)\DataInfrastructure\bin\Debug\net5.0\Entities.pdb
+C:\Users\moc\Documents\Thiago\StopHereProject\StopHereProject(PRINCIPAL)\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csprojAssemblyReference.cache
+C:\Users\moc\Documents\Thiago\StopHereProject\StopHereProject(PRINCIPAL)\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moc\Documents\Thiago\StopHereProject\StopHereProject(PRINCIPAL)\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.AssemblyInfoInputs.cache
+C:\Users\moc\Documents\Thiago\StopHereProject\StopHereProject(PRINCIPAL)\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.AssemblyInfo.cs
+C:\Users\moc\Documents\Thiago\StopHereProject\StopHereProject(PRINCIPAL)\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.CoreCompileInputs.cache
+C:\Users\moc\Documents\Thiago\StopHereProject\StopHereProject(PRINCIPAL)\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.CopyComplete
+C:\Users\moc\Documents\Thiago\StopHereProject\StopHereProject(PRINCIPAL)\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.dll
+C:\Users\moc\Documents\Thiago\StopHereProject\StopHereProject(PRINCIPAL)\DataInfrastructure\obj\Debug\net5.0\ref\DataInfrastructure.dll
+C:\Users\moc\Documents\Thiago\StopHereProject\StopHereProject(PRINCIPAL)\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.pdb
+C:\Users\moc\Documents\Thiago\StopHereProject\StopHereProject(PRINCIPAL)\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.genruntimeconfig.cache
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject\StopHereProject(PRINCIPAL)\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.deps.json
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject\StopHereProject(PRINCIPAL)\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.runtimeconfig.json
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject\StopHereProject(PRINCIPAL)\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.runtimeconfig.dev.json
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject\StopHereProject(PRINCIPAL)\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject\StopHereProject(PRINCIPAL)\DataInfrastructure\bin\Debug\net5.0\ref\DataInfrastructure.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject\StopHereProject(PRINCIPAL)\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.pdb
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject\StopHereProject(PRINCIPAL)\DataInfrastructure\bin\Debug\net5.0\Entities.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject\StopHereProject(PRINCIPAL)\DataInfrastructure\bin\Debug\net5.0\Entities.pdb
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject\StopHereProject(PRINCIPAL)\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csprojAssemblyReference.cache
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject\StopHereProject(PRINCIPAL)\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject\StopHereProject(PRINCIPAL)\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.AssemblyInfoInputs.cache
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject\StopHereProject(PRINCIPAL)\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.AssemblyInfo.cs
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject\StopHereProject(PRINCIPAL)\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject\StopHereProject(PRINCIPAL)\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.CopyComplete
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject\StopHereProject(PRINCIPAL)\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject\StopHereProject(PRINCIPAL)\DataInfrastructure\obj\Debug\net5.0\ref\DataInfrastructure.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject\StopHereProject(PRINCIPAL)\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.pdb
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject\StopHereProject(PRINCIPAL)\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.genruntimeconfig.cache
+C:\Users\moc\Documents\Thiago\StopHereProject(PRINCIPAL)\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.deps.json
+C:\Users\moc\Documents\Thiago\StopHereProject(PRINCIPAL)\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.runtimeconfig.json
+C:\Users\moc\Documents\Thiago\StopHereProject(PRINCIPAL)\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.runtimeconfig.dev.json
+C:\Users\moc\Documents\Thiago\StopHereProject(PRINCIPAL)\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.dll
+C:\Users\moc\Documents\Thiago\StopHereProject(PRINCIPAL)\DataInfrastructure\bin\Debug\net5.0\ref\DataInfrastructure.dll
+C:\Users\moc\Documents\Thiago\StopHereProject(PRINCIPAL)\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.pdb
+C:\Users\moc\Documents\Thiago\StopHereProject(PRINCIPAL)\DataInfrastructure\bin\Debug\net5.0\Entities.dll
+C:\Users\moc\Documents\Thiago\StopHereProject(PRINCIPAL)\DataInfrastructure\bin\Debug\net5.0\Entities.pdb
+C:\Users\moc\Documents\Thiago\StopHereProject(PRINCIPAL)\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csprojAssemblyReference.cache
+C:\Users\moc\Documents\Thiago\StopHereProject(PRINCIPAL)\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moc\Documents\Thiago\StopHereProject(PRINCIPAL)\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.AssemblyInfoInputs.cache
+C:\Users\moc\Documents\Thiago\StopHereProject(PRINCIPAL)\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.AssemblyInfo.cs
+C:\Users\moc\Documents\Thiago\StopHereProject(PRINCIPAL)\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.CoreCompileInputs.cache
+C:\Users\moc\Documents\Thiago\StopHereProject(PRINCIPAL)\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.CopyComplete
+C:\Users\moc\Documents\Thiago\StopHereProject(PRINCIPAL)\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.dll
+C:\Users\moc\Documents\Thiago\StopHereProject(PRINCIPAL)\DataInfrastructure\obj\Debug\net5.0\ref\DataInfrastructure.dll
+C:\Users\moc\Documents\Thiago\StopHereProject(PRINCIPAL)\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.pdb
+C:\Users\moc\Documents\Thiago\StopHereProject(PRINCIPAL)\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.genruntimeconfig.cache
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject(PRINCIPAL)\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.deps.json
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject(PRINCIPAL)\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.runtimeconfig.json
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject(PRINCIPAL)\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.runtimeconfig.dev.json
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject(PRINCIPAL)\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject(PRINCIPAL)\DataInfrastructure\bin\Debug\net5.0\ref\DataInfrastructure.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject(PRINCIPAL)\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.pdb
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject(PRINCIPAL)\DataInfrastructure\bin\Debug\net5.0\Entities.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject(PRINCIPAL)\DataInfrastructure\bin\Debug\net5.0\Entities.pdb
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject(PRINCIPAL)\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csprojAssemblyReference.cache
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject(PRINCIPAL)\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject(PRINCIPAL)\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.AssemblyInfoInputs.cache
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject(PRINCIPAL)\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.AssemblyInfo.cs
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject(PRINCIPAL)\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject(PRINCIPAL)\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.CopyComplete
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject(PRINCIPAL)\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject(PRINCIPAL)\DataInfrastructure\obj\Debug\net5.0\ref\DataInfrastructure.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject(PRINCIPAL)\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.pdb
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject(PRINCIPAL)\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.genruntimeconfig.cache
+C:\Users\moc\Documents\Thiago\StopHereProject\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.deps.json
+C:\Users\moc\Documents\Thiago\StopHereProject\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.runtimeconfig.json
+C:\Users\moc\Documents\Thiago\StopHereProject\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.runtimeconfig.dev.json
+C:\Users\moc\Documents\Thiago\StopHereProject\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.dll
+C:\Users\moc\Documents\Thiago\StopHereProject\DataInfrastructure\bin\Debug\net5.0\ref\DataInfrastructure.dll
+C:\Users\moc\Documents\Thiago\StopHereProject\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.pdb
+C:\Users\moc\Documents\Thiago\StopHereProject\DataInfrastructure\bin\Debug\net5.0\Entities.dll
+C:\Users\moc\Documents\Thiago\StopHereProject\DataInfrastructure\bin\Debug\net5.0\Entities.pdb
+C:\Users\moc\Documents\Thiago\StopHereProject\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csprojAssemblyReference.cache
+C:\Users\moc\Documents\Thiago\StopHereProject\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moc\Documents\Thiago\StopHereProject\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.AssemblyInfoInputs.cache
+C:\Users\moc\Documents\Thiago\StopHereProject\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.AssemblyInfo.cs
+C:\Users\moc\Documents\Thiago\StopHereProject\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.CoreCompileInputs.cache
+C:\Users\moc\Documents\Thiago\StopHereProject\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.CopyComplete
+C:\Users\moc\Documents\Thiago\StopHereProject\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.dll
+C:\Users\moc\Documents\Thiago\StopHereProject\DataInfrastructure\obj\Debug\net5.0\ref\DataInfrastructure.dll
+C:\Users\moc\Documents\Thiago\StopHereProject\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.pdb
+C:\Users\moc\Documents\Thiago\StopHereProject\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.genruntimeconfig.cache
+C:\C#\Trabalhos\StopHereProject\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.deps.json
+C:\C#\Trabalhos\StopHereProject\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.runtimeconfig.json
+C:\C#\Trabalhos\StopHereProject\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.runtimeconfig.dev.json
+C:\C#\Trabalhos\StopHereProject\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.dll
+C:\C#\Trabalhos\StopHereProject\DataInfrastructure\bin\Debug\net5.0\ref\DataInfrastructure.dll
+C:\C#\Trabalhos\StopHereProject\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.pdb
+C:\C#\Trabalhos\StopHereProject\DataInfrastructure\bin\Debug\net5.0\Entities.dll
+C:\C#\Trabalhos\StopHereProject\DataInfrastructure\bin\Debug\net5.0\Entities.pdb
+C:\C#\Trabalhos\StopHereProject\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.AssemblyReference.cache
+C:\C#\Trabalhos\StopHereProject\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Trabalhos\StopHereProject\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.AssemblyInfoInputs.cache
+C:\C#\Trabalhos\StopHereProject\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.AssemblyInfo.cs
+C:\C#\Trabalhos\StopHereProject\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.CoreCompileInputs.cache
+C:\C#\Trabalhos\StopHereProject\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.CopyComplete
+C:\C#\Trabalhos\StopHereProject\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.dll
+C:\C#\Trabalhos\StopHereProject\DataInfrastructure\obj\Debug\net5.0\ref\DataInfrastructure.dll
+C:\C#\Trabalhos\StopHereProject\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.pdb
+C:\C#\Trabalhos\StopHereProject\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.genruntimeconfig.cache
+C:\Users\moc\Desktop\StopHereProject\StopHereProject\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.deps.json
+C:\Users\moc\Desktop\StopHereProject\StopHereProject\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.runtimeconfig.json
+C:\Users\moc\Desktop\StopHereProject\StopHereProject\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.runtimeconfig.dev.json
+C:\Users\moc\Desktop\StopHereProject\StopHereProject\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.dll
+C:\Users\moc\Desktop\StopHereProject\StopHereProject\DataInfrastructure\bin\Debug\net5.0\ref\DataInfrastructure.dll
+C:\Users\moc\Desktop\StopHereProject\StopHereProject\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.pdb
+C:\Users\moc\Desktop\StopHereProject\StopHereProject\DataInfrastructure\bin\Debug\net5.0\Entities.dll
+C:\Users\moc\Desktop\StopHereProject\StopHereProject\DataInfrastructure\bin\Debug\net5.0\Entities.pdb
+C:\Users\moc\Desktop\StopHereProject\StopHereProject\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csprojAssemblyReference.cache
+C:\Users\moc\Desktop\StopHereProject\StopHereProject\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moc\Desktop\StopHereProject\StopHereProject\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.AssemblyInfoInputs.cache
+C:\Users\moc\Desktop\StopHereProject\StopHereProject\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.AssemblyInfo.cs
+C:\Users\moc\Desktop\StopHereProject\StopHereProject\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.CoreCompileInputs.cache
+C:\Users\moc\Desktop\StopHereProject\StopHereProject\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.CopyComplete
+C:\Users\moc\Desktop\StopHereProject\StopHereProject\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.dll
+C:\Users\moc\Desktop\StopHereProject\StopHereProject\DataInfrastructure\obj\Debug\net5.0\ref\DataInfrastructure.dll
+C:\Users\moc\Desktop\StopHereProject\StopHereProject\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.pdb
+C:\Users\moc\Desktop\StopHereProject\StopHereProject\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.genruntimeconfig.cache
+C:\Users\moc\Documents\Guilherme\StopHereProject\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.deps.json
+C:\Users\moc\Documents\Guilherme\StopHereProject\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.runtimeconfig.json
+C:\Users\moc\Documents\Guilherme\StopHereProject\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.runtimeconfig.dev.json
+C:\Users\moc\Documents\Guilherme\StopHereProject\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.dll
+C:\Users\moc\Documents\Guilherme\StopHereProject\DataInfrastructure\bin\Debug\net5.0\ref\DataInfrastructure.dll
+C:\Users\moc\Documents\Guilherme\StopHereProject\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.pdb
+C:\Users\moc\Documents\Guilherme\StopHereProject\DataInfrastructure\bin\Debug\net5.0\Entities.dll
+C:\Users\moc\Documents\Guilherme\StopHereProject\DataInfrastructure\bin\Debug\net5.0\Entities.pdb
+C:\Users\moc\Documents\Guilherme\StopHereProject\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csprojAssemblyReference.cache
+C:\Users\moc\Documents\Guilherme\StopHereProject\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moc\Documents\Guilherme\StopHereProject\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.AssemblyInfoInputs.cache
+C:\Users\moc\Documents\Guilherme\StopHereProject\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.AssemblyInfo.cs
+C:\Users\moc\Documents\Guilherme\StopHereProject\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.CoreCompileInputs.cache
+C:\Users\moc\Documents\Guilherme\StopHereProject\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.CopyComplete
+C:\Users\moc\Documents\Guilherme\StopHereProject\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.dll
+C:\Users\moc\Documents\Guilherme\StopHereProject\DataInfrastructure\obj\Debug\net5.0\ref\DataInfrastructure.dll
+C:\Users\moc\Documents\Guilherme\StopHereProject\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.pdb
+C:\Users\moc\Documents\Guilherme\StopHereProject\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.genruntimeconfig.cache
+C:\Users\moc\Documents\PROJETO\gui\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.deps.json
+C:\Users\moc\Documents\PROJETO\gui\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.runtimeconfig.json
+C:\Users\moc\Documents\PROJETO\gui\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.runtimeconfig.dev.json
+C:\Users\moc\Documents\PROJETO\gui\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.dll
+C:\Users\moc\Documents\PROJETO\gui\DataInfrastructure\bin\Debug\net5.0\ref\DataInfrastructure.dll
+C:\Users\moc\Documents\PROJETO\gui\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.pdb
+C:\Users\moc\Documents\PROJETO\gui\DataInfrastructure\bin\Debug\net5.0\Entities.dll
+C:\Users\moc\Documents\PROJETO\gui\DataInfrastructure\bin\Debug\net5.0\Entities.pdb
+C:\Users\moc\Documents\PROJETO\gui\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csprojAssemblyReference.cache
+C:\Users\moc\Documents\PROJETO\gui\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moc\Documents\PROJETO\gui\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.AssemblyInfoInputs.cache
+C:\Users\moc\Documents\PROJETO\gui\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.AssemblyInfo.cs
+C:\Users\moc\Documents\PROJETO\gui\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.CoreCompileInputs.cache
+C:\Users\moc\Documents\PROJETO\gui\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.CopyComplete
+C:\Users\moc\Documents\PROJETO\gui\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.dll
+C:\Users\moc\Documents\PROJETO\gui\DataInfrastructure\obj\Debug\net5.0\ref\DataInfrastructure.dll
+C:\Users\moc\Documents\PROJETO\gui\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.pdb
+C:\Users\moc\Documents\PROJETO\gui\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.genruntimeconfig.cache
+C:\C#\Trabalhos\gui\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.deps.json
+C:\C#\Trabalhos\gui\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.runtimeconfig.json
+C:\C#\Trabalhos\gui\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.runtimeconfig.dev.json
+C:\C#\Trabalhos\gui\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.dll
+C:\C#\Trabalhos\gui\DataInfrastructure\bin\Debug\net5.0\ref\DataInfrastructure.dll
+C:\C#\Trabalhos\gui\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.pdb
+C:\C#\Trabalhos\gui\DataInfrastructure\bin\Debug\net5.0\Entities.dll
+C:\C#\Trabalhos\gui\DataInfrastructure\bin\Debug\net5.0\Entities.pdb
+C:\C#\Trabalhos\gui\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.AssemblyReference.cache
+C:\C#\Trabalhos\gui\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Trabalhos\gui\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.AssemblyInfoInputs.cache
+C:\C#\Trabalhos\gui\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.AssemblyInfo.cs
+C:\C#\Trabalhos\gui\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.CoreCompileInputs.cache
+C:\C#\Trabalhos\gui\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.CopyComplete
+C:\C#\Trabalhos\gui\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.dll
+C:\C#\Trabalhos\gui\DataInfrastructure\obj\Debug\net5.0\ref\DataInfrastructure.dll
+C:\C#\Trabalhos\gui\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.pdb
+C:\C#\Trabalhos\gui\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.genruntimeconfig.cache
+C:\Users\moc\Documents\PROJETO\gui11102021\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.deps.json
+C:\Users\moc\Documents\PROJETO\gui11102021\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.runtimeconfig.json
+C:\Users\moc\Documents\PROJETO\gui11102021\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.runtimeconfig.dev.json
+C:\Users\moc\Documents\PROJETO\gui11102021\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.dll
+C:\Users\moc\Documents\PROJETO\gui11102021\DataInfrastructure\bin\Debug\net5.0\ref\DataInfrastructure.dll
+C:\Users\moc\Documents\PROJETO\gui11102021\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.pdb
+C:\Users\moc\Documents\PROJETO\gui11102021\DataInfrastructure\bin\Debug\net5.0\Entities.dll
+C:\Users\moc\Documents\PROJETO\gui11102021\DataInfrastructure\bin\Debug\net5.0\Entities.pdb
+C:\Users\moc\Documents\PROJETO\gui11102021\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csprojAssemblyReference.cache
+C:\Users\moc\Documents\PROJETO\gui11102021\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moc\Documents\PROJETO\gui11102021\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.AssemblyInfoInputs.cache
+C:\Users\moc\Documents\PROJETO\gui11102021\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.AssemblyInfo.cs
+C:\Users\moc\Documents\PROJETO\gui11102021\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.CoreCompileInputs.cache
+C:\Users\moc\Documents\PROJETO\gui11102021\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.CopyComplete
+C:\Users\moc\Documents\PROJETO\gui11102021\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.dll
+C:\Users\moc\Documents\PROJETO\gui11102021\DataInfrastructure\obj\Debug\net5.0\ref\DataInfrastructure.dll
+C:\Users\moc\Documents\PROJETO\gui11102021\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.pdb
+C:\Users\moc\Documents\PROJETO\gui11102021\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.genruntimeconfig.cache
+C:\Users\moc\Documents\Thiago\gui11102021\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.deps.json
+C:\Users\moc\Documents\Thiago\gui11102021\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.runtimeconfig.json
+C:\Users\moc\Documents\Thiago\gui11102021\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.runtimeconfig.dev.json
+C:\Users\moc\Documents\Thiago\gui11102021\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.dll
+C:\Users\moc\Documents\Thiago\gui11102021\DataInfrastructure\bin\Debug\net5.0\ref\DataInfrastructure.dll
+C:\Users\moc\Documents\Thiago\gui11102021\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.pdb
+C:\Users\moc\Documents\Thiago\gui11102021\DataInfrastructure\bin\Debug\net5.0\Entities.dll
+C:\Users\moc\Documents\Thiago\gui11102021\DataInfrastructure\bin\Debug\net5.0\Entities.pdb
+C:\Users\moc\Documents\Thiago\gui11102021\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csprojAssemblyReference.cache
+C:\Users\moc\Documents\Thiago\gui11102021\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moc\Documents\Thiago\gui11102021\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.AssemblyInfoInputs.cache
+C:\Users\moc\Documents\Thiago\gui11102021\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.AssemblyInfo.cs
+C:\Users\moc\Documents\Thiago\gui11102021\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.CoreCompileInputs.cache
+C:\Users\moc\Documents\Thiago\gui11102021\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.CopyComplete
+C:\Users\moc\Documents\Thiago\gui11102021\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.dll
+C:\Users\moc\Documents\Thiago\gui11102021\DataInfrastructure\obj\Debug\net5.0\ref\DataInfrastructure.dll
+C:\Users\moc\Documents\Thiago\gui11102021\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.pdb
+C:\Users\moc\Documents\Thiago\gui11102021\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.genruntimeconfig.cache
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereEmAndamento\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.deps.json
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereEmAndamento\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.runtimeconfig.json
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereEmAndamento\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.runtimeconfig.dev.json
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereEmAndamento\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereEmAndamento\DataInfrastructure\bin\Debug\net5.0\ref\DataInfrastructure.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereEmAndamento\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.pdb
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereEmAndamento\DataInfrastructure\bin\Debug\net5.0\Entities.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereEmAndamento\DataInfrastructure\bin\Debug\net5.0\Entities.pdb
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereEmAndamento\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csprojAssemblyReference.cache
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereEmAndamento\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereEmAndamento\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.AssemblyInfoInputs.cache
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereEmAndamento\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.AssemblyInfo.cs
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereEmAndamento\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereEmAndamento\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.CopyComplete
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereEmAndamento\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereEmAndamento\DataInfrastructure\obj\Debug\net5.0\ref\DataInfrastructure.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereEmAndamento\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.pdb
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereEmAndamento\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.genruntimeconfig.cache
+C:\C#\Trabalhos\StopHereFeriadoCodando\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.deps.json
+C:\C#\Trabalhos\StopHereFeriadoCodando\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.runtimeconfig.json
+C:\C#\Trabalhos\StopHereFeriadoCodando\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.runtimeconfig.dev.json
+C:\C#\Trabalhos\StopHereFeriadoCodando\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.dll
+C:\C#\Trabalhos\StopHereFeriadoCodando\DataInfrastructure\bin\Debug\net5.0\ref\DataInfrastructure.dll
+C:\C#\Trabalhos\StopHereFeriadoCodando\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.pdb
+C:\C#\Trabalhos\StopHereFeriadoCodando\DataInfrastructure\bin\Debug\net5.0\Entities.dll
+C:\C#\Trabalhos\StopHereFeriadoCodando\DataInfrastructure\bin\Debug\net5.0\Entities.pdb
+C:\C#\Trabalhos\StopHereFeriadoCodando\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.AssemblyReference.cache
+C:\C#\Trabalhos\StopHereFeriadoCodando\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Trabalhos\StopHereFeriadoCodando\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.AssemblyInfoInputs.cache
+C:\C#\Trabalhos\StopHereFeriadoCodando\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.AssemblyInfo.cs
+C:\C#\Trabalhos\StopHereFeriadoCodando\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.CoreCompileInputs.cache
+C:\C#\Trabalhos\StopHereFeriadoCodando\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.CopyComplete
+C:\C#\Trabalhos\StopHereFeriadoCodando\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.dll
+C:\C#\Trabalhos\StopHereFeriadoCodando\DataInfrastructure\obj\Debug\net5.0\ref\DataInfrastructure.dll
+C:\C#\Trabalhos\StopHereFeriadoCodando\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.pdb
+C:\C#\Trabalhos\StopHereFeriadoCodando\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.genruntimeconfig.cache
+C:\C#\Trabalhos\StopHere-Final\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.deps.json
+C:\C#\Trabalhos\StopHere-Final\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.runtimeconfig.json
+C:\C#\Trabalhos\StopHere-Final\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.runtimeconfig.dev.json
+C:\C#\Trabalhos\StopHere-Final\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.dll
+C:\C#\Trabalhos\StopHere-Final\DataInfrastructure\bin\Debug\net5.0\ref\DataInfrastructure.dll
+C:\C#\Trabalhos\StopHere-Final\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.pdb
+C:\C#\Trabalhos\StopHere-Final\DataInfrastructure\bin\Debug\net5.0\Entities.dll
+C:\C#\Trabalhos\StopHere-Final\DataInfrastructure\bin\Debug\net5.0\Entities.pdb
+C:\C#\Trabalhos\StopHere-Final\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.AssemblyReference.cache
+C:\C#\Trabalhos\StopHere-Final\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Trabalhos\StopHere-Final\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.AssemblyInfoInputs.cache
+C:\C#\Trabalhos\StopHere-Final\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.AssemblyInfo.cs
+C:\C#\Trabalhos\StopHere-Final\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.CoreCompileInputs.cache
+C:\C#\Trabalhos\StopHere-Final\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.CopyComplete
+C:\C#\Trabalhos\StopHere-Final\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.dll
+C:\C#\Trabalhos\StopHere-Final\DataInfrastructure\obj\Debug\net5.0\ref\DataInfrastructure.dll
+C:\C#\Trabalhos\StopHere-Final\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.pdb
+C:\C#\Trabalhos\StopHere-Final\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.genruntimeconfig.cache
+C:\Users\moc\Downloads\StopHere-Final\StopHere-Final\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.deps.json
+C:\Users\moc\Downloads\StopHere-Final\StopHere-Final\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.runtimeconfig.json
+C:\Users\moc\Downloads\StopHere-Final\StopHere-Final\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.runtimeconfig.dev.json
+C:\Users\moc\Downloads\StopHere-Final\StopHere-Final\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.dll
+C:\Users\moc\Downloads\StopHere-Final\StopHere-Final\DataInfrastructure\bin\Debug\net5.0\ref\DataInfrastructure.dll
+C:\Users\moc\Downloads\StopHere-Final\StopHere-Final\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.pdb
+C:\Users\moc\Downloads\StopHere-Final\StopHere-Final\DataInfrastructure\bin\Debug\net5.0\Entities.dll
+C:\Users\moc\Downloads\StopHere-Final\StopHere-Final\DataInfrastructure\bin\Debug\net5.0\Entities.pdb
+C:\Users\moc\Downloads\StopHere-Final\StopHere-Final\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csprojAssemblyReference.cache
+C:\Users\moc\Downloads\StopHere-Final\StopHere-Final\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moc\Downloads\StopHere-Final\StopHere-Final\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.AssemblyInfoInputs.cache
+C:\Users\moc\Downloads\StopHere-Final\StopHere-Final\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.AssemblyInfo.cs
+C:\Users\moc\Downloads\StopHere-Final\StopHere-Final\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.CoreCompileInputs.cache
+C:\Users\moc\Downloads\StopHere-Final\StopHere-Final\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.CopyComplete
+C:\Users\moc\Downloads\StopHere-Final\StopHere-Final\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.dll
+C:\Users\moc\Downloads\StopHere-Final\StopHere-Final\DataInfrastructure\obj\Debug\net5.0\ref\DataInfrastructure.dll
+C:\Users\moc\Downloads\StopHere-Final\StopHere-Final\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.pdb
+C:\Users\moc\Downloads\StopHere-Final\StopHere-Final\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.genruntimeconfig.cache
+C:\Users\moc\Desktop\StopHere-Final\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.deps.json
+C:\Users\moc\Desktop\StopHere-Final\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.runtimeconfig.json
+C:\Users\moc\Desktop\StopHere-Final\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.runtimeconfig.dev.json
+C:\Users\moc\Desktop\StopHere-Final\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.dll
+C:\Users\moc\Desktop\StopHere-Final\DataInfrastructure\bin\Debug\net5.0\ref\DataInfrastructure.dll
+C:\Users\moc\Desktop\StopHere-Final\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.pdb
+C:\Users\moc\Desktop\StopHere-Final\DataInfrastructure\bin\Debug\net5.0\Entities.dll
+C:\Users\moc\Desktop\StopHere-Final\DataInfrastructure\bin\Debug\net5.0\Entities.pdb
+C:\Users\moc\Desktop\StopHere-Final\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.AssemblyReference.cache
+C:\Users\moc\Desktop\StopHere-Final\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moc\Desktop\StopHere-Final\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.AssemblyInfoInputs.cache
+C:\Users\moc\Desktop\StopHere-Final\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.AssemblyInfo.cs
+C:\Users\moc\Desktop\StopHere-Final\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.CoreCompileInputs.cache
+C:\Users\moc\Desktop\StopHere-Final\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.CopyComplete
+C:\Users\moc\Desktop\StopHere-Final\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.dll
+C:\Users\moc\Desktop\StopHere-Final\DataInfrastructure\obj\Debug\net5.0\ref\DataInfrastructure.dll
+C:\Users\moc\Desktop\StopHere-Final\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.pdb
+C:\Users\moc\Desktop\StopHere-Final\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.genruntimeconfig.cache
+C:\Users\Sérgio\Desktop\StopHere-Final\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.deps.json
+C:\Users\Sérgio\Desktop\StopHere-Final\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.runtimeconfig.json
+C:\Users\Sérgio\Desktop\StopHere-Final\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.runtimeconfig.dev.json
+C:\Users\Sérgio\Desktop\StopHere-Final\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.dll
+C:\Users\Sérgio\Desktop\StopHere-Final\DataInfrastructure\bin\Debug\net5.0\ref\DataInfrastructure.dll
+C:\Users\Sérgio\Desktop\StopHere-Final\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.pdb
+C:\Users\Sérgio\Desktop\StopHere-Final\DataInfrastructure\bin\Debug\net5.0\Entities.dll
+C:\Users\Sérgio\Desktop\StopHere-Final\DataInfrastructure\bin\Debug\net5.0\Entities.pdb
+C:\Users\Sérgio\Desktop\StopHere-Final\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.AssemblyReference.cache
+C:\Users\Sérgio\Desktop\StopHere-Final\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sérgio\Desktop\StopHere-Final\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.AssemblyInfoInputs.cache
+C:\Users\Sérgio\Desktop\StopHere-Final\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.AssemblyInfo.cs
+C:\Users\Sérgio\Desktop\StopHere-Final\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Sérgio\Desktop\StopHere-Final\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.CopyComplete
+C:\Users\Sérgio\Desktop\StopHere-Final\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.dll
+C:\Users\Sérgio\Desktop\StopHere-Final\DataInfrastructure\obj\Debug\net5.0\ref\DataInfrastructure.dll
+C:\Users\Sérgio\Desktop\StopHere-Final\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.pdb
+C:\Users\Sérgio\Desktop\StopHere-Final\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.genruntimeconfig.cache
+C:\Users\Sérgio\Desktop\StopHereSabado\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.deps.json
+C:\Users\Sérgio\Desktop\StopHereSabado\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.runtimeconfig.json
+C:\Users\Sérgio\Desktop\StopHereSabado\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.runtimeconfig.dev.json
+C:\Users\Sérgio\Desktop\StopHereSabado\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.dll
+C:\Users\Sérgio\Desktop\StopHereSabado\DataInfrastructure\bin\Debug\net5.0\ref\DataInfrastructure.dll
+C:\Users\Sérgio\Desktop\StopHereSabado\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.pdb
+C:\Users\Sérgio\Desktop\StopHereSabado\DataInfrastructure\bin\Debug\net5.0\Entities.dll
+C:\Users\Sérgio\Desktop\StopHereSabado\DataInfrastructure\bin\Debug\net5.0\Entities.pdb
+C:\Users\Sérgio\Desktop\StopHereSabado\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.AssemblyReference.cache
+C:\Users\Sérgio\Desktop\StopHereSabado\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sérgio\Desktop\StopHereSabado\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.AssemblyInfoInputs.cache
+C:\Users\Sérgio\Desktop\StopHereSabado\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.AssemblyInfo.cs
+C:\Users\Sérgio\Desktop\StopHereSabado\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Sérgio\Desktop\StopHereSabado\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.CopyComplete
+C:\Users\Sérgio\Desktop\StopHereSabado\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.dll
+C:\Users\Sérgio\Desktop\StopHereSabado\DataInfrastructure\obj\Debug\net5.0\ref\DataInfrastructure.dll
+C:\Users\Sérgio\Desktop\StopHereSabado\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.pdb
+C:\Users\Sérgio\Desktop\StopHereSabado\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.genruntimeconfig.cache
+C:\Users\Sérgio\Desktop\StopHereFinal17102021\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.deps.json
+C:\Users\Sérgio\Desktop\StopHereFinal17102021\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.runtimeconfig.json
+C:\Users\Sérgio\Desktop\StopHereFinal17102021\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.runtimeconfig.dev.json
+C:\Users\Sérgio\Desktop\StopHereFinal17102021\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.dll
+C:\Users\Sérgio\Desktop\StopHereFinal17102021\DataInfrastructure\bin\Debug\net5.0\ref\DataInfrastructure.dll
+C:\Users\Sérgio\Desktop\StopHereFinal17102021\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.pdb
+C:\Users\Sérgio\Desktop\StopHereFinal17102021\DataInfrastructure\bin\Debug\net5.0\Entities.dll
+C:\Users\Sérgio\Desktop\StopHereFinal17102021\DataInfrastructure\bin\Debug\net5.0\Entities.pdb
+C:\Users\Sérgio\Desktop\StopHereFinal17102021\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.AssemblyReference.cache
+C:\Users\Sérgio\Desktop\StopHereFinal17102021\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sérgio\Desktop\StopHereFinal17102021\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.AssemblyInfoInputs.cache
+C:\Users\Sérgio\Desktop\StopHereFinal17102021\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.AssemblyInfo.cs
+C:\Users\Sérgio\Desktop\StopHereFinal17102021\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Sérgio\Desktop\StopHereFinal17102021\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.CopyComplete
+C:\Users\Sérgio\Desktop\StopHereFinal17102021\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.dll
+C:\Users\Sérgio\Desktop\StopHereFinal17102021\DataInfrastructure\obj\Debug\net5.0\ref\DataInfrastructure.dll
+C:\Users\Sérgio\Desktop\StopHereFinal17102021\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.pdb
+C:\Users\Sérgio\Desktop\StopHereFinal17102021\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.genruntimeconfig.cache
+C:\Users\moc\Desktop\StopHereFinal17102021\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.deps.json
+C:\Users\moc\Desktop\StopHereFinal17102021\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.runtimeconfig.json
+C:\Users\moc\Desktop\StopHereFinal17102021\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.runtimeconfig.dev.json
+C:\Users\moc\Desktop\StopHereFinal17102021\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.dll
+C:\Users\moc\Desktop\StopHereFinal17102021\DataInfrastructure\bin\Debug\net5.0\ref\DataInfrastructure.dll
+C:\Users\moc\Desktop\StopHereFinal17102021\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.pdb
+C:\Users\moc\Desktop\StopHereFinal17102021\DataInfrastructure\bin\Debug\net5.0\Entities.dll
+C:\Users\moc\Desktop\StopHereFinal17102021\DataInfrastructure\bin\Debug\net5.0\Entities.pdb
+C:\Users\moc\Desktop\StopHereFinal17102021\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.AssemblyReference.cache
+C:\Users\moc\Desktop\StopHereFinal17102021\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moc\Desktop\StopHereFinal17102021\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.AssemblyInfoInputs.cache
+C:\Users\moc\Desktop\StopHereFinal17102021\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.AssemblyInfo.cs
+C:\Users\moc\Desktop\StopHereFinal17102021\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.CoreCompileInputs.cache
+C:\Users\moc\Desktop\StopHereFinal17102021\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.CopyComplete
+C:\Users\moc\Desktop\StopHereFinal17102021\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.dll
+C:\Users\moc\Desktop\StopHereFinal17102021\DataInfrastructure\obj\Debug\net5.0\ref\DataInfrastructure.dll
+C:\Users\moc\Desktop\StopHereFinal17102021\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.pdb
+C:\Users\moc\Desktop\StopHereFinal17102021\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.genruntimeconfig.cache
+C:\Users\moc\Documents\StopHere\StopHereFinal17102021\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.deps.json
+C:\Users\moc\Documents\StopHere\StopHereFinal17102021\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.runtimeconfig.json
+C:\Users\moc\Documents\StopHere\StopHereFinal17102021\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.runtimeconfig.dev.json
+C:\Users\moc\Documents\StopHere\StopHereFinal17102021\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.dll
+C:\Users\moc\Documents\StopHere\StopHereFinal17102021\DataInfrastructure\bin\Debug\net5.0\ref\DataInfrastructure.dll
+C:\Users\moc\Documents\StopHere\StopHereFinal17102021\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.pdb
+C:\Users\moc\Documents\StopHere\StopHereFinal17102021\DataInfrastructure\bin\Debug\net5.0\Entities.dll
+C:\Users\moc\Documents\StopHere\StopHereFinal17102021\DataInfrastructure\bin\Debug\net5.0\Entities.pdb
+C:\Users\moc\Documents\StopHere\StopHereFinal17102021\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.AssemblyReference.cache
+C:\Users\moc\Documents\StopHere\StopHereFinal17102021\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moc\Documents\StopHere\StopHereFinal17102021\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.AssemblyInfoInputs.cache
+C:\Users\moc\Documents\StopHere\StopHereFinal17102021\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.AssemblyInfo.cs
+C:\Users\moc\Documents\StopHere\StopHereFinal17102021\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.CoreCompileInputs.cache
+C:\Users\moc\Documents\StopHere\StopHereFinal17102021\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.CopyComplete
+C:\Users\moc\Documents\StopHere\StopHereFinal17102021\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.dll
+C:\Users\moc\Documents\StopHere\StopHereFinal17102021\DataInfrastructure\obj\Debug\net5.0\ref\DataInfrastructure.dll
+C:\Users\moc\Documents\StopHere\StopHereFinal17102021\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.pdb
+C:\Users\moc\Documents\StopHere\StopHereFinal17102021\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.genruntimeconfig.cache
+C:\C#\Trabalhos\StopHere\StopHereFinal17102021\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.deps.json
+C:\C#\Trabalhos\StopHere\StopHereFinal17102021\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.runtimeconfig.json
+C:\C#\Trabalhos\StopHere\StopHereFinal17102021\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.runtimeconfig.dev.json
+C:\C#\Trabalhos\StopHere\StopHereFinal17102021\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.dll
+C:\C#\Trabalhos\StopHere\StopHereFinal17102021\DataInfrastructure\bin\Debug\net5.0\ref\DataInfrastructure.dll
+C:\C#\Trabalhos\StopHere\StopHereFinal17102021\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.pdb
+C:\C#\Trabalhos\StopHere\StopHereFinal17102021\DataInfrastructure\bin\Debug\net5.0\Entities.dll
+C:\C#\Trabalhos\StopHere\StopHereFinal17102021\DataInfrastructure\bin\Debug\net5.0\Entities.pdb
+C:\C#\Trabalhos\StopHere\StopHereFinal17102021\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.AssemblyReference.cache
+C:\C#\Trabalhos\StopHere\StopHereFinal17102021\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Trabalhos\StopHere\StopHereFinal17102021\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.AssemblyInfoInputs.cache
+C:\C#\Trabalhos\StopHere\StopHereFinal17102021\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.AssemblyInfo.cs
+C:\C#\Trabalhos\StopHere\StopHereFinal17102021\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.CoreCompileInputs.cache
+C:\C#\Trabalhos\StopHere\StopHereFinal17102021\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.CopyComplete
+C:\C#\Trabalhos\StopHere\StopHereFinal17102021\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.dll
+C:\C#\Trabalhos\StopHere\StopHereFinal17102021\DataInfrastructure\obj\Debug\net5.0\ref\DataInfrastructure.dll
+C:\C#\Trabalhos\StopHere\StopHereFinal17102021\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.pdb
+C:\C#\Trabalhos\StopHere\StopHereFinal17102021\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.genruntimeconfig.cache
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHere\StopHereFinal17102021\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.deps.json
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHere\StopHereFinal17102021\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.runtimeconfig.json
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHere\StopHereFinal17102021\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.runtimeconfig.dev.json
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHere\StopHereFinal17102021\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHere\StopHereFinal17102021\DataInfrastructure\bin\Debug\net5.0\ref\DataInfrastructure.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHere\StopHereFinal17102021\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.pdb
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHere\StopHereFinal17102021\DataInfrastructure\bin\Debug\net5.0\Entities.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHere\StopHereFinal17102021\DataInfrastructure\bin\Debug\net5.0\Entities.pdb
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHere\StopHereFinal17102021\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csprojAssemblyReference.cache
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHere\StopHereFinal17102021\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHere\StopHereFinal17102021\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.AssemblyInfoInputs.cache
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHere\StopHereFinal17102021\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.AssemblyInfo.cs
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHere\StopHereFinal17102021\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHere\StopHereFinal17102021\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.CopyComplete
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHere\StopHereFinal17102021\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHere\StopHereFinal17102021\DataInfrastructure\obj\Debug\net5.0\ref\DataInfrastructure.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHere\StopHereFinal17102021\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.pdb
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHere\StopHereFinal17102021\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.genruntimeconfig.cache
+C:\C#\Trabalhos\StopHereDiaDaFormatura\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.deps.json
+C:\C#\Trabalhos\StopHereDiaDaFormatura\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.runtimeconfig.json
+C:\C#\Trabalhos\StopHereDiaDaFormatura\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.runtimeconfig.dev.json
+C:\C#\Trabalhos\StopHereDiaDaFormatura\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.dll
+C:\C#\Trabalhos\StopHereDiaDaFormatura\DataInfrastructure\bin\Debug\net5.0\ref\DataInfrastructure.dll
+C:\C#\Trabalhos\StopHereDiaDaFormatura\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.pdb
+C:\C#\Trabalhos\StopHereDiaDaFormatura\DataInfrastructure\bin\Debug\net5.0\Entities.dll
+C:\C#\Trabalhos\StopHereDiaDaFormatura\DataInfrastructure\bin\Debug\net5.0\Entities.pdb
+C:\C#\Trabalhos\StopHereDiaDaFormatura\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.AssemblyReference.cache
+C:\C#\Trabalhos\StopHereDiaDaFormatura\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Trabalhos\StopHereDiaDaFormatura\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.AssemblyInfoInputs.cache
+C:\C#\Trabalhos\StopHereDiaDaFormatura\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.AssemblyInfo.cs
+C:\C#\Trabalhos\StopHereDiaDaFormatura\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.CoreCompileInputs.cache
+C:\C#\Trabalhos\StopHereDiaDaFormatura\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.CopyComplete
+C:\C#\Trabalhos\StopHereDiaDaFormatura\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.dll
+C:\C#\Trabalhos\StopHereDiaDaFormatura\DataInfrastructure\obj\Debug\net5.0\ref\DataInfrastructure.dll
+C:\C#\Trabalhos\StopHereDiaDaFormatura\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.pdb
+C:\C#\Trabalhos\StopHereDiaDaFormatura\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.genruntimeconfig.cache
+C:\Users\Matheus\Desktop\StopHereDiaDaFormatura\StopHereDiaDaFormatura\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.deps.json
+C:\Users\Matheus\Desktop\StopHereDiaDaFormatura\StopHereDiaDaFormatura\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.runtimeconfig.json
+C:\Users\Matheus\Desktop\StopHereDiaDaFormatura\StopHereDiaDaFormatura\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.runtimeconfig.dev.json
+C:\Users\Matheus\Desktop\StopHereDiaDaFormatura\StopHereDiaDaFormatura\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.dll
+C:\Users\Matheus\Desktop\StopHereDiaDaFormatura\StopHereDiaDaFormatura\DataInfrastructure\bin\Debug\net5.0\ref\DataInfrastructure.dll
+C:\Users\Matheus\Desktop\StopHereDiaDaFormatura\StopHereDiaDaFormatura\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.pdb
+C:\Users\Matheus\Desktop\StopHereDiaDaFormatura\StopHereDiaDaFormatura\DataInfrastructure\bin\Debug\net5.0\Entities.dll
+C:\Users\Matheus\Desktop\StopHereDiaDaFormatura\StopHereDiaDaFormatura\DataInfrastructure\bin\Debug\net5.0\Entities.pdb
+C:\Users\Matheus\Desktop\StopHereDiaDaFormatura\StopHereDiaDaFormatura\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.AssemblyReference.cache
+C:\Users\Matheus\Desktop\StopHereDiaDaFormatura\StopHereDiaDaFormatura\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Desktop\StopHereDiaDaFormatura\StopHereDiaDaFormatura\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.AssemblyInfoInputs.cache
+C:\Users\Matheus\Desktop\StopHereDiaDaFormatura\StopHereDiaDaFormatura\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.AssemblyInfo.cs
+C:\Users\Matheus\Desktop\StopHereDiaDaFormatura\StopHereDiaDaFormatura\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\StopHereDiaDaFormatura\StopHereDiaDaFormatura\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.dll
+C:\Users\Matheus\Desktop\StopHereDiaDaFormatura\StopHereDiaDaFormatura\DataInfrastructure\obj\Debug\net5.0\ref\DataInfrastructure.dll
+C:\Users\Matheus\Desktop\StopHereDiaDaFormatura\StopHereDiaDaFormatura\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.pdb
+C:\Users\Matheus\Desktop\StopHereDiaDaFormatura\StopHereDiaDaFormatura\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.genruntimeconfig.cache
+C:\Users\Fabia\Downloads\StopHereDiaDaFormatura\StopHereDiaDaFormatura\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.deps.json
+C:\Users\Fabia\Downloads\StopHereDiaDaFormatura\StopHereDiaDaFormatura\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.runtimeconfig.json
+C:\Users\Fabia\Downloads\StopHereDiaDaFormatura\StopHereDiaDaFormatura\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.runtimeconfig.dev.json
+C:\Users\Fabia\Downloads\StopHereDiaDaFormatura\StopHereDiaDaFormatura\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.dll
+C:\Users\Fabia\Downloads\StopHereDiaDaFormatura\StopHereDiaDaFormatura\DataInfrastructure\bin\Debug\net5.0\ref\DataInfrastructure.dll
+C:\Users\Fabia\Downloads\StopHereDiaDaFormatura\StopHereDiaDaFormatura\DataInfrastructure\bin\Debug\net5.0\DataInfrastructure.pdb
+C:\Users\Fabia\Downloads\StopHereDiaDaFormatura\StopHereDiaDaFormatura\DataInfrastructure\bin\Debug\net5.0\Entities.dll
+C:\Users\Fabia\Downloads\StopHereDiaDaFormatura\StopHereDiaDaFormatura\DataInfrastructure\bin\Debug\net5.0\Entities.pdb
+C:\Users\Fabia\Downloads\StopHereDiaDaFormatura\StopHereDiaDaFormatura\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csprojAssemblyReference.cache
+C:\Users\Fabia\Downloads\StopHereDiaDaFormatura\StopHereDiaDaFormatura\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabia\Downloads\StopHereDiaDaFormatura\StopHereDiaDaFormatura\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.AssemblyInfoInputs.cache
+C:\Users\Fabia\Downloads\StopHereDiaDaFormatura\StopHereDiaDaFormatura\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.AssemblyInfo.cs
+C:\Users\Fabia\Downloads\StopHereDiaDaFormatura\StopHereDiaDaFormatura\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Fabia\Downloads\StopHereDiaDaFormatura\StopHereDiaDaFormatura\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.csproj.CopyComplete
+C:\Users\Fabia\Downloads\StopHereDiaDaFormatura\StopHereDiaDaFormatura\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.dll
+C:\Users\Fabia\Downloads\StopHereDiaDaFormatura\StopHereDiaDaFormatura\DataInfrastructure\obj\Debug\net5.0\ref\DataInfrastructure.dll
+C:\Users\Fabia\Downloads\StopHereDiaDaFormatura\StopHereDiaDaFormatura\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.pdb
+C:\Users\Fabia\Downloads\StopHereDiaDaFormatura\StopHereDiaDaFormatura\DataInfrastructure\obj\Debug\net5.0\DataInfrastructure.genruntimeconfig.cache

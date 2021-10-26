@@ -1,0 +1,77 @@
+﻿
+@{
+    ViewData["Title"] = "SearchMap";
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Simple Map</title>
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
+    <link href="~/css1/mapstyle.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="map"></div>
+
+    <!-- Async script executes immediately and must be after any DOM elements used in callback. -->
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAGLXT11vHyrybLHkzJSJiR39-2PO_DII4&callback=initMap&libraries=&v=weekly"
+            async></script>
+    <script>
+        function initMap() {
+
+            const Location = { lat: @ViewBag.Latitude, lng: @ViewBag.Longitude };
+            const map = new google.maps.Map(document.getElementById("map"), {
+                zoom: 15,
+                center: Location,
+            });
+
+            const SHicon = "https://i.imgur.com/rUt1lHG.png";
+
+            const SHmarker = new google.maps.Marker({
+                position: Location,
+                map,
+                title: "Your location",
+            });
+
+            var estacionamentosJson = @Html.Raw(Json.Serialize(ViewBag.Parkings));
+            var estacionamentos = JSON.parse(estacionamentosJson);
+
+            for (var i = 0; i < estacionamentos.length; i++) {
+
+                const infowindow =new google.maps.InfoWindow({
+                    content: `<div>
+                            <h1><b>Informações Principais</b></h1>
+                          </div>
+                          <div>
+                            <p>Abertura: ${estacionamentos[i].Abre}</p>
+                            <p>Fechamento: ${estacionamentos[i].Fecha} </p>
+                            <p>Coberta: ${estacionamentos[i].IsCoberta == true ? "Sim" : "Não"}</p >
+                            <p>Vigilância: ${estacionamentos[i].IsVigiada == true ? "Sim" : "Não"}</p >
+                            <p>Necessário deixar chave:  ${estacionamentos[i].DeixarChave == true ? "Sim" : "Não"} </p>
+                            <p>Valor:  ${estacionamentos[i].Valor}</p>
+                          </div>
+                          <a href='/Location/Add/${estacionamentos[i].ID}' style="color:red">Entrar em contato</a>`,
+                });
+
+                var locationTemp = { lat: parseFloat(estacionamentos[i].Latitude), lng: parseFloat(estacionamentos[i].Longitude) };
+
+                const marker = new google.maps.Marker({
+                    position: locationTemp,
+                    map,
+                    icon: SHicon
+                });
+
+                marker.addListener("click", () => {
+                    infowindow.open({
+                        anchor: marker,
+                        map,
+                        shouldFocus: false,
+                    });
+                });
+            }
+        }
+    </script>
+</body>
+</html>
+@section Scripts {
+    @{ await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

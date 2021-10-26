@@ -1,0 +1,384 @@
+C:\Users\Meu computador\source\repos\StopHereProject\Entities\bin\Debug\net5.0\Entities.deps.json
+C:\Users\Meu computador\source\repos\StopHereProject\Entities\bin\Debug\net5.0\Entities.dll
+C:\Users\Meu computador\source\repos\StopHereProject\Entities\bin\Debug\net5.0\ref\Entities.dll
+C:\Users\Meu computador\source\repos\StopHereProject\Entities\bin\Debug\net5.0\Entities.pdb
+C:\Users\Meu computador\source\repos\StopHereProject\Entities\obj\Debug\net5.0\Entities.csprojAssemblyReference.cache
+C:\Users\Meu computador\source\repos\StopHereProject\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meu computador\source\repos\StopHereProject\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Meu computador\source\repos\StopHereProject\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+C:\Users\Meu computador\source\repos\StopHereProject\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Meu computador\source\repos\StopHereProject\Entities\obj\Debug\net5.0\Entities.dll
+C:\Users\Meu computador\source\repos\StopHereProject\Entities\obj\Debug\net5.0\ref\Entities.dll
+C:\Users\Meu computador\source\repos\StopHereProject\Entities\obj\Debug\net5.0\Entities.pdb
+C:\C#\StopHereProject\Entities\bin\Debug\net5.0\Entities.deps.json
+C:\C#\StopHereProject\Entities\bin\Debug\net5.0\Entities.dll
+C:\C#\StopHereProject\Entities\bin\Debug\net5.0\ref\Entities.dll
+C:\C#\StopHereProject\Entities\bin\Debug\net5.0\Entities.pdb
+C:\C#\StopHereProject\Entities\obj\Debug\net5.0\Entities.csproj.AssemblyReference.cache
+C:\C#\StopHereProject\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\StopHereProject\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+C:\C#\StopHereProject\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+C:\C#\StopHereProject\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+C:\C#\StopHereProject\Entities\obj\Debug\net5.0\Entities.dll
+C:\C#\StopHereProject\Entities\obj\Debug\net5.0\ref\Entities.dll
+C:\C#\StopHereProject\Entities\obj\Debug\net5.0\Entities.pdb
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\StopHereProject\StopHereProject\Entities\bin\Debug\net5.0\Entities.deps.json
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\StopHereProject\StopHereProject\Entities\bin\Debug\net5.0\Entities.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\StopHereProject\StopHereProject\Entities\bin\Debug\net5.0\ref\Entities.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\StopHereProject\StopHereProject\Entities\bin\Debug\net5.0\Entities.pdb
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\StopHereProject\StopHereProject\Entities\obj\Debug\net5.0\Entities.csprojAssemblyReference.cache
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\StopHereProject\StopHereProject\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\StopHereProject\StopHereProject\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\StopHereProject\StopHereProject\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\StopHereProject\StopHereProject\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\StopHereProject\StopHereProject\Entities\obj\Debug\net5.0\Entities.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\StopHereProject\StopHereProject\Entities\obj\Debug\net5.0\ref\Entities.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\StopHereProject\StopHereProject\Entities\obj\Debug\net5.0\Entities.pdb
+C:\Users\moc\Documents\Thiago Radunz C# Oficial\Entra21ThiagoCSharp\MVC\StopHereProject\StopHereProject\Entities\bin\Debug\net5.0\Entities.deps.json
+C:\Users\moc\Documents\Thiago Radunz C# Oficial\Entra21ThiagoCSharp\MVC\StopHereProject\StopHereProject\Entities\bin\Debug\net5.0\Entities.dll
+C:\Users\moc\Documents\Thiago Radunz C# Oficial\Entra21ThiagoCSharp\MVC\StopHereProject\StopHereProject\Entities\bin\Debug\net5.0\ref\Entities.dll
+C:\Users\moc\Documents\Thiago Radunz C# Oficial\Entra21ThiagoCSharp\MVC\StopHereProject\StopHereProject\Entities\bin\Debug\net5.0\Entities.pdb
+C:\Users\moc\Documents\Thiago Radunz C# Oficial\Entra21ThiagoCSharp\MVC\StopHereProject\StopHereProject\Entities\obj\Debug\net5.0\Entities.csprojAssemblyReference.cache
+C:\Users\moc\Documents\Thiago Radunz C# Oficial\Entra21ThiagoCSharp\MVC\StopHereProject\StopHereProject\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moc\Documents\Thiago Radunz C# Oficial\Entra21ThiagoCSharp\MVC\StopHereProject\StopHereProject\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+C:\Users\moc\Documents\Thiago Radunz C# Oficial\Entra21ThiagoCSharp\MVC\StopHereProject\StopHereProject\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+C:\Users\moc\Documents\Thiago Radunz C# Oficial\Entra21ThiagoCSharp\MVC\StopHereProject\StopHereProject\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\moc\Documents\Thiago Radunz C# Oficial\Entra21ThiagoCSharp\MVC\StopHereProject\StopHereProject\Entities\obj\Debug\net5.0\Entities.dll
+C:\Users\moc\Documents\Thiago Radunz C# Oficial\Entra21ThiagoCSharp\MVC\StopHereProject\StopHereProject\Entities\obj\Debug\net5.0\ref\Entities.dll
+C:\Users\moc\Documents\Thiago Radunz C# Oficial\Entra21ThiagoCSharp\MVC\StopHereProject\StopHereProject\Entities\obj\Debug\net5.0\Entities.pdb
+C:\Users\moc\Downloads\StopHereProject\StopHereProject\StopHereProject\Entities\bin\Debug\net5.0\Entities.deps.json
+C:\Users\moc\Downloads\StopHereProject\StopHereProject\StopHereProject\Entities\bin\Debug\net5.0\Entities.dll
+C:\Users\moc\Downloads\StopHereProject\StopHereProject\StopHereProject\Entities\bin\Debug\net5.0\ref\Entities.dll
+C:\Users\moc\Downloads\StopHereProject\StopHereProject\StopHereProject\Entities\bin\Debug\net5.0\Entities.pdb
+C:\Users\moc\Downloads\StopHereProject\StopHereProject\StopHereProject\Entities\obj\Debug\net5.0\Entities.csprojAssemblyReference.cache
+C:\Users\moc\Downloads\StopHereProject\StopHereProject\StopHereProject\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moc\Downloads\StopHereProject\StopHereProject\StopHereProject\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+C:\Users\moc\Downloads\StopHereProject\StopHereProject\StopHereProject\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+C:\Users\moc\Downloads\StopHereProject\StopHereProject\StopHereProject\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\moc\Downloads\StopHereProject\StopHereProject\StopHereProject\Entities\obj\Debug\net5.0\Entities.dll
+C:\Users\moc\Downloads\StopHereProject\StopHereProject\StopHereProject\Entities\obj\Debug\net5.0\ref\Entities.dll
+C:\Users\moc\Downloads\StopHereProject\StopHereProject\StopHereProject\Entities\obj\Debug\net5.0\Entities.pdb
+C:\Users\moc\Documents\TRABALHO FINAL\StopHereProject(PRINCIPAL)\Entities\bin\Debug\net5.0\Entities.deps.json
+C:\Users\moc\Documents\TRABALHO FINAL\StopHereProject(PRINCIPAL)\Entities\bin\Debug\net5.0\Entities.dll
+C:\Users\moc\Documents\TRABALHO FINAL\StopHereProject(PRINCIPAL)\Entities\bin\Debug\net5.0\ref\Entities.dll
+C:\Users\moc\Documents\TRABALHO FINAL\StopHereProject(PRINCIPAL)\Entities\bin\Debug\net5.0\Entities.pdb
+C:\Users\moc\Documents\TRABALHO FINAL\StopHereProject(PRINCIPAL)\Entities\obj\Debug\net5.0\Entities.csprojAssemblyReference.cache
+C:\Users\moc\Documents\TRABALHO FINAL\StopHereProject(PRINCIPAL)\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moc\Documents\TRABALHO FINAL\StopHereProject(PRINCIPAL)\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+C:\Users\moc\Documents\TRABALHO FINAL\StopHereProject(PRINCIPAL)\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+C:\Users\moc\Documents\TRABALHO FINAL\StopHereProject(PRINCIPAL)\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\moc\Documents\TRABALHO FINAL\StopHereProject(PRINCIPAL)\Entities\obj\Debug\net5.0\Entities.dll
+C:\Users\moc\Documents\TRABALHO FINAL\StopHereProject(PRINCIPAL)\Entities\obj\Debug\net5.0\ref\Entities.dll
+C:\Users\moc\Documents\TRABALHO FINAL\StopHereProject(PRINCIPAL)\Entities\obj\Debug\net5.0\Entities.pdb
+C:\C#\Trabalhos\StopHereProject(PRINCIPAL)\Entities\bin\Debug\net5.0\Entities.deps.json
+C:\C#\Trabalhos\StopHereProject(PRINCIPAL)\Entities\bin\Debug\net5.0\Entities.dll
+C:\C#\Trabalhos\StopHereProject(PRINCIPAL)\Entities\bin\Debug\net5.0\ref\Entities.dll
+C:\C#\Trabalhos\StopHereProject(PRINCIPAL)\Entities\bin\Debug\net5.0\Entities.pdb
+C:\C#\Trabalhos\StopHereProject(PRINCIPAL)\Entities\obj\Debug\net5.0\Entities.csproj.AssemblyReference.cache
+C:\C#\Trabalhos\StopHereProject(PRINCIPAL)\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Trabalhos\StopHereProject(PRINCIPAL)\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+C:\C#\Trabalhos\StopHereProject(PRINCIPAL)\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+C:\C#\Trabalhos\StopHereProject(PRINCIPAL)\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+C:\C#\Trabalhos\StopHereProject(PRINCIPAL)\Entities\obj\Debug\net5.0\Entities.dll
+C:\C#\Trabalhos\StopHereProject(PRINCIPAL)\Entities\obj\Debug\net5.0\ref\Entities.dll
+C:\C#\Trabalhos\StopHereProject(PRINCIPAL)\Entities\obj\Debug\net5.0\Entities.pdb
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\StopHereProject\StopHereProject(PRINCIPAL)\Entities\bin\Debug\net5.0\Entities.deps.json
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\StopHereProject\StopHereProject(PRINCIPAL)\Entities\bin\Debug\net5.0\Entities.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\StopHereProject\StopHereProject(PRINCIPAL)\Entities\bin\Debug\net5.0\ref\Entities.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\StopHereProject\StopHereProject(PRINCIPAL)\Entities\bin\Debug\net5.0\Entities.pdb
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\StopHereProject\StopHereProject(PRINCIPAL)\Entities\obj\Debug\net5.0\Entities.csprojAssemblyReference.cache
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\StopHereProject\StopHereProject(PRINCIPAL)\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\StopHereProject\StopHereProject(PRINCIPAL)\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\StopHereProject\StopHereProject(PRINCIPAL)\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\StopHereProject\StopHereProject(PRINCIPAL)\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\StopHereProject\StopHereProject(PRINCIPAL)\Entities\obj\Debug\net5.0\Entities.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\StopHereProject\StopHereProject(PRINCIPAL)\Entities\obj\Debug\net5.0\ref\Entities.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\StopHereProject\StopHereProject(PRINCIPAL)\Entities\obj\Debug\net5.0\Entities.pdb
+C:\Users\moc\Documents\Thiago\StopHereProject\StopHereProject(PRINCIPAL)\Entities\bin\Debug\net5.0\Entities.deps.json
+C:\Users\moc\Documents\Thiago\StopHereProject\StopHereProject(PRINCIPAL)\Entities\bin\Debug\net5.0\Entities.dll
+C:\Users\moc\Documents\Thiago\StopHereProject\StopHereProject(PRINCIPAL)\Entities\bin\Debug\net5.0\ref\Entities.dll
+C:\Users\moc\Documents\Thiago\StopHereProject\StopHereProject(PRINCIPAL)\Entities\bin\Debug\net5.0\Entities.pdb
+C:\Users\moc\Documents\Thiago\StopHereProject\StopHereProject(PRINCIPAL)\Entities\obj\Debug\net5.0\Entities.csprojAssemblyReference.cache
+C:\Users\moc\Documents\Thiago\StopHereProject\StopHereProject(PRINCIPAL)\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moc\Documents\Thiago\StopHereProject\StopHereProject(PRINCIPAL)\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+C:\Users\moc\Documents\Thiago\StopHereProject\StopHereProject(PRINCIPAL)\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+C:\Users\moc\Documents\Thiago\StopHereProject\StopHereProject(PRINCIPAL)\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\moc\Documents\Thiago\StopHereProject\StopHereProject(PRINCIPAL)\Entities\obj\Debug\net5.0\Entities.dll
+C:\Users\moc\Documents\Thiago\StopHereProject\StopHereProject(PRINCIPAL)\Entities\obj\Debug\net5.0\ref\Entities.dll
+C:\Users\moc\Documents\Thiago\StopHereProject\StopHereProject(PRINCIPAL)\Entities\obj\Debug\net5.0\Entities.pdb
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject\StopHereProject(PRINCIPAL)\Entities\bin\Debug\net5.0\Entities.deps.json
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject\StopHereProject(PRINCIPAL)\Entities\bin\Debug\net5.0\Entities.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject\StopHereProject(PRINCIPAL)\Entities\bin\Debug\net5.0\ref\Entities.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject\StopHereProject(PRINCIPAL)\Entities\bin\Debug\net5.0\Entities.pdb
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject\StopHereProject(PRINCIPAL)\Entities\obj\Debug\net5.0\Entities.csprojAssemblyReference.cache
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject\StopHereProject(PRINCIPAL)\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject\StopHereProject(PRINCIPAL)\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject\StopHereProject(PRINCIPAL)\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject\StopHereProject(PRINCIPAL)\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject\StopHereProject(PRINCIPAL)\Entities\obj\Debug\net5.0\Entities.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject\StopHereProject(PRINCIPAL)\Entities\obj\Debug\net5.0\ref\Entities.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject\StopHereProject(PRINCIPAL)\Entities\obj\Debug\net5.0\Entities.pdb
+C:\Users\moc\Documents\Thiago\StopHereProject(PRINCIPAL)\Entities\bin\Debug\net5.0\Entities.deps.json
+C:\Users\moc\Documents\Thiago\StopHereProject(PRINCIPAL)\Entities\bin\Debug\net5.0\Entities.dll
+C:\Users\moc\Documents\Thiago\StopHereProject(PRINCIPAL)\Entities\bin\Debug\net5.0\ref\Entities.dll
+C:\Users\moc\Documents\Thiago\StopHereProject(PRINCIPAL)\Entities\bin\Debug\net5.0\Entities.pdb
+C:\Users\moc\Documents\Thiago\StopHereProject(PRINCIPAL)\Entities\obj\Debug\net5.0\Entities.csprojAssemblyReference.cache
+C:\Users\moc\Documents\Thiago\StopHereProject(PRINCIPAL)\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moc\Documents\Thiago\StopHereProject(PRINCIPAL)\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+C:\Users\moc\Documents\Thiago\StopHereProject(PRINCIPAL)\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+C:\Users\moc\Documents\Thiago\StopHereProject(PRINCIPAL)\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\moc\Documents\Thiago\StopHereProject(PRINCIPAL)\Entities\obj\Debug\net5.0\Entities.dll
+C:\Users\moc\Documents\Thiago\StopHereProject(PRINCIPAL)\Entities\obj\Debug\net5.0\ref\Entities.dll
+C:\Users\moc\Documents\Thiago\StopHereProject(PRINCIPAL)\Entities\obj\Debug\net5.0\Entities.pdb
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject(PRINCIPAL)\Entities\bin\Debug\net5.0\Entities.deps.json
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject(PRINCIPAL)\Entities\bin\Debug\net5.0\Entities.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject(PRINCIPAL)\Entities\bin\Debug\net5.0\ref\Entities.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject(PRINCIPAL)\Entities\bin\Debug\net5.0\Entities.pdb
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject(PRINCIPAL)\Entities\obj\Debug\net5.0\Entities.csprojAssemblyReference.cache
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject(PRINCIPAL)\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject(PRINCIPAL)\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject(PRINCIPAL)\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject(PRINCIPAL)\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject(PRINCIPAL)\Entities\obj\Debug\net5.0\Entities.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject(PRINCIPAL)\Entities\obj\Debug\net5.0\ref\Entities.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereProject(PRINCIPAL)\Entities\obj\Debug\net5.0\Entities.pdb
+C:\Users\moc\Documents\Thiago\StopHereProject\Entities\bin\Debug\net5.0\Entities.deps.json
+C:\Users\moc\Documents\Thiago\StopHereProject\Entities\bin\Debug\net5.0\Entities.dll
+C:\Users\moc\Documents\Thiago\StopHereProject\Entities\bin\Debug\net5.0\ref\Entities.dll
+C:\Users\moc\Documents\Thiago\StopHereProject\Entities\bin\Debug\net5.0\Entities.pdb
+C:\Users\moc\Documents\Thiago\StopHereProject\Entities\obj\Debug\net5.0\Entities.csprojAssemblyReference.cache
+C:\Users\moc\Documents\Thiago\StopHereProject\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moc\Documents\Thiago\StopHereProject\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+C:\Users\moc\Documents\Thiago\StopHereProject\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+C:\Users\moc\Documents\Thiago\StopHereProject\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\moc\Documents\Thiago\StopHereProject\Entities\obj\Debug\net5.0\Entities.dll
+C:\Users\moc\Documents\Thiago\StopHereProject\Entities\obj\Debug\net5.0\ref\Entities.dll
+C:\Users\moc\Documents\Thiago\StopHereProject\Entities\obj\Debug\net5.0\Entities.pdb
+C:\C#\Trabalhos\StopHereProject\Entities\bin\Debug\net5.0\Entities.deps.json
+C:\C#\Trabalhos\StopHereProject\Entities\bin\Debug\net5.0\Entities.dll
+C:\C#\Trabalhos\StopHereProject\Entities\bin\Debug\net5.0\ref\Entities.dll
+C:\C#\Trabalhos\StopHereProject\Entities\bin\Debug\net5.0\Entities.pdb
+C:\C#\Trabalhos\StopHereProject\Entities\obj\Debug\net5.0\Entities.csproj.AssemblyReference.cache
+C:\C#\Trabalhos\StopHereProject\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Trabalhos\StopHereProject\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+C:\C#\Trabalhos\StopHereProject\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+C:\C#\Trabalhos\StopHereProject\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+C:\C#\Trabalhos\StopHereProject\Entities\obj\Debug\net5.0\Entities.dll
+C:\C#\Trabalhos\StopHereProject\Entities\obj\Debug\net5.0\ref\Entities.dll
+C:\C#\Trabalhos\StopHereProject\Entities\obj\Debug\net5.0\Entities.pdb
+C:\Users\moc\Desktop\StopHereProject\StopHereProject\Entities\bin\Debug\net5.0\Entities.deps.json
+C:\Users\moc\Desktop\StopHereProject\StopHereProject\Entities\bin\Debug\net5.0\Entities.dll
+C:\Users\moc\Desktop\StopHereProject\StopHereProject\Entities\bin\Debug\net5.0\ref\Entities.dll
+C:\Users\moc\Desktop\StopHereProject\StopHereProject\Entities\bin\Debug\net5.0\Entities.pdb
+C:\Users\moc\Desktop\StopHereProject\StopHereProject\Entities\obj\Debug\net5.0\Entities.csprojAssemblyReference.cache
+C:\Users\moc\Desktop\StopHereProject\StopHereProject\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moc\Desktop\StopHereProject\StopHereProject\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+C:\Users\moc\Desktop\StopHereProject\StopHereProject\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+C:\Users\moc\Desktop\StopHereProject\StopHereProject\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\moc\Desktop\StopHereProject\StopHereProject\Entities\obj\Debug\net5.0\Entities.dll
+C:\Users\moc\Desktop\StopHereProject\StopHereProject\Entities\obj\Debug\net5.0\ref\Entities.dll
+C:\Users\moc\Desktop\StopHereProject\StopHereProject\Entities\obj\Debug\net5.0\Entities.pdb
+C:\Users\moc\Documents\Guilherme\StopHereProject\Entities\bin\Debug\net5.0\Entities.deps.json
+C:\Users\moc\Documents\Guilherme\StopHereProject\Entities\bin\Debug\net5.0\Entities.dll
+C:\Users\moc\Documents\Guilherme\StopHereProject\Entities\bin\Debug\net5.0\ref\Entities.dll
+C:\Users\moc\Documents\Guilherme\StopHereProject\Entities\bin\Debug\net5.0\Entities.pdb
+C:\Users\moc\Documents\Guilherme\StopHereProject\Entities\obj\Debug\net5.0\Entities.csprojAssemblyReference.cache
+C:\Users\moc\Documents\Guilherme\StopHereProject\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moc\Documents\Guilherme\StopHereProject\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+C:\Users\moc\Documents\Guilherme\StopHereProject\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+C:\Users\moc\Documents\Guilherme\StopHereProject\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\moc\Documents\Guilherme\StopHereProject\Entities\obj\Debug\net5.0\Entities.dll
+C:\Users\moc\Documents\Guilherme\StopHereProject\Entities\obj\Debug\net5.0\ref\Entities.dll
+C:\Users\moc\Documents\Guilherme\StopHereProject\Entities\obj\Debug\net5.0\Entities.pdb
+C:\Users\moc\Documents\PROJETO\gui\Entities\bin\Debug\net5.0\Entities.deps.json
+C:\Users\moc\Documents\PROJETO\gui\Entities\bin\Debug\net5.0\Entities.dll
+C:\Users\moc\Documents\PROJETO\gui\Entities\bin\Debug\net5.0\ref\Entities.dll
+C:\Users\moc\Documents\PROJETO\gui\Entities\bin\Debug\net5.0\Entities.pdb
+C:\Users\moc\Documents\PROJETO\gui\Entities\obj\Debug\net5.0\Entities.csprojAssemblyReference.cache
+C:\Users\moc\Documents\PROJETO\gui\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moc\Documents\PROJETO\gui\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+C:\Users\moc\Documents\PROJETO\gui\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+C:\Users\moc\Documents\PROJETO\gui\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\moc\Documents\PROJETO\gui\Entities\obj\Debug\net5.0\Entities.dll
+C:\Users\moc\Documents\PROJETO\gui\Entities\obj\Debug\net5.0\ref\Entities.dll
+C:\Users\moc\Documents\PROJETO\gui\Entities\obj\Debug\net5.0\Entities.pdb
+C:\C#\Trabalhos\gui\Entities\bin\Debug\net5.0\Entities.deps.json
+C:\C#\Trabalhos\gui\Entities\bin\Debug\net5.0\Entities.dll
+C:\C#\Trabalhos\gui\Entities\bin\Debug\net5.0\ref\Entities.dll
+C:\C#\Trabalhos\gui\Entities\bin\Debug\net5.0\Entities.pdb
+C:\C#\Trabalhos\gui\Entities\obj\Debug\net5.0\Entities.csproj.AssemblyReference.cache
+C:\C#\Trabalhos\gui\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Trabalhos\gui\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+C:\C#\Trabalhos\gui\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+C:\C#\Trabalhos\gui\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+C:\C#\Trabalhos\gui\Entities\obj\Debug\net5.0\Entities.dll
+C:\C#\Trabalhos\gui\Entities\obj\Debug\net5.0\ref\Entities.dll
+C:\C#\Trabalhos\gui\Entities\obj\Debug\net5.0\Entities.pdb
+C:\Users\moc\Documents\PROJETO\gui11102021\Entities\bin\Debug\net5.0\Entities.deps.json
+C:\Users\moc\Documents\PROJETO\gui11102021\Entities\bin\Debug\net5.0\Entities.dll
+C:\Users\moc\Documents\PROJETO\gui11102021\Entities\bin\Debug\net5.0\ref\Entities.dll
+C:\Users\moc\Documents\PROJETO\gui11102021\Entities\bin\Debug\net5.0\Entities.pdb
+C:\Users\moc\Documents\PROJETO\gui11102021\Entities\obj\Debug\net5.0\Entities.csprojAssemblyReference.cache
+C:\Users\moc\Documents\PROJETO\gui11102021\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moc\Documents\PROJETO\gui11102021\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+C:\Users\moc\Documents\PROJETO\gui11102021\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+C:\Users\moc\Documents\PROJETO\gui11102021\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\moc\Documents\PROJETO\gui11102021\Entities\obj\Debug\net5.0\Entities.dll
+C:\Users\moc\Documents\PROJETO\gui11102021\Entities\obj\Debug\net5.0\ref\Entities.dll
+C:\Users\moc\Documents\PROJETO\gui11102021\Entities\obj\Debug\net5.0\Entities.pdb
+C:\Users\moc\Documents\Thiago\gui11102021\Entities\bin\Debug\net5.0\Entities.deps.json
+C:\Users\moc\Documents\Thiago\gui11102021\Entities\bin\Debug\net5.0\Entities.dll
+C:\Users\moc\Documents\Thiago\gui11102021\Entities\bin\Debug\net5.0\ref\Entities.dll
+C:\Users\moc\Documents\Thiago\gui11102021\Entities\bin\Debug\net5.0\Entities.pdb
+C:\Users\moc\Documents\Thiago\gui11102021\Entities\obj\Debug\net5.0\Entities.csprojAssemblyReference.cache
+C:\Users\moc\Documents\Thiago\gui11102021\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moc\Documents\Thiago\gui11102021\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+C:\Users\moc\Documents\Thiago\gui11102021\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+C:\Users\moc\Documents\Thiago\gui11102021\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\moc\Documents\Thiago\gui11102021\Entities\obj\Debug\net5.0\Entities.dll
+C:\Users\moc\Documents\Thiago\gui11102021\Entities\obj\Debug\net5.0\ref\Entities.dll
+C:\Users\moc\Documents\Thiago\gui11102021\Entities\obj\Debug\net5.0\Entities.pdb
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereEmAndamento\Entities\bin\Debug\net5.0\Entities.deps.json
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereEmAndamento\Entities\bin\Debug\net5.0\Entities.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereEmAndamento\Entities\bin\Debug\net5.0\ref\Entities.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereEmAndamento\Entities\bin\Debug\net5.0\Entities.pdb
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereEmAndamento\Entities\obj\Debug\net5.0\Entities.csprojAssemblyReference.cache
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereEmAndamento\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereEmAndamento\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereEmAndamento\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereEmAndamento\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereEmAndamento\Entities\obj\Debug\net5.0\Entities.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereEmAndamento\Entities\obj\Debug\net5.0\ref\Entities.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHereEmAndamento\Entities\obj\Debug\net5.0\Entities.pdb
+C:\C#\Trabalhos\StopHereFeriadoCodando\Entities\bin\Debug\net5.0\Entities.deps.json
+C:\C#\Trabalhos\StopHereFeriadoCodando\Entities\bin\Debug\net5.0\Entities.dll
+C:\C#\Trabalhos\StopHereFeriadoCodando\Entities\bin\Debug\net5.0\ref\Entities.dll
+C:\C#\Trabalhos\StopHereFeriadoCodando\Entities\bin\Debug\net5.0\Entities.pdb
+C:\C#\Trabalhos\StopHereFeriadoCodando\Entities\obj\Debug\net5.0\Entities.csproj.AssemblyReference.cache
+C:\C#\Trabalhos\StopHereFeriadoCodando\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Trabalhos\StopHereFeriadoCodando\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+C:\C#\Trabalhos\StopHereFeriadoCodando\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+C:\C#\Trabalhos\StopHereFeriadoCodando\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+C:\C#\Trabalhos\StopHereFeriadoCodando\Entities\obj\Debug\net5.0\Entities.dll
+C:\C#\Trabalhos\StopHereFeriadoCodando\Entities\obj\Debug\net5.0\ref\Entities.dll
+C:\C#\Trabalhos\StopHereFeriadoCodando\Entities\obj\Debug\net5.0\Entities.pdb
+C:\Users\moc\Downloads\StopHere-Final\StopHere-Final\Entities\bin\Debug\net5.0\Entities.deps.json
+C:\Users\moc\Downloads\StopHere-Final\StopHere-Final\Entities\bin\Debug\net5.0\Entities.dll
+C:\Users\moc\Downloads\StopHere-Final\StopHere-Final\Entities\bin\Debug\net5.0\ref\Entities.dll
+C:\Users\moc\Downloads\StopHere-Final\StopHere-Final\Entities\bin\Debug\net5.0\Entities.pdb
+C:\Users\moc\Downloads\StopHere-Final\StopHere-Final\Entities\obj\Debug\net5.0\Entities.csprojAssemblyReference.cache
+C:\Users\moc\Downloads\StopHere-Final\StopHere-Final\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moc\Downloads\StopHere-Final\StopHere-Final\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+C:\Users\moc\Downloads\StopHere-Final\StopHere-Final\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+C:\Users\moc\Downloads\StopHere-Final\StopHere-Final\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\moc\Downloads\StopHere-Final\StopHere-Final\Entities\obj\Debug\net5.0\Entities.dll
+C:\Users\moc\Downloads\StopHere-Final\StopHere-Final\Entities\obj\Debug\net5.0\ref\Entities.dll
+C:\Users\moc\Downloads\StopHere-Final\StopHere-Final\Entities\obj\Debug\net5.0\Entities.pdb
+C:\Users\moc\Desktop\StopHere-Final\Entities\bin\Debug\net5.0\Entities.deps.json
+C:\Users\moc\Desktop\StopHere-Final\Entities\bin\Debug\net5.0\Entities.dll
+C:\Users\moc\Desktop\StopHere-Final\Entities\bin\Debug\net5.0\ref\Entities.dll
+C:\Users\moc\Desktop\StopHere-Final\Entities\bin\Debug\net5.0\Entities.pdb
+C:\Users\moc\Desktop\StopHere-Final\Entities\obj\Debug\net5.0\Entities.csproj.AssemblyReference.cache
+C:\Users\moc\Desktop\StopHere-Final\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moc\Desktop\StopHere-Final\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+C:\Users\moc\Desktop\StopHere-Final\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+C:\Users\moc\Desktop\StopHere-Final\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\moc\Desktop\StopHere-Final\Entities\obj\Debug\net5.0\Entities.dll
+C:\Users\moc\Desktop\StopHere-Final\Entities\obj\Debug\net5.0\ref\Entities.dll
+C:\Users\moc\Desktop\StopHere-Final\Entities\obj\Debug\net5.0\Entities.pdb
+C:\Users\Sérgio\Desktop\StopHere-Final\Entities\bin\Debug\net5.0\Entities.deps.json
+C:\Users\Sérgio\Desktop\StopHere-Final\Entities\bin\Debug\net5.0\Entities.dll
+C:\Users\Sérgio\Desktop\StopHere-Final\Entities\bin\Debug\net5.0\ref\Entities.dll
+C:\Users\Sérgio\Desktop\StopHere-Final\Entities\bin\Debug\net5.0\Entities.pdb
+C:\Users\Sérgio\Desktop\StopHere-Final\Entities\obj\Debug\net5.0\Entities.csproj.AssemblyReference.cache
+C:\Users\Sérgio\Desktop\StopHere-Final\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sérgio\Desktop\StopHere-Final\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Sérgio\Desktop\StopHere-Final\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+C:\Users\Sérgio\Desktop\StopHere-Final\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Sérgio\Desktop\StopHere-Final\Entities\obj\Debug\net5.0\Entities.dll
+C:\Users\Sérgio\Desktop\StopHere-Final\Entities\obj\Debug\net5.0\ref\Entities.dll
+C:\Users\Sérgio\Desktop\StopHere-Final\Entities\obj\Debug\net5.0\Entities.pdb
+C:\Users\Sérgio\Desktop\StopHereFinal17102021\Entities\bin\Debug\net5.0\Entities.deps.json
+C:\Users\Sérgio\Desktop\StopHereFinal17102021\Entities\bin\Debug\net5.0\Entities.dll
+C:\Users\Sérgio\Desktop\StopHereFinal17102021\Entities\bin\Debug\net5.0\ref\Entities.dll
+C:\Users\Sérgio\Desktop\StopHereFinal17102021\Entities\bin\Debug\net5.0\Entities.pdb
+C:\Users\Sérgio\Desktop\StopHereFinal17102021\Entities\obj\Debug\net5.0\Entities.csproj.AssemblyReference.cache
+C:\Users\Sérgio\Desktop\StopHereFinal17102021\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sérgio\Desktop\StopHereFinal17102021\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Sérgio\Desktop\StopHereFinal17102021\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+C:\Users\Sérgio\Desktop\StopHereFinal17102021\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Sérgio\Desktop\StopHereFinal17102021\Entities\obj\Debug\net5.0\Entities.dll
+C:\Users\Sérgio\Desktop\StopHereFinal17102021\Entities\obj\Debug\net5.0\ref\Entities.dll
+C:\Users\Sérgio\Desktop\StopHereFinal17102021\Entities\obj\Debug\net5.0\Entities.pdb
+C:\Users\moc\Desktop\StopHereFinal17102021\Entities\bin\Debug\net5.0\Entities.deps.json
+C:\Users\moc\Desktop\StopHereFinal17102021\Entities\bin\Debug\net5.0\Entities.dll
+C:\Users\moc\Desktop\StopHereFinal17102021\Entities\bin\Debug\net5.0\ref\Entities.dll
+C:\Users\moc\Desktop\StopHereFinal17102021\Entities\bin\Debug\net5.0\Entities.pdb
+C:\Users\moc\Desktop\StopHereFinal17102021\Entities\obj\Debug\net5.0\Entities.csproj.AssemblyReference.cache
+C:\Users\moc\Desktop\StopHereFinal17102021\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moc\Desktop\StopHereFinal17102021\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+C:\Users\moc\Desktop\StopHereFinal17102021\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+C:\Users\moc\Desktop\StopHereFinal17102021\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\moc\Desktop\StopHereFinal17102021\Entities\obj\Debug\net5.0\Entities.dll
+C:\Users\moc\Desktop\StopHereFinal17102021\Entities\obj\Debug\net5.0\ref\Entities.dll
+C:\Users\moc\Desktop\StopHereFinal17102021\Entities\obj\Debug\net5.0\Entities.pdb
+C:\C#\Trabalhos\StopHere\StopHereFinal17102021\Entities\bin\Debug\net5.0\Entities.deps.json
+C:\C#\Trabalhos\StopHere\StopHereFinal17102021\Entities\bin\Debug\net5.0\Entities.dll
+C:\C#\Trabalhos\StopHere\StopHereFinal17102021\Entities\bin\Debug\net5.0\ref\Entities.dll
+C:\C#\Trabalhos\StopHere\StopHereFinal17102021\Entities\bin\Debug\net5.0\Entities.pdb
+C:\C#\Trabalhos\StopHere\StopHereFinal17102021\Entities\obj\Debug\net5.0\Entities.csproj.AssemblyReference.cache
+C:\C#\Trabalhos\StopHere\StopHereFinal17102021\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Trabalhos\StopHere\StopHereFinal17102021\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+C:\C#\Trabalhos\StopHere\StopHereFinal17102021\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+C:\C#\Trabalhos\StopHere\StopHereFinal17102021\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+C:\C#\Trabalhos\StopHere\StopHereFinal17102021\Entities\obj\Debug\net5.0\Entities.dll
+C:\C#\Trabalhos\StopHere\StopHereFinal17102021\Entities\obj\Debug\net5.0\ref\Entities.dll
+C:\C#\Trabalhos\StopHere\StopHereFinal17102021\Entities\obj\Debug\net5.0\Entities.pdb
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHere\StopHereFinal17102021\Entities\bin\Debug\net5.0\Entities.deps.json
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHere\StopHereFinal17102021\Entities\bin\Debug\net5.0\Entities.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHere\StopHereFinal17102021\Entities\bin\Debug\net5.0\ref\Entities.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHere\StopHereFinal17102021\Entities\bin\Debug\net5.0\Entities.pdb
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHere\StopHereFinal17102021\Entities\obj\Debug\net5.0\Entities.csprojAssemblyReference.cache
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHere\StopHereFinal17102021\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHere\StopHereFinal17102021\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHere\StopHereFinal17102021\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHere\StopHereFinal17102021\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHere\StopHereFinal17102021\Entities\obj\Debug\net5.0\Entities.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHere\StopHereFinal17102021\Entities\obj\Debug\net5.0\ref\Entities.dll
+C:\Users\Meu computador\Documents\Radunz@2021\Entra21\STOPHERE\StopHere\StopHereFinal17102021\Entities\obj\Debug\net5.0\Entities.pdb
+C:\C#\Trabalhos\StopHereDiaDaFormatura\Entities\bin\Debug\net5.0\Entities.deps.json
+C:\C#\Trabalhos\StopHereDiaDaFormatura\Entities\bin\Debug\net5.0\Entities.dll
+C:\C#\Trabalhos\StopHereDiaDaFormatura\Entities\bin\Debug\net5.0\ref\Entities.dll
+C:\C#\Trabalhos\StopHereDiaDaFormatura\Entities\bin\Debug\net5.0\Entities.pdb
+C:\C#\Trabalhos\StopHereDiaDaFormatura\Entities\obj\Debug\net5.0\Entities.csproj.AssemblyReference.cache
+C:\C#\Trabalhos\StopHereDiaDaFormatura\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Trabalhos\StopHereDiaDaFormatura\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+C:\C#\Trabalhos\StopHereDiaDaFormatura\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+C:\C#\Trabalhos\StopHereDiaDaFormatura\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+C:\C#\Trabalhos\StopHereDiaDaFormatura\Entities\obj\Debug\net5.0\Entities.dll
+C:\C#\Trabalhos\StopHereDiaDaFormatura\Entities\obj\Debug\net5.0\ref\Entities.dll
+C:\C#\Trabalhos\StopHereDiaDaFormatura\Entities\obj\Debug\net5.0\Entities.pdb
+C:\Users\Matheus\Desktop\StopHereDiaDaFormatura\StopHereDiaDaFormatura\Entities\bin\Debug\net5.0\Entities.deps.json
+C:\Users\Matheus\Desktop\StopHereDiaDaFormatura\StopHereDiaDaFormatura\Entities\bin\Debug\net5.0\Entities.dll
+C:\Users\Matheus\Desktop\StopHereDiaDaFormatura\StopHereDiaDaFormatura\Entities\bin\Debug\net5.0\ref\Entities.dll
+C:\Users\Matheus\Desktop\StopHereDiaDaFormatura\StopHereDiaDaFormatura\Entities\bin\Debug\net5.0\Entities.pdb
+C:\Users\Matheus\Desktop\StopHereDiaDaFormatura\StopHereDiaDaFormatura\Entities\obj\Debug\net5.0\Entities.csproj.AssemblyReference.cache
+C:\Users\Matheus\Desktop\StopHereDiaDaFormatura\StopHereDiaDaFormatura\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Desktop\StopHereDiaDaFormatura\StopHereDiaDaFormatura\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Matheus\Desktop\StopHereDiaDaFormatura\StopHereDiaDaFormatura\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+C:\Users\Matheus\Desktop\StopHereDiaDaFormatura\StopHereDiaDaFormatura\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\StopHereDiaDaFormatura\StopHereDiaDaFormatura\Entities\obj\Debug\net5.0\Entities.dll
+C:\Users\Matheus\Desktop\StopHereDiaDaFormatura\StopHereDiaDaFormatura\Entities\obj\Debug\net5.0\ref\Entities.dll
+C:\Users\Matheus\Desktop\StopHereDiaDaFormatura\StopHereDiaDaFormatura\Entities\obj\Debug\net5.0\Entities.pdb
+C:\Users\Fabia\Downloads\StopHereDiaDaFormatura\StopHereDiaDaFormatura\Entities\bin\Debug\net5.0\Entities.deps.json
+C:\Users\Fabia\Downloads\StopHereDiaDaFormatura\StopHereDiaDaFormatura\Entities\bin\Debug\net5.0\Entities.dll
+C:\Users\Fabia\Downloads\StopHereDiaDaFormatura\StopHereDiaDaFormatura\Entities\bin\Debug\net5.0\ref\Entities.dll
+C:\Users\Fabia\Downloads\StopHereDiaDaFormatura\StopHereDiaDaFormatura\Entities\bin\Debug\net5.0\Entities.pdb
+C:\Users\Fabia\Downloads\StopHereDiaDaFormatura\StopHereDiaDaFormatura\Entities\obj\Debug\net5.0\Entities.csprojAssemblyReference.cache
+C:\Users\Fabia\Downloads\StopHereDiaDaFormatura\StopHereDiaDaFormatura\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabia\Downloads\StopHereDiaDaFormatura\StopHereDiaDaFormatura\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Fabia\Downloads\StopHereDiaDaFormatura\StopHereDiaDaFormatura\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+C:\Users\Fabia\Downloads\StopHereDiaDaFormatura\StopHereDiaDaFormatura\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Fabia\Downloads\StopHereDiaDaFormatura\StopHereDiaDaFormatura\Entities\obj\Debug\net5.0\Entities.dll
+C:\Users\Fabia\Downloads\StopHereDiaDaFormatura\StopHereDiaDaFormatura\Entities\obj\Debug\net5.0\ref\Entities.dll
+C:\Users\Fabia\Downloads\StopHereDiaDaFormatura\StopHereDiaDaFormatura\Entities\obj\Debug\net5.0\Entities.pdb

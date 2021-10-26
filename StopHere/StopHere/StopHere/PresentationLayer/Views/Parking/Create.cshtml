@@ -1,0 +1,376 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html @*:class="{ 'theme-dark': dark }"*@ x-data="data()" lang="pt-br">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>StopHere - Cadastrar Vaga</title>
+    <link href="~/css1/bootstrap.min.css"
+          rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
+          rel="stylesheet" />
+    <link href="~/assets/css/tailwind.output.css"
+          rel="stylesheet" />
+    <link href="https://www.w3schools.com/w3css/4/w3.css"
+          rel="stylesheet" />
+    <link type="imagex/png" href="/img1/Icons/stophere_icon.ico"
+          rel="shortcut icon" />
+    <script src="~/assets/js/CarroselFotosVagas.js"
+            defer></script>
+    <script src="~/assets/js/ValidacaoParking.js"
+            defer></script>
+    <style>
+        .mySlides {
+            display: none
+        }
+
+        .w3-left, .w3-right, .w3-badge {
+            cursor: pointer
+        }
+
+        .w3-badge {
+            height: 13px;
+            width: 13px;
+            padding: 0
+        }
+
+        #PreviewFotoVaga1 {
+            margin-top: 15%;
+            width: 300px;
+            height: 300px;
+            background-color: #eee;
+            border: 4px solid rgb(128 128 128);
+            cursor: pointer;
+            transition: background .3s;
+        }
+
+        #PreviewFotoVaga2 {
+            margin-top: 15%;
+            width: 300px;
+            height: 300px;
+            background-color: #eee;
+            border: 4px solid rgb(128 128 128);
+            cursor: pointer;
+            transition: background .3s;
+        }
+
+        #PreviewFotoVaga3 {
+            margin-top: 15%;
+            width: 300px;
+            height: 300px;
+            background-color: #eee;
+            border: 4px solid rgb(128 128 128);
+            cursor: pointer;
+            transition: background .3s;
+        }
+
+        input[type='file'] {
+            display: none;
+        }
+
+        #title {
+            color: black;
+            margin-top: 30px;
+        }
+
+        #buttonCadastrarEstacionamento {
+            border-radius: 5px;
+            background-color: #95cd2f;
+            border: none;
+            font-family: #373e42;
+            color: black;
+            text-align: center;
+            font-size: 16px;
+            font-weight: 600;
+            padding: 8px;
+            margin-right: 5px;
+            margin-top: 40px;
+            margin-bottom: 25px;
+            align-self: center;
+        }
+    </style>
+</head>
+<body>
+    <form id="formulario" asp-action="Create" enctype="multipart/form-data" method="post">
+        <div class="flex items-center min-h-screen p-6 bg-gray-50 dark:bg-gray-900">
+            <div class="flex-1 h-full max-w-4xl mx-auto overflow-hidden bg-white rounded-lg shadow-xl dark:bg-gray-800">
+                <h1 class="mb-4 text-xl py-3 font-bold text-center text-gray-700 dark:text-gray-200" id="title">
+                    Cadastre sua vaga nos campos abaixo
+                </h1>
+                <div class="flex flex-col overflow-y-auto md:flex-row">
+                    <div class="flex align-items-lg-start justify-center p-6 sm:p-12 md:w-1/2">
+                        <div class="w-full">
+                            <!-- Campo CEP -->
+                            <label class="block mt-4 text-sm">
+                                <span class="text-gray-700 dark:text-gray-400">CEP</span>
+                                <input id="CEP" name="CEP" class="block w-full mt-1 text-sm bg-gray-50 dark:border-gray-600 dark:bg-gray-700 focus:border-gray-500 focus:outline-none focus:shadow-outline-gray dark:text-gray-300 dark:focus:shadow-outline-gray form-input"
+                                       placeholder="Dígite seu CEP" onblur="ValidaCEP()" />
+                                <span id="erroValidacaoCep" class="text-xs text-red-600 dark:text-red-400"></span>
+                            </label>
+                            <!-- Campo Cidade -->
+                            <label class="block mt-4 text-sm">
+                                <span class="text-gray-700 dark:text-gray-400">Cidade</span>
+                                <input id="Cidade" name="Cidade" class="block w-full mt-1 text-sm bg-gray-50 dark:border-gray-600 dark:bg-gray-700 focus:border-gray-500 focus:outline-none focus:shadow-outline-gray dark:text-gray-300 dark:focus:shadow-outline-gray form-input"
+                                       placeholder="Dígite sua cidade" onblur="ValidaCidade()" />
+                                <span id="erroValidacaoCidade" class="text-xs text-red-600 dark:text-red-400"></span>
+                            </label>
+                            <!-- Campo Bairro -->
+                            <label class="block mt-4 text-sm">
+                                <span class="text-gray-700 dark:text-gray-400">Bairro</span>
+                                <input id="Bairro" name="Bairro" class="block w-full mt-1 text-sm bg-gray-50 dark:border-gray-600 dark:bg-gray-700 focus:border-gray-500 focus:outline-none focus:shadow-outline-gray dark:text-gray-300 dark:focus:shadow-outline-gray form-input"
+                                       placeholder="Dígite seu bairro" onblur="ValidaBairro()" />
+                                <span id="erroValidacaoBairro" class="text-xs text-red-600 dark:text-red-400"></span>
+                            </label>
+                            <!-- Campo Endereço -->
+                            <label class="block mt-4 text-sm">
+                                <span class="text-gray-700 dark:text-gray-400">Endereço</span>
+                                <input id="Rua" name="Rua" class="block w-full mt-1 text-sm bg-gray-50 dark:border-gray-600 dark:bg-gray-700 focus:border-gray-500 focus:outline-none focus:shadow-outline-gray dark:text-gray-300 dark:focus:shadow-outline-gray form-input"
+                                       placeholder="Dígite seu endereço" onblur="ValidaRua()" />
+                                <span id="erroValidacaoRua" class="text-xs text-red-600 dark:text-red-400"></span>
+                            </label>
+                            <!-- Campo Número -->
+                            <label class="block mt-4 text-sm">
+                                <span class="text-gray-700 dark:text-gray-400">Número</span>
+                                <input id="Numero" name="Numero" class="block w-full mt-1 text-sm bg-gray-50 dark:border-gray-600 dark:bg-gray-700 focus:border-gray-500 focus:outline-none focus:shadow-outline-gray dark:text-gray-300 dark:focus:shadow-outline-gray form-input"
+                                       placeholder="Dígite o número do endereço" onblur="ValidaNumero()" />
+                                <span id="erroValidacaoNumero" class="text-xs text-red-600 dark:text-red-400"></span>
+                            </label>
+                            <!-- Campo Complemento -->
+                            <label class="block mt-4 text-sm">
+                                <span class="text-gray-700 dark:text-gray-400">Complemento</span>
+                                <input id="Complemento" name="Complemento" class="block w-full mt-1 text-sm bg-gray-50 dark:border-gray-600 dark:bg-gray-700 focus:border-gray-500 focus:outline-none focus:shadow-outline-gray dark:text-gray-300 dark:focus:shadow-outline-gray form-input"
+                                       placeholder="EX.: Fundos" onblur="ValidaComplemento()" />
+                                <span id="erroValidacaoComplemento" class="text-xs text-red-600 dark:text-red-400"></span>
+                            </label>
+                            <!-- Campo Estado -->
+                            <label class="block mt-4 text-sm">
+                                <span class="text-gray-700 dark:text-gray-400">Estado</span>
+                                <select id="UF" name="UF" onblur="ValidaUF(UF)" class="block w-full mt-1 text-sm bg-gray-50 dark:border-gray-600 dark:bg-gray-700 focus:border-gray-500 focus:outline-none focus:shadow-outline-gray dark:text-gray-300 dark:focus:shadow-outline-gray form-input">
+                                    @{
+                                        string[] valoresUF = Enum.GetNames(typeof(Entities.Enums.UF));
+                                    }
+                                    @for (int i = 0; i < valoresUF.Length; i++)
+                                    {
+                                        <option value="@i">@valoresUF[i].Replace("_", " ")</option>
+                                    }
+
+                                </select>
+                                <span id="erroValidacaoUf" class="text-xs text-red-600 dark:text-red-400"></span>
+                            </label>
+                            <!-- Campo Abre -->
+                            <label class="block mt-4 text-sm">
+                                <span class="text-gray-700 dark:text-gray-400">Horário de abertura</span>
+                                <input id="Abre" name="Abre" class="block w-full mt-1 text-sm bg-gray-50 dark:border-gray-600 dark:bg-gray-700 focus:border-gray-500 focus:outline-none focus:shadow-outline-gray dark:text-gray-300 dark:focus:shadow-outline-gray form-input"
+                                       placeholder="Horário de abertura"
+                                       type="time" />
+                                <span id="erroValidacaoAbre" class="text-xs text-red-600 dark:text-red-400"></span>
+                            </label>
+                            <!-- Campo Fecha -->
+                            <label class="block mt-4 text-sm">
+                                <span class="text-gray-700 dark:text-gray-400">Horário de fechamento</span>
+                                <input id="Fecha" name="Fecha" class="block w-full mt-1 text-sm bg-gray-50 dark:border-gray-600 dark:bg-gray-700 focus:border-gray-500 focus:outline-none focus:shadow-outline-gray dark:text-gray-300 dark:focus:shadow-outline-gray form-input"
+                                       placeholder="Horário de encerramento"
+                                       type="time" />
+                                <span id="erroValidacaoFecha" class="text-xs text-red-600 dark:text-red-400"></span>
+                            </label>
+                            <!-- Campo Dias Aberto -->
+                            <label class="block mt-4 text-sm">
+                                <span class="text-gray-700 dark:text-gray-400">Dias Disponíveis</span>
+                                <select id="DiasDisponiveis" multiple="multiple" name="DiasDisponiveis" placeholder="Dias Disponíveis" onblur="ValidaDiasDisponiveis()" class="block w-full mt-1 text-sm dark:border-gray-600 dark:bg-gray-700 focus:border-gray-500 focus:outline-none focus:shadow-outline-gray dark:text-gray-300 dark:focus:shadow-outline-gray form-input">
+                                    @{
+                                        string[] dias = Enum.GetNames(typeof(Entities.Enums.DaysOfWeek));
+                                    }
+                                    @for (int i = 0; i < dias.Length; i++)
+                                    {
+                                        <option value="@Math.Pow(2,i)">@dias[i]</option>
+                                    }
+
+                                </select>
+                                <span id="erroValidacaoDiasDisponiveis" class="text-xs text-red-600 dark:text-red-400"></span>
+                            </label>
+                            <!-- Campo Valor -->
+                            <label class="block mt-4 text-sm">
+                                <span class="text-gray-700 dark:text-gray-400">Valor</span>
+                                <input id="Valor" name="Valor" class="block w-full mt-1 text-sm bg-gray-50 dark:border-gray-600 dark:bg-gray-700 focus:border-gray-500 focus:outline-none focus:shadow-outline-gray dark:text-gray-300 dark:focus:shadow-outline-gray form-input"
+                                       placeholder="Valor" onblur="ValidaValor()" />
+                                <span id="erroValidacaoValor" class="text-xs text-red-600 dark:text-red-400"></span>
+                            </label>
+                            <!-- Campo Coberta -->
+                            <div class="flex mt-6 text-sm">
+                                <label class="flex items-center dark:text-gray-400">
+                                    <input type="checkbox" name="IsCoberta" class="form-checkbox text-gray-800 focus:border-gray-500 focus:outline-none focus:shadow-outline-gray dark:focus:shadow-outline-gray">
+                                    <span class="ml-2">
+                                        Vaga Coberta
+                                    </span>
+                                </label>
+                            </div>
+                            <!-- Campo Vigiada -->
+                            <div class="flex mt-6 text-sm">
+                                <label class="flex items-center dark:text-gray-400">
+                                    <input type="checkbox" name="IsVigiada" class="form-checkbox text-gray-800 focus:border-gray-500 focus:outline-none focus:shadow-outline-gray dark:focus:shadow-outline-gray">
+                                    <span class="ml-2">
+                                        Vaga Vigiada
+                                    </span>
+                                </label>
+                            </div>
+                            <!-- Campo Deixar Chave -->
+                            <div class="flex mt-6 text-sm">
+                                <label class="flex items-center dark:text-gray-400">
+                                    <input type="checkbox" name="DeixarChave" class="form-checkbox text-gray-800 focus:border-gray-500 focus:outline-none focus:shadow-outline-gray dark:focus:shadow-outline-gray">
+                                    <span class="ml-2">
+                                        Precisa Deixar Chave?
+                                    </span>
+                                </label>
+                            </div>
+                            <!-- Campo Quantidade de Vagas a Serem Criadas -->
+                            <label class="block mt-4 text-sm">
+                                <span class="text-gray-700 dark:text-gray-400">Número de vagas</span>
+                                <input id="Quantidade" name="Quantidade" class="block w-full mt-1 text-sm bg-gray-50 dark:border-gray-600 dark:bg-gray-700 focus:border-gray-500 focus:outline-none focus:shadow-outline-gray dark:text-gray-300 dark:focus:shadow-outline-gray form-input"
+                                       placeholder="Quantidade de vagas que deseja criar?" onblur="ValidaQuantidade()" />
+                                <span id="erroValidacaoQuantidade" class="text-xs text-red-600 dark:text-red-400"></span>
+                            </label>
+                        </div>
+                    </div>
+                    <div class="flex align-items-lg-start p-6 sm:p-12 md:w-1/2">
+                        <!-- Fotos com preview de upload, estilo carrossel -->
+                        <div class="w3-content w3-display-container" style="max-width:300px" title="Clique aqui para adicionar fotos da sua vaga">
+                            <img class="mySlides" src="~/Fotos/DefaultSemFoto/FotoDefaultCadastroEstacionamento.jpg" style="width:100%" id="PreviewFotoVaga1" name="PreviewFotoVaga1">
+                            <img class="mySlides" src="~/Fotos/DefaultSemFoto/FotoDefaultCadastroEstacionamento.jpg" style="width:100%" id="PreviewFotoVaga2" name="PreviewFotoVaga2">
+                            <img class="mySlides" src="~/Fotos/DefaultSemFoto/FotoDefaultCadastroEstacionamento.jpg" style="width:100%" id="PreviewFotoVaga3" name="PreviewFotoVaga3">
+                            <div class="w3-center w3-container w3-section w3-large w3-text-white w3-display-bottommiddle" style="width:100%">
+                                <div class="w3-left w3-hover-text-khaki text-black" onclick="plusDivs(-1)">❮</div>
+                                <div class="w3-right w3-hover-text-khaki text-black" onclick="plusDivs(1)">❯</div>
+                                <span class="w3-badge demo w3-border  w3-transparent w3-hover-white" onclick="currentDiv(1)"></span>
+                                <span class="w3-badge demo w3-border  w3-transparent w3-hover-white" onclick="currentDiv(2)"></span>
+                                <span class="w3-badge demo w3-border  w3-transparent w3-hover-white" onclick="currentDiv(3)"></span>
+                            </div>
+                        </div>
+                        <input type="file" id="FotoVaga1" name="FotoVaga1" accept="image/*">
+                        <input type="file" id="FotoVaga2" name="FotoVaga2" accept="image/*">
+                        <input type="file" id="FotoVaga3" name="FotoVaga3" accept="image/*">
+                    </div>
+                </div>
+                <!--Botão Cadastrar -->
+                <div class="flex justify-center p-4 m-2">
+                    <input id="buttonCadastrarEstacionamento" value="Cadastrar" type="button" onclick="ValidaFormulario()" class="block col-6 px-4 py-2 mt-4 text-sm font-medium leading-5 text-center transition-colors duration-150 bg-purple-600 border border-transparent rounded-lg active:bg-purple-600 hover:bg-purple-700 focus:outline-none focus:shadow-outline-purple" />
+                </div>
+            </div>
+        </div>
+        <!--Caixa de aviso quando ocorrer erro (MODAL)-->
+        @if (ViewBag.Error != null)
+        {
+            <div class="container justify-center">
+                <!-- Modal -->
+                <div class="modal show" id="myModal" role="dialog">
+                    <div class="modal-dialog modal-dialog-centered modal-lg">
+                        <!-- Modal content-->
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                <h4 class="modal-title">Atenção!</h4>
+                            </div>
+                            <div class="modal-body">
+                                <p>@ViewBag.Error</p>
+                            </div>
+                            <div class="modal-footer">
+                                <button type="button" class="block w-full px-4 py-2 mt-4 text-sm font-medium leading-5 text-center text-white transition-colors duration-150 bg-purple-600 border border-transparent rounded-lg active:bg-purple-600 hover:bg-purple-700 focus:outline-none focus:shadow-outline-purple" data-dismiss="modal">Fechar</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+        <script src="~/assets/js/init-alpine.js"></script>
+    </form>
+    <script src="~/js1/jquery-3.4.1.min.js"></script>
+    <script src="~/js1/bootstrap.min.js"></script>
+    <!--Habilita tela de mensagem de erro -->
+    @if (ViewBag.Error != null)
+    {
+        <script type="text/javascript">
+            $(window).on('load', function () {
+                var delayMs = 500; // Delay in milliseconds.
+
+                setTimeout(function () {
+                    $('#myModal').modal('show');
+                }, delayMs);
+            });
+        </script>
+    }
+    <script>
+
+        $(document).ready(function () {
+
+            const ufs = new Array("Selecione uma UF", "AC", "AL", "AP", "AM", "BA", "CE", "DF", "ES", "GO", "MA", "MT", "MS", "MG", "PA", "PB", "PR", "PE", "PI", "RJ", "RN", "RS", "RO", "RR", "SC", "SP", "SE", "TO");
+
+            function limpa_formulário_cep() {
+                // Limpa valores do formulário de CEP.
+                $("#rua").val("");
+                $("#bairro").val("");
+                $("#cidade").val("");
+                $("#uf").val("");
+                $("#ibge").val("");
+            }
+
+            // Quando o campo CEP perde o foco.
+            $("#CEP").blur(function () {
+
+                // Nova variável "CEP" somente com dígitos.
+                var cep = $(this).val().replace(/\D/g, '');
+
+                // Verifica se campo CEP possui valor informado.
+                if (cep != "") {
+
+                    // Expressão regular para validar o CEP.
+                    var validacep = /^[0-9]{8}$/;
+
+                    // Válida o formato do CEP.
+                    if (validacep.test(cep)) {
+
+                        // Preenche os campos com "..." enquanto consulta webservice.
+                        $("#Rua").val("...");
+                        $("#Bairro").val("...");
+                        $("#Cidade").val("...");
+                        $("#UF").val("...");
+
+                        // Consulta o webservice viacep.com.br/
+                        $.getJSON("https://viacep.com.br/ws/" + cep + "/json/?callback=?", function (dados) {
+
+                            if (!("erro" in dados)) {
+                                // Atualiza os campos com os valores da consulta.
+                                $("#Rua").val(dados.logradouro);
+                                $("#Bairro").val(dados.bairro);
+                                $("#Cidade").val(dados.localidade);
+                                $("#UF").val(dados.uf);
+
+                                for (var i = 0; i < ufs.length; i++) {
+                                    if (ufs[i] == dados.uf) {
+                                        $("#UF").val(i);
+                                    }
+                                }
+                            } // end if.
+                            else {
+                                // CEP pesquisado não foi encontrado.
+                                limpa_formulário_cep();
+                                alert("CEP não encontrado.");
+                            }
+                        });
+                    } // end if.
+                    else {
+                        // CEP é inválido.
+                        limpa_formulário_cep();
+                        alert("Formato de CEP inválido.");
+                    }
+                } // end if.
+                else {
+                    // CEP sem valor, limpa formulário.
+                    limpa_formulário_cep();
+                }
+            });
+        });
+    </script>
+</body>
+</html>

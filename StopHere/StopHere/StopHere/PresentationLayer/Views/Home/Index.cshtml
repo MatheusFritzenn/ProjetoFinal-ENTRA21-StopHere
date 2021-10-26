@@ -1,0 +1,147 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>StopHere - Home</title>
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400"
+          rel="stylesheet" />
+    <link href="css1/bootstrap.min.css"
+          rel="stylesheet" />
+    <link href="fontawesome/css/all.min.css"
+          rel="stylesheet" />
+    <link href="css1/templatemo-diagoona.css"
+          rel="stylesheet" />
+    <link type="imagex/png" href="/img1/Icons/stophere_icon.ico"
+          rel="shortcut icon" />
+    <script src="js1/bootstrap.min.js"
+            defer></script>
+    <script src="js1/jquery.backstretch.min.js"
+            defer></script>
+    <script src="js1/templatemo-script.js"
+            defer></script>
+    <style>
+        #imgEntrar {
+            position: fixed;
+            right: 55px;
+            top: 40px;
+            width: 43px;
+            height: 43px;
+        }
+
+        #imgCriarConta {
+            position: fixed;
+            right: 115px;
+            top: 40px;
+            width: 40px;
+            height: 40px;
+        }
+
+        #imgLogo {
+            left: 30px;
+            top: 30px;
+            width: 120px;
+            height: 120px;
+        }
+
+        #buttonCreate {
+            background-color: #95cd2f;
+            color: black;
+            border-radius: 5px;
+            font-weight: 600;
+            margin-left: 200px;
+            margin-top: 30px;
+        }
+
+        #text {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: normal;
+            font-weight: 500;
+            text-indent: 50px;
+            text-align: justify;
+            letter-spacing: 1px;
+            text-shadow: 1px 1px 3px black;
+        }
+
+        #title {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-weight: 500;
+            letter-spacing: 1px;
+            text-shadow: 1px 1px 3px black;
+        }
+    </style>
+</head>
+<body>
+    <div class="tm-container">
+        <div>
+            <div class="tm-row pt-5">
+                <!-- Logo -->
+                <div class="tm-col-left">
+                    <div class="tm-site-header">
+                        <img src="~/img1/stophere-logo.png" alt="Logo StopHere" id="imgLogo" />
+                        <div class="media-body">
+                        </div>
+                    </div>
+                </div>
+                <!-- Ícone Criar Conta -->
+                <div>
+                    <p>
+                        <a href="/User/ChooseTypePerson/">
+                            <img src="~/img1/Icons/createaccount-icon.png" alt="Criar Conta" title="Criar Conta" id="imgCriarConta" />
+                        </a>
+                    </p>
+                </div>
+                <!-- Ícone Entrar -->
+                <div>
+                    <p>
+                        <a href="/User/Login/">
+                            <img src="~/img1/Icons/login-icon.png" alt="Entrar" title="Entrar" id="imgEntrar" />
+                        </a>
+                    </p>
+                </div>
+
+            </div>
+        </div>
+        <div class="tm-row">
+            <div class="tm-col-left"></div>
+            <main class="tm-col-right" style="padding-left: 30px;">
+                <section class="tm-content" style="margin-top: -65px;">
+                    <!-- Título -->
+                    <h2 class="mb-3 tm-content-title" id="title">Quem somos?</h2>
+                    <!-- Texto -->
+                    <p id="text">O StopHere é um serviço que foi criado com finalidade de trazer facilidade e praticidade para você que busca um local para estacionar seu veículo e também para você que quer disponibilizar seu espaço para locação.</p>
+                    <p id="text">
+                        Com o StopHere, trazemos a você vagas próximas ao seu compromisso ou evento para locação, contendo todas as informações sobre o local que melhor lhe atender.
+                    </p>
+                    <p id="text">
+                        Crie sua conta e encontre a vaga mais próxima ou disponibilize uma vaga, você escolhe!
+                    </p>
+                    <!-- Botão Crie Sua Conta -->
+                    <!--<div>
+                        <a href="../User/ChooseTypePerson/" class="btn btn-primary" id="buttonCreate">Crie sua conta</a>
+                    </div>-->
+                </section>
+            </main>
+        </div>
+        <div class="tm-row">
+            <div class="tm-col-left text-center">
+                <ul class="tm-bg-controls-wrapper">
+                    <li class="tm-bg-control active" data-id="0"></li>
+                    <li class="tm-bg-control" data-id="1"></li>
+                    <li class="tm-bg-control" data-id="2"></li>
+                </ul>
+            </div>
+        </div>
+        <div class="tm-bg">
+            <div class="tm-bg-left"></div>
+            <div class="tm-bg-right"></div>
+        </div>
+    </div>
+    <script src="js1/jquery-3.4.1.min.js"></script>
+</body>
+</html>
